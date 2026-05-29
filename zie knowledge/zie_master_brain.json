@@ -1600,7 +1600,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 2,
         "weight_capacity_kg": 100
       },
@@ -1692,7 +1692,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -1773,7 +1773,7 @@
         "GOLS Certified"
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -1845,7 +1845,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 100
       },
@@ -1937,7 +1937,7 @@
         "CertiPUR-US Certified"
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 120
       },
@@ -2024,7 +2024,7 @@
         "Hypoallergenic"
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -2094,7 +2094,7 @@
         "Hypoallergenic"
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -2184,7 +2184,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -2249,7 +2249,7 @@
       "proprietary_tech": [],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -2342,7 +2342,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 100
       },
@@ -2433,7 +2433,7 @@
         "GOLS Certified"
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -2504,7 +2504,7 @@
         "Hypoallergenic"
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -2582,7 +2582,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 100
       },
@@ -2685,7 +2685,7 @@
         "OEKO-TEX"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 150
       },
@@ -2802,7 +2802,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -2905,7 +2905,7 @@
         "OEKO-TEX Standard 100"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 120
       },
@@ -3006,7 +3006,7 @@
         "OEKO-TEX Standard 100"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 5,
         "weight_capacity_kg": 300
       },
@@ -3112,7 +3112,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 10
       },
       "pricing": [
@@ -3226,7 +3226,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -3328,7 +3328,7 @@
       "proprietary_tech": [],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -3436,7 +3436,7 @@
       "proprietary_tech": [],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 100
       },
@@ -3522,7 +3522,7 @@
         "Colored with AZO-free dyes"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -3585,7 +3585,7 @@
       "proprietary_tech": [],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -3655,7 +3655,7 @@
         "Oeko-Tex certified"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -3743,7 +3743,7 @@
         "AZO-free dyes"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -3811,7 +3811,7 @@
         "OEKO-TEX Standard 100"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -3888,7 +3888,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4027,7 +4027,7 @@
         "Coloured with AZO-free dyes"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4217,7 +4217,7 @@
         "Oeko-Tex Certified"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4288,7 +4288,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4376,7 +4376,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4454,7 +4454,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4525,7 +4525,7 @@
         "Hypoallergenic"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4617,7 +4617,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4691,7 +4691,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4772,7 +4772,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4850,7 +4850,7 @@
       ],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4894,7 +4894,7 @@
       ],
       "proprietary_tech": [],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -4964,7 +4964,7 @@
         }
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -5014,7 +5014,7 @@
         }
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -5063,7 +5063,7 @@
         }
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 10
       },
       "pricing": [
@@ -5131,7 +5131,7 @@
       },
       "proprietary_tech": [],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -5211,7 +5211,7 @@
         "REACH Compliant"
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 150
       },
@@ -5293,7 +5293,7 @@
         }
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -5371,7 +5371,7 @@
         "ISO Certified Manufacturing"
       ],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 120
       },
@@ -5439,7 +5439,7 @@
       "proprietary_tech": [],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 120
       },
@@ -5510,7 +5510,7 @@
       "proprietary_tech": [],
       "certifications": [],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -5572,7 +5572,7 @@
       },
       "proprietary_tech": [],
       "trial_warranty": {
-        "trial_nights": 7,
+        "trial_nights": 0,
         "warranty_years": 1
       },
       "pricing": [
@@ -5634,7 +5634,7 @@
         "Nautic Blue"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 10
       },
       "pricing": [
@@ -5720,7 +5720,7 @@
       },
       "proprietary_tech": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 10
       },
       "pricing": [
@@ -5777,7 +5777,7 @@
         "Nautic Blue"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 10
       },
       "pricing": [
@@ -5857,7 +5857,7 @@
       },
       "proprietary_tech": [],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 10
       },
       "pricing": [
@@ -5913,7 +5913,7 @@
         "Sand Beige"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 125
       },
@@ -5984,7 +5984,7 @@
         "Natural"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 2,
         "weight_capacity_kg": 420
       },
@@ -6069,7 +6069,7 @@
         }
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 2,
         "weight_capacity_kg": 420
       },
@@ -6143,7 +6143,7 @@
         "Pebble Grey"
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 1,
         "weight_capacity_kg": 125
       },
@@ -6217,7 +6217,7 @@
         }
       ],
       "trial_warranty": {
-        "trial_nights": 100,
+        "trial_nights": 0,
         "warranty_years": 5,
         "weight_capacity_kg": 300
       },

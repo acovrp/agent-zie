@@ -240,7 +240,7 @@
 - **Sizes**: Full Size (635x406.4x76.2 mm, 0.85kg)
 - **Firmness**: Medium Firm (6/10)
 - **Tech**: Dual Loft Design
-- **Trial/Warranty**: 100-night trial, 1-yr warranty, weight cap 100kg
+- **Trial/Warranty**: 1-yr warranty, weight cap 100kg
 - **Pricing**: Full Size: INR 999 (MRP 1989)
 - **Source**: https://sleepycat.in/products/contour-softtouch-memory-foam-pillow
 
@@ -371,7 +371,7 @@
 - **Sizes**: Standard (254x228.6 mm, 0.5kg)
 - **Firmness**: Medium (5/10)
 - **Tech**: Snap Closure
-- **Trial/Warranty**: 100-night trial, 1-yr warranty, weight cap 100kg
+- **Trial/Warranty**: 1-yr warranty, weight cap 100kg
 - **Pricing**: Standard: INR 949 (MRP 1489)
 - **Source**: https://sleepycat.in/products/travel-neck-pillow
 
@@ -390,7 +390,7 @@
 - **Firmness**: Medium (6/10)
 - **Tech**: AirGen Memory Foam
 - **Certifications**: CertiPUR-US, ISO 9001, OEKO-TEX
-- **Trial/Warranty**: 100-night trial, 1-yr warranty, weight cap 150kg
+- **Trial/Warranty**: 1-yr warranty, weight cap 150kg
 - **Pricing**: Single: INR 3709 (MRP 5299); Double: INR 4829 (MRP 6899); Queen: INR 5249 (MRP 7499); King: INR 6299 (MRP 8999)
 - **Source**: https://sleepycat.in/products/2-inch-memory-foam-mattress-topper
 - **Notes**: Duplicate of memory-foam-mattress-topper but with full spec table (cover fabric, CertiPUR/ISO/OEKO-TEX certs). Two SKUs for the same product line — likely the 2" version is the premium-spec'd variant.
@@ -405,7 +405,7 @@
 - **Sizes**: Single (1829x914x51 mm); Double (1830x1371x51 mm); Queen (1981x1524x51 mm); King (1981x1830x51 mm); Custom Size
 - **Firmness**: Soft (4/10)
 - **Tech**: Aeroflow Transition Foam, Ventilation Channels
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 3365 (MRP 3959)
 - **Source**: https://sleepycat.in/products/aeroflow-foam-mattress-topper
 
@@ -420,7 +420,7 @@
 - **Firmness**: Medium (6/10)
 - **Tech**: Pinhole Design
 - **Certifications**: GOLS-certified, OEKO-TEX Standard 100
-- **Trial/Warranty**: 100-night trial, 1-yr warranty, weight cap 120kg
+- **Trial/Warranty**: 1-yr warranty, weight cap 120kg
 - **Pricing**: Single: INR 7224 (MRP 8499); Double: INR 8499 (MRP 9999)
 - **Source**: https://sleepycat.in/products/latex-mattress-topper
 
@@ -434,7 +434,7 @@
 - **Sizes**: Single (1829x914x152 mm, 1.5kg); Double (1880x1372x152 mm, 2kg); Queen (2032x1524x203 mm, 2.5kg); King (2134x1829x203 mm, 3kg)
 - **Tech**: CoolTEC™
 - **Certifications**: OEKO-TEX Standard 100
-- **Trial/Warranty**: 100-night trial, 5-yr warranty, weight cap 300kg
+- **Trial/Warranty**: 5-yr warranty, weight cap 300kg
 - **Pricing**: Single: INR 3399 (MRP 3999); Double: INR 3799 (MRP 4499); Queen: INR 4199 (MRP 4999); King: INR 4699 (MRP 5499)
 - **Source**: https://sleepycat.in/products/mattress-cover
 - **Notes**: Replacement zipper cover for the mattress itself (not a protector/topper). Sized to fit 6"-8" mattresses depending on SKU.
@@ -449,7 +449,7 @@
 - **Cover**: 100% Polyester, washable: True
 - **Sizes**: Single 72x36 (1828.8x914.4 mm); Double 75x48 (1905x1219.2 mm); Queen 78x60 (1981.2x1524 mm); King 84x72 (2133.6x1828.8 mm)
 - **Tech**: Waterproof Protection Layer, Fitted-Sheet Style
-- **Trial/Warranty**: 100-night trial, 10-yr warranty
+- **Trial/Warranty**: 10-yr warranty
 - **Pricing**: Single 72x36: INR 710 (MRP 789); Double 75x48: INR 710 (MRP 789); Queen 78x60: INR 710 (MRP 789); King 84x72: INR 710 (MRP 789)
 - **Source**: https://sleepycat.in/products/mattress-protector
 - **Notes**: Flat pricing across all sizes (₹710). 10-year warranty (longest in lineup).
@@ -464,7 +464,7 @@
 - **Sizes**: Single (1829x914x51 mm); Double (1880x1372x51 mm); Queen (1981x1524x51 mm); King (2032x1829x51 mm); Custom Size
 - **Firmness**: Medium Soft (6/10)
 - **Tech**: AirGen™
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 3149 (MRP 4499); Double: INR 3499 (MRP 4999); Queen: INR 3799 (MRP 5499); King: INR 4099 (MRP 5999)
 - **Source**: https://sleepycat.in/products/memory-foam-mattress-topper
 
@@ -477,7 +477,7 @@
 - **Cover**: washable: False
 - **Sizes**: Single (1829x914x50.8 mm); Double (1880x1372x50.8 mm); Queen (1981x1524x50.8 mm); King (2032x1981x50.8 mm)
 - **Firmness**: Soft & Cushioned (4/10)
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 3374 (MRP 4499); Double: INR 3899 (MRP 4999); Queen: INR 4399 (MRP 5499); King: INR 4799 (MRP 5999)
 - **Source**: https://sleepycat.in/products/microfiber-mattress-topper
 
@@ -490,7 +490,7 @@
   2. Waterproof Backing - [TPU]
 - **Cover**: Polyester fabric with quilted padding, weave: Quilted, 200 GSM, washable: True
 - **Sizes**: Single (1830x910 mm, 1.2kg); Double (1981x1372 mm, 1.5kg); Queen (2032x1524 mm, 1.8kg); King (2134x1829 mm, 2kg)
-- **Trial/Warranty**: 100-night trial, 1-yr warranty, weight cap 100kg
+- **Trial/Warranty**: 1-yr warranty, weight cap 100kg
 - **Pricing**: Single: INR 899 (MRP 999); Double: INR 1099 (MRP 1199); Queen: INR 1299 (MRP 1399); King: INR 1499 (MRP 1599)
 - **Source**: https://sleepycat.in/products/quilted-mattress-protector
 
@@ -506,7 +506,7 @@
 - **Sizes**: Single 90x60in (2286x1524 mm); Double/Queen 90x100in (2286x2540 mm)
 - **Tech**: Corner Loops
 - **Certifications**: OEKO-Tex Certified, Colored with AZO-free dyes
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 1671 (MRP 2089); Double/Queen: INR 1671 (MRP 2089)
 - **Colors**: Purple Panther, Sailor Stripes, Overboard Checks, Dolphin Grey, Twilight Blue, Evergreen
 - **Source**: https://sleepycat.in/products/duvet-cover
@@ -518,7 +518,7 @@
 - **Positioning**: Comfier than your favourite t-shirt, this jersey duvet cover will feel so soft to your skin. It comes with a zipper so you can put them on as & when you please.
 - **Cover**: Knitted Jersey Fabric (T-shirt knit), weave: Knit (jersey), 140 GSM, washable: True
 - **Sizes**: Single 90x60in (2286x1524 mm); Double 90x100in (2286x2540 mm)
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 1699 (MRP 2089)
 - **Colors**: Bluewave Stripe, Midnight Blue, Walnut Brown, Zebra Stripes
 - **Source**: https://sleepycat.in/products/jersey-duvet-cover
@@ -531,7 +531,7 @@
 - **Sizes**: Single (1828x914 mm); Double; Queen; King
 - **Tech**: Elastic Edges
 - **Certifications**: Oeko-Tex certified
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 1181 (MRP 1389); Double: INR 1181 (MRP 1389); Queen: INR 1181 (MRP 1389); King: INR 1181 (MRP 1389)
 - **Colors**: Bluewave Stripe, Midnight Blue, Zebra Stripes, Walnut Brown
 - **Source**: https://sleepycat.in/products/jersey-fitted-bedsheet-set
@@ -544,7 +544,7 @@
 - **Cover**: Knitted Jersey (cotton blend), weave: Knit (jersey), 150 GSM, washable: True
 - **Sizes**: Standard (686x432 mm); King (813x508 mm); Cuddle (Body Pillow) (1321x508 mm)
 - **Certifications**: OEKO-Tex certified, AZO-free dyes
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Standard: INR 449 (MRP 549); King: INR 549 (MRP 649); Cuddle: INR 250 (MRP 299)
 - **Colors**: Midnight Blue, Bluewave Stripe, Zebra Stripes, Walnut Brown
 - **Source**: https://sleepycat.in/products/jersey-pillow-cases
@@ -557,7 +557,7 @@
 - **Cover**: 100% Premium Cotton (machine knitted yarns), weave: Knit, 200 GSM, washable: True
 - **Sizes**: Standard (1499x1244 mm, 1.2kg)
 - **Certifications**: OEKO-TEX Standard 100
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Standard: INR 2399 (MRP 2889)
 - **Colors**: Biscotti Beige, Pineapple Yellow, Pebble Grey
 - **Source**: https://sleepycat.in/products/knitted-throw
@@ -573,7 +573,7 @@
 - **Cover**: Cotton Modal, 150 GSM, washable: True
 - **Sizes**: Single (2286x1524 mm, 5kg); Double (2286x2540 mm, 8kg)
 - **Tech**: Quilted Box Design
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 3059 (MRP 3599)
 - **Colors**: Rhino Grey, Coconut White
 - **Source**: https://sleepycat.in/products/luxe-comforter
@@ -599,7 +599,7 @@
 - **Sizes**: Single (1828.8x914.4 mm, 1kg); Double (1828.8x1219.2 mm, 1kg); Queen (1981.2x1524 mm, 1kg); King (2133.6x1828.8 mm, 1kg)
 - **Tech**: Elastic Fitted Corners
 - **Certifications**: OEKO-Tex certified, Coloured with AZO-free dyes
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 1042 (MRP 1389); Double: INR 1042 (MRP 1389); Queen: INR 1042 (MRP 1389); King: INR 1042 (MRP 1389)
 - **Colors**: Purple Panther, Sailor Stripes, Overboard Checks, Dolphin Grey, Twilight Blue, Evergreen
 - **Source**: https://sleepycat.in/products/percale-fitted-bedsheet-set
@@ -627,7 +627,7 @@
 - **Sizes**: Single (2286x1524 mm, 1.5kg); Double (2286x2540 mm, 2kg)
 - **Tech**: Quilted Box Design, Moisture Wicking
 - **Certifications**: Oeko-Tex Certified
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 1597 (MRP 1879); Double: INR 1697 (MRP 1999)
 - **Colors**: Rhino Grey & Coconut White, Acid Lime & Rhino Grey, Coffee & Cream, Nude Pink & Seafoam White, Navy Maze, Mustard Mosaic, Aqua Herringbone, Green Petal
 - **Source**: https://sleepycat.in/products/reversible-comforter
@@ -639,7 +639,7 @@
 - **Cover**: 100% Long-staple Cotton, weave: Sateen, 300 TC, washable: True
 - **Sizes**: Single (2286x1524 mm); Double (2286x2540 mm)
 - **Tech**: Zipper + Corner Ties
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 2294 (MRP 2699)
 - **Colors**: Ivory, Pebble, Mineral, Denim
 - **Source**: https://sleepycat.in/products/sateen-duvet-cover
@@ -652,7 +652,7 @@
 - **Cover**: 100% Long-staple Cotton, weave: Sateen, 300 TC, 135 GSM, washable: True
 - **Sizes**: Single (1828x914x330 mm, 1.3kg); Double (1828x1372x330 mm, 1.5kg); Queen (1981x1524x330 mm, 1.7kg); King (2134x1981x330 mm, 1.9kg)
 - **Tech**: 360° Elastic
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 1599 (MRP 1999); Double: INR 1599 (MRP 1999); Queen: INR 1599 (MRP 1999); King: INR 1599 (MRP 1999)
 - **Colors**: Ivory, Pebble, Mineral, Denim
 - **Source**: https://sleepycat.in/products/sateen-fitted-bedsheet-set
@@ -664,7 +664,7 @@
 - **Positioning**: Combining the buttery smoothness of sateen fabric with a refined, seamless design, these pillow covers offer a luxurious look free from visible zippers or buttons.
 - **Cover**: 100% Cotton, weave: Sateen, 300 TC, washable: True
 - **Sizes**: Cuddle 52x20in (1320x510 mm)
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Cuddle Standard: INR 679 (MRP 799)
 - **Colors**: Ivory, Pebble, Mineral, Denim
 - **Source**: https://sleepycat.in/products/sateen-pillow-cases-cuddle
@@ -677,7 +677,7 @@
 - **Cover**: Satin (polyester satin weave), weave: Satin, 300 TC, 90 GSM, washable: True
 - **Sizes**: Standard (711x457 mm); King (864x508 mm); Cuddle (1016x914 mm)
 - **Certifications**: Hypoallergenic
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Standard: INR 749 (MRP 899); King: INR 899 (MRP 999); Cuddle: INR 999 (MRP 1099)
 - **Colors**: Daisy White, Opera Mauve, Steel Grey, Dusk Pearl, Sapphire Blue
 - **Source**: https://sleepycat.in/products/satin-pillow-cases
@@ -693,7 +693,7 @@
 - **Cover**: Peached Microfibre, 120 GSM, washable: True
 - **Sizes**: Single (2286x1524 mm); Double (2286x2540 mm)
 - **Tech**: Reversible Design
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 1436 (MRP 1689); Double: INR 1436 (MRP 1689)
 - **Colors**: Rhino Grey & Coconut White, Acid Lime & Rhino Grey, Coffee & Cream, Nude Pink & Seafoam White
 - **Source**: https://sleepycat.in/products/summer-comforter
@@ -709,7 +709,7 @@
 - **Cover**: Micro Peached Fabric / Cotton Sateen, washable: False
 - **Sizes**: Single (1905x1270 mm, 4kg)
 - **Tech**: Deep Pressure Therapy
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 4666 (MRP 5489)
 - **Colors**: Midnight Blue, Charcoal Grey, Blush Nude
 - **Source**: https://sleepycat.in/products/weighted-blanket
@@ -725,7 +725,7 @@
 - **Cover**: Luxe Modal Fabric (cotton modal), 300 TC, 300 GSM, washable: True
 - **Sizes**: Single (2286x1524 mm, 5kg); Double (2286x2540 mm, 8kg)
 - **Tech**: Quilted Box Design
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Single: INR 3391 (MRP 3989); Double: INR 3391 (MRP 3989)
 - **Colors**: Rhino Grey & Coconut White
 - **Source**: https://sleepycat.in/products/winter-luxe-comforter
@@ -741,7 +741,7 @@
 - **Cover**: Peached Microfiber, washable: True
 - **Sizes**: Single (2286x1524 mm); Double (2286x2540 mm)
 - **Tech**: Reversible Design
-- **Trial/Warranty**: 100-night trial, 1-yr warranty
+- **Trial/Warranty**: 1-yr warranty
 - **Pricing**: Double: INR 3191 (MRP 3989)
 - **Colors**: Rhino Grey & Coconut White
 - **Source**: https://sleepycat.in/products/winter-reversible-comforter
@@ -794,7 +794,7 @@
 - **Positioning**: An ergonomic duo designed to support your posture and keep you comfortable through long sitting hours.
 - **Sizes**: Standard
 - **Tech**: Anti-Skid Base, Adjustable Straps
-- **Trial/Warranty**: 100-night trial, 10-yr warranty
+- **Trial/Warranty**: 10-yr warranty
 - **Pricing**: Standard Bundle: INR 3448 (MRP 5747)
 - **Bundle**: Pro Seat Cushion + Pro Back Cushion
 - **Source**: https://sleepycat.in/products/ergo-chair-bundle
@@ -909,7 +909,7 @@
 - **Positioning**: Shield your dog's bed from dirt, pet hair, and everyday wear and tear with this velour knitted fabric. Offering the extra protective layer crafted with care!
 - **Cover**: Knitted velour fabric with velvet finish, washable: True
 - **Sizes**: Medium (914.4x660.4 mm); Large (1168.4x812.8 mm); Extra Large (1371.6x914.4 mm)
-- **Trial/Warranty**: 100-night trial, 10-yr warranty
+- **Trial/Warranty**: 10-yr warranty
 - **Pricing**: Medium: INR 769 (MRP 1099); Large: INR 899 (MRP 1299); Extra Large: INR 999 (MRP 1499)
 - **Colors**: Mud Red, Nautic Blue
 - **Source**: https://sleepycat.in/products/dog-bed-cover
@@ -924,7 +924,7 @@
 - **Cover**: Knitted velour fabric with velvet finish (scratch resistant), washable: True
 - **Sizes**: Medium (914x660x50 mm); Large (1168x813x50 mm); Extra Large (1372x914x50 mm)
 - **Firmness**: Medium (5/10)
-- **Trial/Warranty**: 100-night trial, 10-yr warranty
+- **Trial/Warranty**: 10-yr warranty
 - **Pricing**: Medium: INR 1392 (MRP 1989)
 - **Source**: https://sleepycat.in/products/dog-beds
 - **Notes**: Original = shredded foam fill (cushioning). Orthopedic version (see [[orthopedic-dog-bed]]) uses solid foam for support.
@@ -935,7 +935,7 @@
 - **Positioning**: Shield your dog bed from dirt, pet hair, and everyday wear and tear with this velvet knitted fabric. Offering the extra protective layer crafted with care!
 - **Cover**: Knitted velour fabric with velvet finish (water-resistant), washable: True
 - **Sizes**: Large (1219x610 mm); Extra Large (1321x711 mm)
-- **Trial/Warranty**: 100-night trial, 10-yr warranty
+- **Trial/Warranty**: 10-yr warranty
 - **Pricing**: Large: INR 979 (MRP 1399); Extra Large: INR 979 (MRP 1499)
 - **Colors**: Mud Red, Nautic Blue
 - **Source**: https://sleepycat.in/products/orthopedic-dog-bed-cover
@@ -950,7 +950,7 @@
 - **Cover**: Knitted velour fabric with velvet finish (scratch resistant), washable: True
 - **Sizes**: Medium (711x660x102 mm); Large (1219x610x102 mm); Extra Large (1321x711x102 mm)
 - **Firmness**: Supportive, Medium-Soft (7/10)
-- **Trial/Warranty**: 100-night trial, 10-yr warranty
+- **Trial/Warranty**: 10-yr warranty
 - **Pricing**: Medium: INR 2092 (MRP 2989)
 - **Source**: https://sleepycat.in/products/orthopedic-dog-bed
 - **Notes**: vs Original Dog Bed: 4" HD foam (solid) instead of 2" shredded foam. Targets senior/joint-issue dogs. Higher weight capacity (up to 45kg vs 25kg).
@@ -964,7 +964,7 @@
 - **Sub-category**: Motorised Recliner
 - **Positioning**: A stylish motorised recliner with smooth one-touch motion, built-in charging, and ergonomic support in a compact frame.
 - **Sizes**: Standard (1028x1085x923 mm, 40.5kg)
-- **Trial/Warranty**: 100-night trial, 1-yr warranty, weight cap 125kg
+- **Trial/Warranty**: 1-yr warranty, weight cap 125kg
 - **Pricing**: Standard: INR 37399 (MRP 43999)
 - **Colors**: Amber Yellow, Sand Beige
 - **Frame**: Ply + Solid Wood
@@ -976,7 +976,7 @@
 - **Sub-category**: Wooden Bed (Japandi)
 - **Positioning**: This sleek and sturdy Mango wood bed with a plush headboard is the perfect blend of aesthetics, comfort, and durability.
 - **Sizes**: Double (1829x1219x406 mm, 69kg); Queen (2134x1571x406 mm, 78kg); King (2134x1930x406 mm, 88kg)
-- **Trial/Warranty**: 100-night trial, 2-yr warranty, weight cap 420kg
+- **Trial/Warranty**: 2-yr warranty, weight cap 420kg
 - **Pricing**: Double: INR 24649 (MRP 28999); Queen: INR 24649 (MRP 28999); King: INR 24649 (MRP 28999)
 - **Colors**: Brown, Natural
 - **Frame**: Solid Mango Wood
@@ -987,7 +987,7 @@
 - **Sub-category**: Wooden Bed
 - **Positioning**: A 100% Solid Mango Wood Bed — durable and withstands whatever pressure you put on it.
 - **Sizes**: Single (1981x914x889 mm, 68.7kg); Double (1981x1295x889 mm, 73.8kg); Queen (1876x1600x889 mm, 71.9kg); King (1981x1905x889 mm, 81.1kg)
-- **Trial/Warranty**: 100-night trial, 2-yr warranty, weight cap 420kg
+- **Trial/Warranty**: 2-yr warranty, weight cap 420kg
 - **Pricing**: Single: INR 18699 (MRP 21999); Double: INR 18699 (MRP 21999); Queen: INR 18699 (MRP 21999); King: INR 18699 (MRP 21999)
 - **Frame**: Mango Hardwood
 - **Source**: https://sleepycat.in/products/ohayo-bed
@@ -998,7 +998,7 @@
 - **Sub-category**: Manual Recliner
 - **Positioning**: A stylish manual recliner built for everyday lounging. Space-efficient and upholstered in easy-clean premium leatherette.
 - **Sizes**: Standard (1020x990x760 mm, 20kg)
-- **Trial/Warranty**: 100-night trial, 1-yr warranty, weight cap 125kg
+- **Trial/Warranty**: 1-yr warranty, weight cap 125kg
 - **Pricing**: Standard: INR 22312 (MRP 26249)
 - **Colors**: Jade Green, Pebble Grey
 - **Frame**: Ply + Solid Wood
@@ -1011,7 +1011,7 @@
 - **Sub-category**: Electric Recliner Bed
 - **Positioning**: Experience intelligent sleep with customisable positions, one-touch presets, and premium comfort features in this advanced electric bed.
 - **Sizes**: Single (1981x914x279 mm, 41kg); Queen (1981x1524x279 mm, 56kg); King (1981x1829x279 mm, 70kg)
-- **Trial/Warranty**: 100-night trial, 5-yr warranty, weight cap 300kg
+- **Trial/Warranty**: 5-yr warranty, weight cap 300kg
 - **Pricing**: Single: INR 72249 (MRP 84999); Queen: INR 72249 (MRP 84999); King: INR 72249 (MRP 84999)
 - **Frame**: High-quality steel with black powder coating
 - **Source**: https://sleepycat.in/products/tauras-smart-electric-recliner-bed
