@@ -7,6 +7,8 @@ import re
 import traceback
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, CallbackQueryHandler, filters, ContextTypes
+import litellm
+from litellm import completion
 from anthropic import Anthropic
 from dotenv import load_dotenv
 
@@ -21,18 +23,55 @@ logger = logging.getLogger(__name__)
 load_dotenv()
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 ADMIN_CHAT_ID = int(os.getenv("ADMIN_CHAT_ID", "6127883562"))
 
-# FUTURE-PROOFING: Model Configuration from ENV with latest-aliases as defaults
-# Verified working model for the May 2026 timeline
-MAIN_MODEL = os.getenv("MAIN_MODEL", "claude-haiku-4-5-20251001")
-FEEDBACK_MODEL = os.getenv("FEEDBACK_MODEL", "claude-haiku-4-5-20251001")
+# Set API keys for litellm
+os.environ["ANTHROPIC_API_KEY"] = ANTHROPIC_API_KEY
+os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
 
-# Remote URLs
+# --- DYNAMIC MODEL RESOLVER (V4.0 - UNIVERSAL) ---
+class ModelResolver:
+    def __init__(self):
+        # Default Tiered Models (May 2026 Stable Defaults)
+        self.main_tier = [
+            "gemini/gemini-3.5-flash",
+            "anthropic/claude-haiku-4-5-20251001",
+            "anthropic/claude-sonnet-4-6"
+        ]
+        self.brain_tier = [
+            "gemini/gemini-2.5-pro",
+            "anthropic/claude-sonnet-4-6"
+        ]
+
+    def refresh(self):
+        """Polls APIs to find newest models and update tiers dynamically."""
+        try:
+            logger.info("Universal Model Discovery started...")
+            
+            # Anthropic Discovery
+            client_ant = Anthropic(api_key=ANTHROPIC_API_KEY)
+            ant_models = [m.id for m in client_ant.models.list().data]
+            haikus = sorted([f"anthropic/{m}" for m in ant_models if "haiku" in m], reverse=True)
+            sonnets = sorted([f"anthropic/{m}" for m in ant_models if "sonnet" in m], reverse=True)
+            
+            # Update tiers with newest Anthropic models if found
+            if haikus: self.main_tier[1] = haikus[0]
+            if sonnets: 
+                self.main_tier[2] = sonnets[0]
+                self.brain_tier[1] = sonnets[0]
+                
+            logger.info(f"Resolved Anthropic -> Haiku: {haikus[0] if haikus else 'N/A'}, Sonnet: {sonnets[0] if sonnets else 'N/A'}")
+            
+        except Exception as e:
+            logger.error(f"Discovery error: {e}. Keeping stable defaults.")
+
+resolver = ModelResolver()
+
+# --- REMOTE KNOWLEDGE ---
 META_URL = "https://raw.githubusercontent.com/acovrp/agent-zie/main/zie%20knowledge/zie_meta.json"
 INDEX_URL = "https://raw.githubusercontent.com/acovrp/agent-zie/main/zie%20knowledge/zie_product_index.json"
 
-# Global data
 META_DATA = {}
 PRODUCT_INDEX = {}
 PENDING_PATCHES = {} 
@@ -130,27 +169,29 @@ def intent_router(user_text):
         return context
     return None
 
-async def call_claude(model, system_content, messages, max_tokens=1024):
-    """A wrapper for Claude calls with automatic retry/failover."""
-    client = Anthropic(api_key=ANTHROPIC_API_KEY)
-    try:
-        return client.messages.create(
-            model=model,
-            max_tokens=max_tokens,
-            system=system_content,
-            messages=messages
-        )
-    except Exception as e:
-        logger.warning(f"Model {model} failed: {e}. Attempting fallback...")
-        # FALLBACK: If 'latest' alias fails, use a hardcoded stable version as last resort
-        fallback_model = "claude-3-5-haiku-20241022" if "haiku" in model else "claude-3-5-sonnet-20241022"
-        if model == fallback_model: raise e # If fallback also fails, give up
-        return client.messages.create(
-            model=fallback_model,
-            max_tokens=max_tokens,
-            system=system_content,
-            messages=messages
-        )
+async def call_llm(tier_name, system_content, messages, max_tokens=1024):
+    """Tiered failover completion using LiteLLM."""
+    tier = resolver.main_tier if tier_name == "main" else resolver.brain_tier
+    
+    last_exception = None
+    for model in tier:
+        try:
+            logger.info(f"Attempting completion with {model}...")
+            
+            # Prepare LiteLLM compatible system prompt
+            # Some providers like Gemini handle 'system' differently, but LiteLLM standardizes this.
+            response = completion(
+                model=model,
+                messages=[{"role": "system", "content": str(system_content)}] + messages,
+                max_tokens=max_tokens
+            )
+            return response
+        except Exception as e:
+            logger.warning(f"Model {model} failed: {e}. Trying next in tier...")
+            last_exception = e
+            continue
+            
+    raise last_exception
 
 async def get_claude_response(chat_id, user_message):
     try:
@@ -159,17 +200,17 @@ async def get_claude_response(chat_id, user_message):
         if len(chat_history[chat_id]) > 10: chat_history[chat_id] = chat_history[chat_id][-10:]
         
         rag_context = intent_router(user_message)
-        system_content = [{"type": "text", "text": get_static_prompt(), "cache_control": {"type": "ephemeral"}}]
+        system_text = get_static_prompt()
         if rag_context:
-            system_content.append({"type": "text", "text": f"\nDYNAMIC RAG CONTEXT:\n{rag_context}"})
+            system_text += f"\nDYNAMIC RAG CONTEXT:\n{rag_context}"
         
-        message = await call_claude(MAIN_MODEL, system_content, chat_history[chat_id])
+        response = await call_llm("main", system_text, chat_history[chat_id])
         
-        assistant_reply = message.content[0].text
+        assistant_reply = response.choices[0].message.content
         chat_history[chat_id].append({"role": "assistant", "content": assistant_reply})
         return clean_for_telegram(assistant_reply)
     except Exception as e:
-        logger.error(f"Claude API Global Error: {e}\n{traceback.format_exc()}")
+        logger.error(f"LLM Global Error: {e}\n{traceback.format_exc()}")
         return "Oh no! My alien brain had a tiny hiccup! ☁️ Can we try again? 🐈"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -189,9 +230,9 @@ async def handle_feedback(update: Update, context: ContextTypes.DEFAULT_TYPE):
             bot_code = f.read()
         analysis_prompt = f"Analyze feedback and propose fix.\nUSER FEEDBACK: {feedback_text}\nCONTEXT:\nzie_meta.json: {json.dumps(META_DATA, indent=2)}\nbot_code: {bot_code}\nOUTPUT ONLY VALID JSON: {{'file_to_edit': 'zie_meta.json' or 'zie_bot.py', 'rationale': '...', 'exact_old_string': '...', 'exact_new_string': '...'}}"
         
-        response = await call_claude(FEEDBACK_MODEL, "Output strictly JSON.", [{"role": "user", "content": analysis_prompt}], max_tokens=1000)
+        response = await call_llm("brain", "Output strictly JSON.", [{"role": "user", "content": analysis_prompt}], max_tokens=1000)
         
-        proposal = json.loads(response.content[0].text)
+        proposal = json.loads(response.choices[0].message.content)
         patch_id = str(update.message.message_id)
         PENDING_PATCHES[patch_id] = proposal
         keyboard = [[InlineKeyboardButton("Approve ✅", callback_data=f"app_{patch_id}"), InlineKeyboardButton("Reject ❌", callback_data=f"rej_{patch_id}")]]
@@ -242,6 +283,7 @@ async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE) -> N
     logger.error(f"Exception while handling an update: {context.error}")
 
 if __name__ == '__main__':
+    resolver.refresh() 
     fetch_knowledge()
     application = ApplicationBuilder().token(TELEGRAM_BOT_TOKEN).build()
     application.add_handler(CommandHandler('start', start))
@@ -249,5 +291,5 @@ if __name__ == '__main__':
     application.add_handler(CallbackQueryHandler(handle_callback))
     application.add_handler(MessageHandler(filters.TEXT & (~filters.COMMAND), handle_message))
     application.add_error_handler(error_handler)
-    logger.info("Zie Bot v2.2 (Future-Proofed) is starting...")
+    logger.info(f"Zie Bot v4.0 (Universal LiteLLM) is starting with Primary: {resolver.main_tier[0]}...")
     application.run_polling(drop_pending_updates=True)
