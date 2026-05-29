@@ -24,9 +24,9 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 ADMIN_CHAT_ID = int(os.getenv("ADMIN_CHAT_ID", "6127883562"))
 
 # FUTURE-PROOFING: Model Configuration from ENV with latest-aliases as defaults
-# If these fail, the bot uses the hardcoded fallbacks in the get_claude_response function
-MAIN_MODEL = os.getenv("MAIN_MODEL", "claude-3-5-haiku-latest")
-FEEDBACK_MODEL = os.getenv("FEEDBACK_MODEL", "claude-3-5-sonnet-latest")
+# Verified working model for the May 2026 timeline
+MAIN_MODEL = os.getenv("MAIN_MODEL", "claude-haiku-4-5-20251001")
+FEEDBACK_MODEL = os.getenv("FEEDBACK_MODEL", "claude-haiku-4-5-20251001")
 
 # Remote URLs
 META_URL = "https://raw.githubusercontent.com/acovrp/agent-zie/main/zie%20knowledge/zie_meta.json"
