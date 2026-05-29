@@ -1,0 +1,6164 @@
+[
+  {
+    "slug": "baby-mattress",
+    "source_url": "https://sleepycat.in/products/baby-mattress",
+    "scraped_at": "2026-05-13",
+    "product_name": "Baby Mattress",
+    "category": "Mattresses",
+    "sub_category": "Baby Mattress",
+    "description_short": "Firm and super supportive baby mattress, guaranteed to give your baby the most peaceful sleep through the night.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Premium High Density Foam",
+        "material": "Foam",
+        "foam_type": "HD Foam",
+        "thickness_mm": 102,
+        "thickness_inches": 4,
+        "gsm": 180,
+        "notes": "Provides proper support during developmental years."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Terry Cotton",
+      "weave": "Terry",
+      "gsm": 200,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash, remove cover and use a msupport detergent. Cover is waterproof."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1219,
+        "width_mm": 610,
+        "height_mm": 102,
+        "weight_kg": 6
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 8,
+      "label": "Firm Feel",
+      "feel_descriptors": [
+        "Firm",
+        "Supportive"
+      ]
+    },
+    "proprietary_tech": [],
+    "certifications": [
+      "Hypoallergenic",
+      "Non-toxic"
+    ],
+    "trial_warranty": {
+      "trial_nights": 100,
+      "warranty_years": 1,
+      "weight_capacity_kg": 100
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 2999,
+        "selling_price": 1949,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What does hypoallergenic mean for a baby mattress?",
+        "answer": "Hypoallergenic means the materials are unlikely to cause allergic reactions."
+      },
+      {
+        "question": "Is the cover waterproof?",
+        "answer": "Yes. The cover is fully waterproof, protecting the foam from spills and moisture busupportup."
+      },
+      {
+        "question": "What age is this mattress suitable for?",
+        "answer": "Designed for babies and toddlers between 0 and 3 years of age."
+      },
+      {
+        "question": "Is this mattress safe for newborns?",
+        "answer": "Yes. The mattress is made with certified, non-toxic, hypoallergenic materials."
+      },
+      {
+        "question": "What is the thickness of the mattress?",
+        "answer": "The mattress has a thickness of 4 inches (102 mm)."
+      },
+      {
+        "question": "What materials are used?",
+        "answer": "The mattress features high density foam with a hypoallergenic terry cotton cover."
+      }
+    ],
+    "notes_observed": "Custom sizes mentioned in marketing copy but not extracted; default Single dimensions = standard cot size. Cover is waterproof (key differentiator).",
+    "_category_folder": "mattresses"
+  },
+  {
+    "slug": "cloud-spring-mattress",
+    "source_url": "https://sleepycat.in/products/cloud-spring-mattress",
+    "scraped_at": "2026-05-13",
+    "product_name": "Cloud Mattress",
+    "category": "Mattresses",
+    "sub_category": "Pocket Spring Mattress",
+    "description_short": "Plush EuroTop For Adaptive Comfort with Pocket-Spring Base",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "AirGen Memory Foam",
+        "material": "Memory Foam",
+        "foam_type": "AirGen",
+        "thickness_mm": 31.75,
+        "thickness_inches": 1.25,
+        "notes": "Top layer for comfort."
+      },
+      {
+        "position": 2,
+        "name": "Latex",
+        "material": "Latex Foam",
+        "foam_type": "Latex",
+        "thickness_mm": 25.4,
+        "thickness_inches": 1,
+        "notes": "Added for support."
+      },
+      {
+        "position": 3,
+        "name": "Aeroflow Transition Foam",
+        "material": "Foam",
+        "foam_type": "Aeroflow",
+        "thickness_mm": 25.4,
+        "thickness_inches": 1,
+        "notes": "For breathability."
+      },
+      {
+        "position": 4,
+        "name": "High Density Foam",
+        "material": "High Density Foam",
+        "foam_type": "HD Foam",
+        "thickness_mm": 20.32,
+        "thickness_inches": 0.8,
+        "notes": "Supports the top layer."
+      },
+      {
+        "position": 5,
+        "name": "Pocket Springs",
+        "material": "Carbon Steel",
+        "foam_type": "Pocket Spring",
+        "thickness_mm": 101.6,
+        "thickness_inches": 4,
+        "notes": "Main support system."
+      },
+      {
+        "position": 6,
+        "name": "High Density Bottom Layer",
+        "material": "High Density Foam",
+        "foam_type": "HD Foam",
+        "thickness_mm": 20.32,
+        "thickness_inches": 0.8,
+        "notes": "Provides durability."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Bamboo Fabric",
+      "weave": "Quilted",
+      "removable": false,
+      "washable": false,
+      "wash_instructions": "Use a dry cloth or vacuum cleaner."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1981,
+        "width_mm": 762,
+        "height_mm": 203
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1981,
+        "width_mm": 914,
+        "height_mm": 203
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981,
+        "width_mm": 1524,
+        "height_mm": 203
+      },
+      {
+        "size_name": "King",
+        "length_mm": 1981,
+        "width_mm": 1930,
+        "height_mm": 203
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium Soft",
+      "feel_descriptors": [
+        "Plush",
+        "Comfortable",
+        "Adaptive"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Zero Motion Transfer",
+        "description": "Individually encased pocket springs for motion isolation."
+      },
+      {
+        "name": "Cooling Layer",
+        "description": "Aeroflow Transition layer enhances breathability."
+      }
+    ],
+    "certifications": [
+      "GOLS Certified Natural Latex"
+    ],
+    "trial_warranty": {
+      "trial_nights": 100,
+      "warranty_years": 10
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 19999,
+        "selling_price": 15999,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is a pocket spring on a mattress?",
+        "answer": "Pocket springs refer to springs that are encased in individual fabric pockets."
+      },
+      {
+        "question": "Is the Cloud Mattress comfortable?",
+        "answer": "The Cloud Mattress is designed for exceptional comfort with a plush quilted surface and supportive layers."
+      },
+      {
+        "question": "What is the thickness of the Cloud Mattress?",
+        "answer": "The Cloud Mattress is 20.32cm (8-inches) in height."
+      },
+      {
+        "question": "What materials are used in its construction?",
+        "answer": "The mattress uses AirGen Memory Foam, Latex, and individually encased pocket springs among other components."
+      }
+    ],
+    "notes_observed": "Only mattress in lineup with pocket springs (6 layers vs typical 3-4). Densities/weights not on page. Only Single pricing visible without variant select.",
+    "_category_folder": "mattresses"
+  },
+  {
+    "slug": "founders-mattress",
+    "source_url": "https://sleepycat.in/products/founders-mattress",
+    "scraped_at": "2026-05-13",
+    "product_name": "The Founder's Mattress",
+    "category": "Mattresses",
+    "sub_category": "Hybrid Luxury Mattress",
+    "description_short": "India's 1st and only mattress with Patented SmartCell\u2122 Memory Foam. It adapts to your body, provides targeted support, and helps you sleep up to 6\u00b0C cooler.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "HyperXD\u2122 Foam",
+        "material": "Foam",
+        "foam_type": "Standard",
+        "thickness_mm": 40,
+        "thickness_inches": 1.5,
+        "notes": "Adaptive foam that cradles without sinking."
+      },
+      {
+        "position": 2,
+        "name": "Patented SmartCell\u2122 Memory Foam",
+        "material": "Foam",
+        "foam_type": "Memory",
+        "thickness_mm": 25,
+        "thickness_inches": 1,
+        "notes": "Patented micro-cell design for precise pressure relief and improved airflow."
+      },
+      {
+        "position": 3,
+        "name": "GOLS Certified Natural Latex",
+        "material": "Latex",
+        "foam_type": "Natural",
+        "thickness_mm": 40,
+        "thickness_inches": 1.5,
+        "notes": "Provides responsive bounce, natural breathability, and antimicrobial protection."
+      },
+      {
+        "position": 4,
+        "name": "HR Base Foam",
+        "material": "Foam",
+        "foam_type": "Standard",
+        "thickness_mm": 128,
+        "thickness_inches": 5,
+        "notes": "High resilience foundation for long-term durability."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "CoolTec\u2122 600 GSM Cooling Fabric",
+      "weave": "Zipper Cover",
+      "gsm": 600,
+      "removable": true,
+      "washable": false,
+      "wash_instructions": "Vacuum clean cover, spot clean only"
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1828,
+        "width_mm": 762,
+        "height_mm": 228
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1828,
+        "width_mm": 915,
+        "height_mm": 228
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981,
+        "width_mm": 1524,
+        "height_mm": 228
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2134,
+        "width_mm": 1829,
+        "height_mm": 228
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium",
+      "feel_descriptors": [
+        "Adaptive",
+        "Supportive",
+        "Cool"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "SmartCell\u2122 Technology",
+        "description": "Patented technology for airflow and pressure relief."
+      },
+      {
+        "name": "CoolTec\u2122 Fabric",
+        "description": "Keeps mattress cool up to 6\u00b0C."
+      },
+      {
+        "name": "HyperXD\u2122 Foam",
+        "description": "Adaptive foam that cradles without sinking."
+      }
+    ],
+    "certifications": [
+      "GOLS Certified Natural Latex",
+      "GOTS Certified Cotton"
+    ],
+    "trial_warranty": {
+      "trial_nights": 100,
+      "warranty_years": 10
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 31789,
+        "selling_price": 30200,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the firmness or feel of the Founder's Mattress? How thick is it?",
+        "answer": "The Founder's Mattress is 9 inches thick and offers a balanced, medium feel."
+      },
+      {
+        "question": "What materials are used in the Founder's mattress?",
+        "answer": "The Founder's mattress is a combination of GOLS-certified natural latex, HyperXD\u2122 foam, and SmartCell\u2122 memory foam."
+      },
+      {
+        "question": "Will this mattress stay cool in hot weather?",
+        "answer": "Yes, the mattress uses CoolTec\u2122 cooling fabric and integrated SmartCell\u2122 airflow channels to keep you cool."
+      },
+      {
+        "question": "What makes the Founder's Mattress different from other luxury mattresses in India?",
+        "answer": "The Founder's Mattress offers a four-layer hybrid design engineered specifically for Indian sleepers."
+      }
+    ],
+    "notes_observed": " Total height per FAQ = 9 inches (~228mm) confirms layers sum. Only Single price extracted \u2014 Double/Queen/King MRP/SP not visible without variant selection. Weight_kg not on page.",
+    "_category_folder": "mattresses"
+  },
+  {
+    "slug": "latex-mattress",
+    "source_url": "https://sleepycat.in/products/latex-mattress",
+    "scraped_at": "2026-05-13",
+    "scrape_method": "raw markdown salvage (not JSON schema \u2014 see notes)",
+    "product_name": "Hybrid Latex Mattress",
+    "category": "Mattresses",
+    "sub_category": "Hybrid Latex Mattress",
+    "description_short": "Built with Pinhole Tech Latex & AirGen\u2122 Memory Foam, this mattress gives 5-zone body support & promotes overnight recovery.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Pinhole Tech Latex",
+        "material": "Latex",
+        "foam_type": "Natural Latex (pinhole tech)",
+        "thickness_mm": 25.4,
+        "thickness_inches": 1,
+        "notes": "Tiny pinholes keep air flowing."
+      },
+      {
+        "position": 2,
+        "name": "AirGen\u2122 Memory Foam",
+        "material": "Memory Foam",
+        "foam_type": "AirGen Open-Cell Memory Foam",
+        "thickness_mm": 25.4,
+        "thickness_inches": 1,
+        "notes": "Adaptive support, cushions pressure spots."
+      },
+      {
+        "position": 3,
+        "name": "High Density Foam",
+        "material": "Foam",
+        "foam_type": "HD Base Foam",
+        "thickness_mm": 101.6,
+        "thickness_inches": 4,
+        "notes": "Base support. 4-6 inches depending on total height SKU (6\"/8\")."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Premium Hypoallergenic Fabric",
+      "weave": "Ezie Zipper Cover",
+      "removable": true,
+      "washable": true
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single 6'x2'6\" 6in",
+        "length_mm": 1828.8,
+        "width_mm": 762,
+        "height_mm": 152.4
+      },
+      {
+        "size_name": "Single 6'x3' 6in",
+        "length_mm": 1828.8,
+        "width_mm": 914.4,
+        "height_mm": 152.4
+      },
+      {
+        "size_name": "Single 6'3\"x3' 6in",
+        "length_mm": 1905,
+        "width_mm": 914.4,
+        "height_mm": 152.4
+      },
+      {
+        "size_name": "Double 6'x4' 6in",
+        "length_mm": 1828.8,
+        "width_mm": 1219.2,
+        "height_mm": 152.4
+      },
+      {
+        "size_name": "Queen 6'x5' 6in",
+        "length_mm": 1828.8,
+        "width_mm": 1524,
+        "height_mm": 152.4
+      },
+      {
+        "size_name": "King 6'x6' 6in",
+        "length_mm": 1828.8,
+        "width_mm": 1828.8,
+        "height_mm": 152.4
+      },
+      {
+        "size_name": "Single 8in (variants exist)",
+        "height_mm": 203.2,
+        "notes": "Available across same widths as 6in SKUs"
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 8,
+      "label": "Firm",
+      "feel_descriptors": [
+        "Firm Feel",
+        "Orthopedic Support",
+        "Pressure Relief"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Pinhole Tech Latex",
+        "description": "Latex with pinholes for breathability."
+      },
+      {
+        "name": "AirGen\u2122 Memory Foam",
+        "description": "Open-cell memory foam for cooling."
+      },
+      {
+        "name": "5-Zone Body Support",
+        "description": "Targeted support across 5 body zones."
+      }
+    ],
+    "certifications": [
+      "Hypoallergenic"
+    ],
+    "trial_warranty": {
+      "trial_nights": 100,
+      "warranty_years": 10
+    },
+    "pricing": [
+      {
+        "size_name": "Starting price (Single 6in)",
+        "mrp": 11499,
+        "selling_price": 9199,
+        "currency": "INR",
+        "notes": "From compare page also reported \u20b98799 starting \u2014 pricing fluctuates by promotion."
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "How to select height?",
+        "answer": "Under 60kg sleeper weight: 6-inch mattress. 60-80kg: 8-inch. Above 80kg: 10-inch (10\" not standard on this SKU)."
+      },
+      {
+        "question": "Where should I place the mattress?",
+        "answer": "Make sure the mattress is placed on a solid foundation to prevent uneven weight distribution."
+      }
+    ],
+    "notes_observed": "Salvaged from earlier session's raw markdown dump (58KB).  sized variants extracted from listing table but full price grid not available without variant select. Use compare-mattresses.json + product page as cross-reference.",
+    "_category_folder": "mattresses"
+  },
+  {
+    "slug": "natural-latex-baby-mattress",
+    "source_url": "https://sleepycat.in/products/natural-latex-baby-mattress",
+    "scraped_at": "2026-05-13",
+    "product_name": "Baby Natural Latex Mattress",
+    "category": "Mattresses",
+    "sub_category": "Baby Mattresses",
+    "description_short": "Firm and super supportive baby mattress with GOLS certified natural latex designed to give your baby the most peaceful sleep throughout the night.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Natural Latex Layer",
+        "material": "Natural latex",
+        "foam_type": "Natural Latex",
+        "thickness_mm": 100,
+        "thickness_inches": 4,
+        "notes": "Hypoallergenic and antimicrobial."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Cotton",
+      "weave": "Terry",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable cover, simply remove and throw it in the machine for a wash."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "48 x 24 x 4 inches",
+        "length_mm": 1219,
+        "width_mm": 610,
+        "height_mm": 102,
+        "weight_kg": 6.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Medium Firm",
+      "feel_descriptors": [
+        "Responsive Comfort",
+        "Breathable"
+      ]
+    },
+    "proprietary_tech": [],
+    "certifications": [
+      "GOLS certified"
+    ],
+    "trial_warranty": {
+      "trial_nights": 100,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "48 x 24 x 4 inches",
+        "mrp": 6999,
+        "selling_price": 6299,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Are there non-toxic mattresses suitable for chsupportren and infants?",
+        "answer": "Sleepycat mattresses are made with certified safe and non-toxic foams, making them suitable for chsupportren and infants."
+      }
+    ],
+    "notes_observed": "Same size as foam baby mattress (4'x2'x4\") but 3x the price for GOLS natural latex. ",
+    "_category_folder": "mattresses"
+  },
+  {
+    "slug": "original-mattress",
+    "source_url": "https://sleepycat.in/products/original-mattress",
+    "scraped_at": "2026-05-13",
+    "product_name": "Original Mattress",
+    "category": "Mattresses",
+    "sub_category": "Foam Mattress",
+    "description_short": "Made with AirGen\u2122 Memory Foam, the Original Mattress gives you the perfect balance of comfort & support. Not too soft, not too firm, it's just right.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "AirGen\u2122 Memory Foam",
+        "material": "Memory Foam",
+        "foam_type": "Open-cell",
+        "thickness_mm": 25.4,
+        "thickness_inches": 1,
+        "notes": "Adaptive comfort"
+      },
+      {
+        "position": 2,
+        "name": "Aeroflow Transition Foam",
+        "material": "Foam",
+        "foam_type": "Transition Foam",
+        "thickness_mm": 25.4,
+        "thickness_inches": 1,
+        "notes": "Responsive support"
+      },
+      {
+        "position": 3,
+        "name": "Super High Density Foam",
+        "material": "Foam",
+        "foam_type": "High Density Foam",
+        "thickness_mm": 127,
+        "thickness_inches": 5,
+        "notes": "Durable base"
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Hypoallergenic fabric",
+      "weave": "Quilted",
+      "gsm": 200,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash in cold water"
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1830,
+        "width_mm": 914,
+        "height_mm": 152,
+        "weight_kg": 10
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1830,
+        "width_mm": 1372,
+        "height_mm": 152,
+        "weight_kg": 12
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981,
+        "width_mm": 1524,
+        "height_mm": 152,
+        "weight_kg": 14
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2133,
+        "width_mm": 1981,
+        "height_mm": 152,
+        "weight_kg": 16
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium Feel",
+      "feel_descriptors": [
+        "Balanced comfort",
+        "Supportive",
+        "Adaptive"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "AirGen\u2122 Memory Foam",
+        "description": "Enhanced breathability and heat reduction"
+      }
+    ],
+    "certifications": [
+      "CertiPUR-US",
+      "OEKO-TEX Standard 100"
+    ],
+    "trial_warranty": {
+      "trial_nights": 100,
+      "warranty_years": 10,
+      "weight_capacity_kg": 150
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 7399,
+        "selling_price": 5714,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 8999,
+        "selling_price": 6799,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 9999,
+        "selling_price": 7699,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 12999,
+        "selling_price": 9999,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the AirGen\u2122 Memory Foam?",
+        "answer": "AirGen\u2122 is a 100% open-cell memory foam with enhanced breathability. The open-cell structure keeps air circulating through the foam, reducing heat busupportup."
+      },
+      {
+        "question": "What feel is the Original Mattress?",
+        "answer": "Medium feel. The perfect balance between soft and firm."
+      },
+      {
+        "question": "How do I determine which height of the mattress is perfect for me?",
+        "answer": "If you're 60-80 kg, an 8-inch mattress is recommended. For over 80 kg, opt for a 10-inch mattress."
+      },
+      {
+        "question": "How long does the Original take to expand?",
+        "answer": "The Original takes about 48-hours to expand fully."
+      }
+    ],
+    "notes_observed": "Page mentions 6, 8 and 10-inch options. Dimensions extracted are 152mm (6\") only \u2014 8\"/10\" SKUs may have different pricing. FAQ confirms 8\"/10\" exist.",
+    "_category_folder": "mattresses"
+  },
+  {
+    "slug": "plus-mattress",
+    "source_url": "https://sleepycat.in/products/plus-mattress",
+    "scraped_at": "2026-05-13",
+    "product_name": "Ultima Memory Foam Mattress",
+    "category": "Mattresses",
+    "sub_category": "Memory Foam",
+    "description_short": "Made with AirGen\u2122 Memory Foam, this mattress gives 7-zone body support for uninterrupted rest & keeps you up to 4\u00b0C cooler.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "AirGen\u2122 Memory Foam",
+        "material": "Memory Foam",
+        "foam_type": "Open-cell",
+        "thickness_mm": 38.1,
+        "thickness_inches": 1.5,
+        "notes": "Adaptive comfort with enhanced breathability."
+      },
+      {
+        "position": 2,
+        "name": "Aeroflow Transition Foam",
+        "material": "Foam",
+        "foam_type": "High Density",
+        "thickness_mm": 25.4,
+        "thickness_inches": 1,
+        "notes": "Cushions different body parts."
+      },
+      {
+        "position": 3,
+        "name": "High Density Foam with DeepTouch\u2122 Pressure",
+        "material": "Foam",
+        "foam_type": "High Density",
+        "thickness_mm": 101.6,
+        "thickness_inches": 4,
+        "notes": "7-zone contouring support."
+      },
+      {
+        "position": 4,
+        "name": "Super High Density Foam",
+        "material": "Foam",
+        "foam_type": "Super High Density",
+        "thickness_mm": 38.1,
+        "thickness_inches": 1.5,
+        "notes": "Durable base layer."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "CoolTEC\u2122",
+      "weave": "Ezie Zipper Cover",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single 6'x2'6\" 8in",
+        "length_mm": 1828.8,
+        "width_mm": 762,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Single 6'6\"x2'6\" 8in",
+        "length_mm": 1981.2,
+        "width_mm": 762,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Single 6'x3' 8in",
+        "length_mm": 1828.8,
+        "width_mm": 914.4,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Single 6'3\"x3' 8in",
+        "length_mm": 1905,
+        "width_mm": 914.4,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Single 6'6\"x3' 8in",
+        "length_mm": 1981.2,
+        "width_mm": 914.4,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Single 6'x3' 10in",
+        "length_mm": 1828.8,
+        "width_mm": 914.4,
+        "height_mm": 254
+      },
+      {
+        "size_name": "Single 6'3\"x3' 10in",
+        "length_mm": 1905,
+        "width_mm": 914.4,
+        "height_mm": 254
+      },
+      {
+        "size_name": "Single 6'6\"x3' 10in",
+        "length_mm": 1981.2,
+        "width_mm": 914.4,
+        "height_mm": 254
+      },
+      {
+        "size_name": "Double 6'x4' 8in",
+        "length_mm": 1828.8,
+        "width_mm": 1219.2,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Double 6'3\"x4' 8in",
+        "length_mm": 1905,
+        "width_mm": 1219.2,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Double 6'6\"x4' 8in",
+        "length_mm": 1981.2,
+        "width_mm": 1219.2,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Queen 6'x5' 8in",
+        "length_mm": 1828.8,
+        "width_mm": 1524,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Queen 6'3\"x5' 8in",
+        "length_mm": 1905,
+        "width_mm": 1524,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Queen 6'6\"x5' 8in",
+        "length_mm": 1981.2,
+        "width_mm": 1524,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Queen 6'x5' 10in",
+        "length_mm": 1828.8,
+        "width_mm": 1524,
+        "height_mm": 254
+      },
+      {
+        "size_name": "Queen 6'3\"x5' 10in",
+        "length_mm": 1905,
+        "width_mm": 1524,
+        "height_mm": 254
+      },
+      {
+        "size_name": "Queen 6'6\"x5' 10in",
+        "length_mm": 1981.2,
+        "width_mm": 1524,
+        "height_mm": 254
+      },
+      {
+        "size_name": "Queen+ 6'x5'6\" 8in",
+        "length_mm": 1828.8,
+        "width_mm": 1676.4,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Queen+ 6'3\"x5'6\" 8in",
+        "length_mm": 1905,
+        "width_mm": 1676.4,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Queen+ 6'6\"x5'6\" 8in",
+        "length_mm": 1981.2,
+        "width_mm": 1676.4,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Queen+ 7'x5'6\" 8in",
+        "length_mm": 2133.6,
+        "width_mm": 1676.4,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "Queen+ 6'x5'6\" 10in",
+        "length_mm": 1828.8,
+        "width_mm": 1676.4,
+        "height_mm": 254
+      },
+      {
+        "size_name": "Queen+ 6'3\"x5'6\" 10in",
+        "length_mm": 1905,
+        "width_mm": 1676.4,
+        "height_mm": 254
+      },
+      {
+        "size_name": "Queen+ 6'6\"x5'6\" 10in",
+        "length_mm": 1981.2,
+        "width_mm": 1676.4,
+        "height_mm": 254
+      },
+      {
+        "size_name": "Queen+ 7'x5'6\" 10in",
+        "length_mm": 2133.6,
+        "width_mm": 1676.4,
+        "height_mm": 254
+      },
+      {
+        "size_name": "King 6'x6' 8in",
+        "length_mm": 1828.8,
+        "width_mm": 1828.8,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "King 6'3\"x6' 8in",
+        "length_mm": 1905,
+        "width_mm": 1828.8,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "King 6'6\"x6' 8in",
+        "length_mm": 1981.2,
+        "width_mm": 1828.8,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "King 7'x6' 8in",
+        "length_mm": 2133.6,
+        "width_mm": 1828.8,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "King 7'x6'6\" 8in",
+        "length_mm": 2133.6,
+        "width_mm": 1981.2,
+        "height_mm": 203.2
+      },
+      {
+        "size_name": "King 6'x6' 10in",
+        "length_mm": 1828.8,
+        "width_mm": 1828.8,
+        "height_mm": 254
+      },
+      {
+        "size_name": "King 6'3\"x6' 10in",
+        "length_mm": 1905,
+        "width_mm": 1828.8,
+        "height_mm": 254
+      },
+      {
+        "size_name": "King 6'6\"x6' 10in",
+        "length_mm": 1981.2,
+        "width_mm": 1828.8,
+        "height_mm": 254
+      },
+      {
+        "size_name": "King 7'x6' 10in",
+        "length_mm": 2133.6,
+        "width_mm": 1828.8,
+        "height_mm": 254
+      },
+      {
+        "size_name": "King 7'x6'6\" 10in",
+        "length_mm": 2133.6,
+        "width_mm": 1981.2,
+        "height_mm": 254
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium Soft",
+      "feel_descriptors": [
+        "Soft",
+        "Adaptive",
+        "Comfortable"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "AirGen\u2122 Memory Foam",
+        "description": "100% open-cell memory foam that enhances breathability ensuring airflow & heat reduction."
+      },
+      {
+        "name": "CoolTEC\u2122 Fabric",
+        "description": "Draws heat away to keep you approximately 4\u00b0C cooler."
+      },
+      {
+        "name": "DeepTouch\u2122 Pressure Technology",
+        "description": "Contouring support for different body parts to maintain a neutral spine position."
+      }
+    ],
+    "certifications": [
+      "GOLS Certified",
+      "Allergen-Free",
+      "ISO Certified"
+    ],
+    "trial_warranty": {
+      "trial_nights": 100,
+      "warranty_years": 10
+    },
+    "pricing": [
+      {
+        "size_name": "Single (starting)",
+        "mrp": 13999,
+        "selling_price": 10779,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What foam technology is used in the mattress?",
+        "answer": "The mattress features AirGen\u2122 Memory Foam, which uses 100% open-cell technology for enhanced breathability."
+      },
+      {
+        "question": "How thick is the mattress?",
+        "answer": "The mattress comes in two height options: 8 inches (20.32 cm) and 10 inches (25.4 cm)."
+      },
+      {
+        "question": "What is the warranty period for the mattress?",
+        "answer": "The mattress has a 10-year warranty."
+      },
+      {
+        "question": "What is the cooling technology used?",
+        "answer": "The mattress uses CoolTEC\u2122 fabric that keeps the surface up to 4\u00b0C cooler."
+      },
+      {
+        "question": "How does the 7-zone support work?",
+        "answer": "The mattress provides targeted support through its DeepTouch\u2122 Pressure Technology, contouring to the body's shape."
+      }
+    ],
+    "notes_observed": "Largest SKU range of any mattress \u2014 35 size variants across 8\"/10\" heights. Pricing returned as flat 10779 for all sizes; likely starting price only (variant-specific pricing not visible without selection).  Total height range 6\"-10\" per other pages.",
+    "_category_folder": "mattresses"
+  },
+  {
+    "slug": "the-latex-ortho-mattress",
+    "source_url": "https://sleepycat.in/products/the-latex-ortho-mattress",
+    "scraped_at": "2026-05-13",
+    "product_name": "The Latex Ortho",
+    "category": "Mattresses",
+    "sub_category": "Latex Mattresses",
+    "description_short": "Firm orthopedic mattress designed to support proper spinal alignment with breathable Pinhole Tech Latex and Aeroflow Transition Foam.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Pinhole Tech Latex Foam",
+        "material": "Latex",
+        "foam_type": "Latex foam",
+        "thickness_mm": 25.4,
+        "thickness_inches": 1,
+        "notes": "Provides firm and responsive support."
+      },
+      {
+        "position": 2,
+        "name": "Aeroflow Transition Foam",
+        "material": "Foam",
+        "foam_type": "Transition foam",
+        "thickness_mm": 25.4,
+        "thickness_inches": 1,
+        "notes": "Adds breathability and comfort."
+      },
+      {
+        "position": 3,
+        "name": "High Density Foam",
+        "material": "Foam",
+        "foam_type": "Base foam",
+        "thickness_mm": 127,
+        "thickness_inches": 5,
+        "notes": "Provides structural firmness."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Hypoallergenic fabric",
+      "weave": "Zipper cover",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1828,
+        "width_mm": 762,
+        "height_mm": 152,
+        "weight_kg": 9.07
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1828,
+        "width_mm": 1219,
+        "height_mm": 152,
+        "weight_kg": 11.34
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 9,
+      "label": "Very Firm",
+      "feel_descriptors": [
+        "Orthopedic support",
+        "Responsive",
+        "Firm"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Pinhole Tech Latex",
+        "description": "Allows constant airflow, preventing heat and moisture busupportup."
+      },
+      {
+        "name": "Aeroflow Transition Foam",
+        "description": "Enhances breathability and responsiveness."
+      }
+    ],
+    "certifications": [
+      "Hypoallergenic",
+      "GOLS Certified for Latex"
+    ],
+    "trial_warranty": {
+      "trial_nights": 100,
+      "warranty_years": 10,
+      "weight_capacity_kg": 250
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 10499,
+        "selling_price": 6929,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 12999,
+        "selling_price": 8999,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Is latex good for back pain?",
+        "answer": "Yes. Latex is naturally firm and responsive, which helps maintain proper spinal alignment."
+      },
+      {
+        "question": "What is the height of the Latex Ortho mattress?",
+        "answer": "Available in heights of 152 mm (6 inches), 203 mm (8 inches)."
+      },
+      {
+        "question": "What materials are used in the construction of this mattress?",
+        "answer": "The mattress consists of Pinhole Tech Latex, Aeroflow Transition Foam, and High Density Foam."
+      },
+      {
+        "question": "What is the warranty period of this mattress?",
+        "answer": "The mattress comes with a 10-year warranty."
+      }
+    ],
+    "notes_observed": "FAQ mentions 6\" and 8\" height options but dimensions_by_size on page only showed 152mm (6\"). 8\" SKU may exist as variant \u2014 confirm in compare page.",
+    "_category_folder": "mattresses"
+  },
+  {
+    "slug": "tri-fold-mattress",
+    "source_url": "https://sleepycat.in/products/tri-fold-mattress",
+    "scraped_at": "2026-05-13",
+    "product_name": "Tri Fold Mattress",
+    "category": "Mattresses",
+    "sub_category": "Foldable Mattresses",
+    "description_short": "Lightweight foldable mattress with high-resilience foam, smart portability features, and compact comfort.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "High Resilience Foam",
+        "material": "Foam",
+        "foam_type": "HR Foam",
+        "thickness_mm": 100,
+        "thickness_inches": 4,
+        "notes": "Provides balanced support without the bulk."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "280 GSM Grey Knitted Fabric",
+      "weave": "Knitted",
+      "gsm": 280,
+      "removable": false,
+      "washable": true,
+      "wash_instructions": "Spot clean with a msupport detergent and damp cloth."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single 72 x 36 x 4 inches",
+        "length_mm": 1828.8,
+        "width_mm": 914.4,
+        "height_mm": 100,
+        "weight_kg": 6
+      },
+      {
+        "size_name": "Double 72 x 48 x 4 inches",
+        "length_mm": 1828.8,
+        "width_mm": 1219.2,
+        "height_mm": 100,
+        "weight_kg": 8.3
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 6,
+      "label": "Medium-Firm",
+      "feel_descriptors": [
+        "Medium-Firm Feel",
+        "Supportive",
+        "Comfortable"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Tri-Fold Design",
+        "description": "Folds away quickly for easy storage."
+      },
+      {
+        "name": "Anti-Skid Base",
+        "description": "Keeps the mattress stable on any flat surface."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 100,
+      "warranty_years": 1,
+      "notes": "12 Month Warranty on Foam and Stitching"
+    },
+    "pricing": [
+      {
+        "size_name": "Single 72 x 36 x 4 inches",
+        "mrp": 5999,
+        "selling_price": 4799,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is high-resilience foam?",
+        "answer": "High-resilience (HR) foam bounces back quickly when pressure is released, maintaining its shape and support over time. It's more durable and responsive than standard foam, making it ideal for regular use."
+      },
+      {
+        "question": "What surfaces can I use it on?",
+        "answer": "The anti-skid base keeps the mattress stable on any flat surface, whether it is a floor, wooden planks, a low cot frame, or a compact bed base."
+      },
+      {
+        "question": "Does it come with a washable cover?",
+        "answer": "No, but the fabric cover is easy to clean. Spot clean with a msupport detergent and damp cloth. Avoid soaking."
+      },
+      {
+        "question": "Can I use this mattress daily?",
+        "answer": "Yes. The 4-inch high-resilience foam is designed for regular use and provides consistent support over time. It's ideal for floor sleeping, a cot, or as a semi-permanent guest bed setup."
+      }
+    ],
+    "notes_observed": "Single-layer construction (only HR foam). Shortest warranty in mattress lineup (1 year vs 10). Double SKU pricing not visible without variant select.",
+    "_category_folder": "mattresses"
+  },
+  {
+    "slug": "ultima-natural-latex-mattress",
+    "source_url": "https://sleepycat.in/products/ultima-natural-latex-mattress",
+    "scraped_at": "2026-05-13",
+    "product_name": "Ultima Natural Latex Mattress",
+    "category": "Mattresses",
+    "sub_category": "Latex Mattress",
+    "description_short": "Made with GOLS Certified 100% Natural Latex, this luxurious mattress gives breathable & responsive comfort with 7-zone body support.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Top Layer",
+        "material": "100% Natural Latex",
+        "foam_type": "Natural Latex",
+        "thickness_mm": 38.1,
+        "thickness_inches": 1.5,
+        "gsm": 100,
+        "notes": "GOLS Certified with Pinhole Tech for breathability."
+      },
+      {
+        "position": 2,
+        "name": "Middle Layer",
+        "material": "Aeroflow Transition Foam",
+        "foam_type": "Transition Foam",
+        "thickness_mm": 25.4,
+        "thickness_inches": 1,
+        "gsm": 100,
+        "notes": "Provides comfort and support."
+      },
+      {
+        "position": 3,
+        "name": "Bottom Layer",
+        "material": "Super High Density Foam",
+        "foam_type": "Support Foam",
+        "thickness_mm": 38.1,
+        "thickness_inches": 1.5,
+        "gsm": 200,
+        "notes": "Ensures long-lasting support."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "CoolTEC\u2122 Fabric",
+      "weave": "Knitted",
+      "gsm": 200,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash cold on gentle cycle, tumble dry low."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1830,
+        "width_mm": 762,
+        "height_mm": 203,
+        "weight_kg": 7
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1830,
+        "width_mm": 1372,
+        "height_mm": 203,
+        "weight_kg": 12
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981,
+        "width_mm": 1524,
+        "height_mm": 203,
+        "weight_kg": 14
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2134,
+        "width_mm": 1829,
+        "height_mm": 203,
+        "weight_kg": 16
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium-Soft",
+      "feel_descriptors": [
+        "Responsive",
+        "Breathable",
+        "Comfortable",
+        "Supportive"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Pinhole Technology",
+        "description": "Enhances airflow and reduces heat retention."
+      },
+      {
+        "name": "CoolTEC\u2122 Fabric",
+        "description": "Keeps the mattress up to 4\u00b0C cooler."
+      },
+      {
+        "name": "7-Zone DeepTouch\u2122 Pressure Tech",
+        "description": "Provides targeted support for different body parts."
+      }
+    ],
+    "certifications": [
+      "GOLS Certified",
+      "Eco Friendly"
+    ],
+    "trial_warranty": {
+      "trial_nights": 100,
+      "warranty_years": 10,
+      "weight_capacity_kg": 250
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 12999,
+        "selling_price": 10999,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 15999,
+        "selling_price": 13999,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 17999,
+        "selling_price": 15999,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 19999,
+        "selling_price": 17999,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What materials are used in this mattress?",
+        "answer": "Made with GOLS Certified 100% Natural Latex and high-density foam."
+      },
+      {
+        "question": "What is the thickness of the Ultima Natural Latex Mattress?",
+        "answer": "Available in two thickness options: 20.32 cm (8 inches) and 25.4 cm (10 inches)."
+      },
+      {
+        "question": "What is the weight capacity of this mattress?",
+        "answer": "The mattress can support a weight capacity of up to 250 kg."
+      },
+      {
+        "question": "How long is the warranty on the Ultima Natural Latex Mattress?",
+        "answer": "It comes with a 10-year warranty."
+      }
+    ],
+    "notes_observed": "8\" SKU dimensions only \u2014 10\" SKU exists per FAQ but not extracted.",
+    "_category_folder": "mattresses"
+  },
+  {
+    "slug": "cloud-microfiber-pillow",
+    "source_url": "https://sleepycat.in/products/cloud-microfiber-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Cloud Pillow",
+    "category": "Pillow",
+    "sub_category": "Microfiber Pillow",
+    "description_short": "Filled with 100% virgin microfiber, this super soft pillow delivers hotel-like luxury at home without forming lumps over time.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Pillow Fill",
+        "material": "100% Virgin Microfiber",
+        "foam_type": "Fiber Fill",
+        "thickness_mm": 152.4,
+        "thickness_inches": 6,
+        "notes": "Super soft, adjustable firmness via zipper."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "250 TC Luxe Modal Fabric",
+      "weave": "Modal",
+      "removable": false,
+      "washable": true,
+      "wash_instructions": "Machine washable on delicate cycle with cold water."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Full Size",
+        "length_mm": 686,
+        "width_mm": 457,
+        "height_mm": 152,
+        "weight_kg": 0.5
+      },
+      {
+        "size_name": "King Size",
+        "length_mm": 813,
+        "width_mm": 508,
+        "height_mm": 152,
+        "weight_kg": 0.6
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 2,
+      "label": "Super Soft",
+      "feel_descriptors": [
+        "soft",
+        "plush",
+        "comfortable"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Smart Zipper Design",
+        "description": "Allows adjustable height and firmness."
+      },
+      {
+        "name": "No Lumps Guarantee",
+        "description": "2 years guarantee against lumps and lint."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 2,
+      "weight_capacity_kg": 100
+    },
+    "pricing": [
+      {
+        "size_name": "Full Size",
+        "mrp": 1189,
+        "selling_price": 949,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What kind of sleeper is the Cloud Pillow meant for?",
+        "answer": "The Cloud Pillow is good for all kinds of sleepers. Front, back, side, or any other sleeping position you prefer."
+      },
+      {
+        "question": "How is the Cloud Pillow adjustable?",
+        "answer": "With a discrete zipper, you get to adjust the height of the pillow."
+      },
+      {
+        "question": "What is the difference between microfiber and memory foam?",
+        "answer": "Microfiber pillows are resilient and provide overall support, whereas memory foam contours to the head but is firmer."
+      },
+      {
+        "question": "Is Microfiber Fill better than a down alternative?",
+        "answer": "Microfiber is dense, giving a soft feel, is cruelty-free, and easier to care for."
+      },
+      {
+        "question": "What are the benefits of Luxe Modal Fabric?",
+        "answer": "Luxe Modal is soft, breathable, durable, and hypoallergenic."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "contour-cooltec-memory-foam-pillow",
+    "source_url": "https://sleepycat.in/products/contour-cooltec-memory-foam-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Contour CoolTEC Memory Foam Pillow",
+    "category": "Pillow",
+    "sub_category": "Memory Foam Pillow / Cervical Contour",
+    "description_short": "A cooling orthopedic pillow with dual height options, designed to reduce pressure on your neck and head. Made with real perforated memory foam, this pillow provides consistent support without sagging, breaking or flattening.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Pillow Fill",
+        "material": "Perforated Memory Foam",
+        "foam_type": "Memory Foam",
+        "notes": "Doesn't sag or break. Cervical contour shape with dual loft options."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "CoolTEC\u2122 Fabric",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable zipper cover."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Full Size",
+        "length_mm": 635,
+        "width_mm": 406.4,
+        "height_mm": 76.2,
+        "weight_kg": 0.9
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Medium Firm",
+      "feel_descriptors": [
+        "Firm",
+        "Supportive"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "CoolTEC\u2122 Fabric",
+        "description": "Improves airflow and keeps you up to 4\u00b0 cooler."
+      },
+      {
+        "name": "Perforated Memory Foam",
+        "description": "Provides consistent support without sagging."
+      },
+      {
+        "name": "Dual Loft Design",
+        "description": "Higher loft for side sleepers, lower loft for back sleepers."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Contour",
+        "mrp": 2989,
+        "selling_price": 1899,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What are the benefits of the dual loft options?",
+        "answer": "The higher loft supports side sleepers while the lower loft cradles back sleepers."
+      },
+      {
+        "question": "What do you mean by hyperextension?",
+        "answer": "It enables your neck muscles to stretch and provides relief."
+      },
+      {
+        "question": "What do you mean by neutral spine position?",
+        "answer": "It's where your head and neck are aligned under the least stress."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "contour-natural-latex-pillow",
+    "source_url": "https://sleepycat.in/products/contour-natural-latex-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Contour Natural Latex Pillow",
+    "category": "Pillow",
+    "sub_category": "Natural Latex Pillow / Cervical Contour",
+    "description_short": "GOLS certified 100% Natural Latex Contour Pillow with dual heights for personalized comfort, hypoallergenic and breathable.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Latex Foam",
+        "material": "Natural Latex",
+        "foam_type": "Natural Latex",
+        "thickness_mm": 100,
+        "thickness_inches": 3.9,
+        "notes": "GOLS certified 100% natural latex. Cervical contour shape."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Premium Hypoallergenic Fabric",
+      "weave": "Mesh sides",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash on delicate cycle with cold water."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 609,
+        "width_mm": 406,
+        "height_mm": 100,
+        "weight_kg": 0.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium Soft",
+      "feel_descriptors": [
+        "Medium Soft",
+        "Breathable",
+        "Hypoallergenic"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Dual Height Design",
+        "description": "Higher loft for side sleepers, lower loft for back sleepers."
+      }
+    ],
+    "certifications": [
+      "GOLS Certified"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 2589,
+        "selling_price": 2299,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "How do these pillows provide targeted support?",
+        "answer": "SleepyCat's Contour Latex Pillow has dual height options i.e. it has unique curves that aligns with the natural curvature of your spine, alleviating pressure points."
+      },
+      {
+        "question": "What is the lifespan of this pillow?",
+        "answer": "Natural Latex Pillows are highly durable and can last for about 7-10 years."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "contour-softtouch-memory-foam-pillow",
+    "source_url": "https://sleepycat.in/products/contour-softtouch-memory-foam-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Contour SoftTouch Memory Foam Pillow",
+    "category": "Pillow",
+    "sub_category": "Memory Foam Pillow / Cervical Contour",
+    "description_short": "Super comfy cervical pillow with dual height options, designed to reduce pressure on your head & neck. This pillow is made with real memory foam that doesn't sag or flatten.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Pillow Fill",
+        "material": "Perforated Real Memory Foam",
+        "foam_type": "Perforated Memory Foam",
+        "notes": "Doesn't sag or break. Cervical contour shape with dual loft options."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Premium Hypoallergenic Fabric",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine Washable Zipper Cover"
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Full Size",
+        "length_mm": 635,
+        "width_mm": 406.4,
+        "height_mm": 76.2,
+        "weight_kg": 0.85
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 6,
+      "label": "Medium Firm",
+      "feel_descriptors": [
+        "Soft",
+        "Supportive",
+        "Cervical"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Dual Loft Design",
+        "description": "Higher loft for side sleepers, lower loft for back sleepers."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 100
+    },
+    "pricing": [
+      {
+        "size_name": "Full Size",
+        "mrp": 1989,
+        "selling_price": 999,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What are the benefits of the dual loft options?",
+        "answer": "The Contour Pillow is crafted in a way to have dual loft options, so you can choose your comfort. The higher loft keeps the neck and spine aligned for side sleepers while the lower loft perfectly cradles the shoulders and the neck for back sleepers."
+      },
+      {
+        "question": "What do you mean by hyperextension?",
+        "answer": "The Contour Pillow is made to hyperextend your neck. What this means is it enables your neck muscles to stretch, and provides relief so you can fully relax."
+      },
+      {
+        "question": "What do you mean by neutral spine position?",
+        "answer": "The neutral spine position is your spine's favourite position. It's the position where your head and neck are aligned, and where they're both under the least amount of stress."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "cooltec-memory-foam-pillow",
+    "source_url": "https://sleepycat.in/products/cooltec-memory-foam-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "CoolTEC Memory Foam Pillow",
+    "category": "Pillow",
+    "sub_category": "Memory Foam Pillow",
+    "description_short": "Sleep cool and supported with the CoolTEC Memory Foam Pillow made of perforated memory foam, designed to keep you up to 4\u00b0 cooler throughout the night.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Foam Layer",
+        "material": "Perforated Memory Foam",
+        "foam_type": "Memory Foam",
+        "thickness_mm": 100,
+        "thickness_inches": 3.9,
+        "notes": "Supports the head and neck, does not sag or break."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "CoolTEC\u2122 Fabric",
+      "weave": "Polyester",
+      "gsm": 150,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash on delicate cycle with cold water."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 635,
+        "width_mm": 406,
+        "height_mm": 102,
+        "weight_kg": 1.2
+      },
+      {
+        "size_name": "King",
+        "length_mm": 711,
+        "width_mm": 457,
+        "height_mm": 102,
+        "weight_kg": 1.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Medium Firm",
+      "feel_descriptors": [
+        "adaptive support",
+        "doesn't sag",
+        "breathable",
+        "cooling"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "CoolTEC\u2122",
+        "description": "Keeps the pillow temperature regulated by drawing heat away from the sleeper. Up to 4\u00b0C cooler."
+      }
+    ],
+    "certifications": [
+      "Oeko-Tex Standard 100",
+      "CertiPUR-US Certified"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 120
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 2989,
+        "selling_price": 2199,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 3599,
+        "selling_price": 2499,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Is memory foam good as a pillow?",
+        "answer": "Yes, memory foam provides excellent support by conforming to the head's shape, ensuring neck alignment and comfort."
+      },
+      {
+        "question": "What do you mean by neutral spine position?",
+        "answer": "It refers to the alignment of the head and neck with minimal stress, helping to prevent morning aches."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "dual-comfort-pillow",
+    "source_url": "https://sleepycat.in/products/dual-comfort-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Dual Comfort Pillow",
+    "category": "Pillow",
+    "sub_category": "Dual-sided Pillow",
+    "description_short": "This unique reversible pillow is plush on one side and firm on the other adapting to your sleeping position.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Side A \u2014 Memory Foam",
+        "material": "Memory Foam",
+        "foam_type": "Memory Foam",
+        "notes": "Provides contouring support (firm side)."
+      },
+      {
+        "position": 2,
+        "name": "Side B \u2014 Marshmallow Foam",
+        "material": "Marshmallow Foam",
+        "foam_type": "Soft Foam",
+        "notes": "Offers plush, airy comfort (soft side)."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Premium Hypoallergenic Fabric",
+      "weave": "3D mesh for airflow",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash on delicate cycle."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 635,
+        "width_mm": 387,
+        "height_mm": 127
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium-Soft & Firm (dual)",
+      "feel_descriptors": [
+        "Soft on one side",
+        "Firm on the other side"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Dual-Side Design",
+        "description": "Memory foam on one side, marshmallow foam on the other \u2014 flippable."
+      }
+    ],
+    "certifications": [
+      "Hypoallergenic"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 2499,
+        "selling_price": 1999,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What makes this pillow stand out?",
+        "answer": "This pillow has two unique flippable sides. It gives you the best of both worlds, offering appropriate head and neck support as well as plush comfort."
+      },
+      {
+        "question": "What are the two fills of the pillow?",
+        "answer": "One side is made of memory foam and the other is made of marshmallow foam for different comfort levels."
+      }
+    ],
+    "notes_observed": "Thickness extracted as 127mm/5\" per layer but that's likely the total \u2014 confirm; dual-foam pillow is single physical block split A/B.",
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "fiber-lite-pillow",
+    "source_url": "https://sleepycat.in/products/fiber-lite-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Fiber Lite Pillow",
+    "category": "Pillow",
+    "sub_category": "Fiber Pillows",
+    "description_short": "This full-size fiber-fill pillow is tailored to suit the needs of every type of sleeper at a price that's easy on the pocket.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Pillow Fill",
+        "material": "15 Denier Poly Fiber",
+        "foam_type": "Fiber Fill",
+        "notes": "Soft and breathable support."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Micro Peach Fabric",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash on delicate cycle with cold water and msupport detergents."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 686,
+        "width_mm": 432,
+        "height_mm": 150,
+        "weight_kg": 0.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium Soft",
+      "feel_descriptors": [
+        "Soft",
+        "Breathable",
+        "Supportive"
+      ]
+    },
+    "proprietary_tech": [],
+    "certifications": [
+      "Hypoallergenic"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 999,
+        "selling_price": 799,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Are these pillows machine washable?",
+        "answer": "Yes, the Fiber Lite Pillows are machine washable."
+      },
+      {
+        "question": "Are the Fiber Lite Pillows safe?",
+        "answer": "Yes, these pillows are very safe as they are non-allergenic."
+      },
+      {
+        "question": "Why do people prefer polyfiber pillows?",
+        "answer": "Polyfiber pillows do not flatten with time and are very budget friendly and durable."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "hybrid-pillow",
+    "source_url": "https://sleepycat.in/products/hybrid-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Hybrid Pillow",
+    "category": "Pillow",
+    "sub_category": "Hybrid Pillow",
+    "description_short": "Soft luxury meets firm support! A pillow that stays evenly filled and doesn't shed lint, now with memory foam and high-density foam inserts to customize height and firmness.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Microfiber Fill",
+        "material": "100% Virgin Microfiber",
+        "foam_type": "Fiber Fill",
+        "notes": "Doesn't get lumpy. Base fill of the pillow."
+      },
+      {
+        "position": 2,
+        "name": "Memory Foam Insert (removable)",
+        "material": "Memory Foam",
+        "foam_type": "Memory Foam",
+        "notes": "Customizable height and firmness \u2014 can be removed."
+      },
+      {
+        "position": 3,
+        "name": "High Density Foam Insert (removable)",
+        "material": "High Density Foam",
+        "foam_type": "High Density Foam",
+        "notes": "Adds extra support \u2014 can be removed."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "250 TC Luxe Modal Fabric",
+      "weave": "Modal",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Unzip, remove both inserts, then wash pillow. Cold water with msupport detergents."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 660,
+        "width_mm": 406,
+        "height_mm": 127
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 6,
+      "label": "Medium Soft",
+      "feel_descriptors": [
+        "Soft",
+        "Supportive",
+        "Balanced"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Removable Foam Inserts",
+        "description": "Memory foam + HD foam inserts can be added/removed to customize height and firmness."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 1999,
+        "selling_price": 1799,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "How do I wash the Hybrid Pillow?",
+        "answer": "Caring for the Hybrid Pillow is incredibly easy. Simply unzip, remove both the inserts, and then throw the rest of the pillow for a wash."
+      },
+      {
+        "question": "Can the hybrid pillow be used with or without the memory foam and High Density foam inserts?",
+        "answer": "Yes, it can be used with or without the inserts."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "marshmallow-pillow",
+    "source_url": "https://sleepycat.in/products/marshmallow-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Marshmallow Pillow",
+    "category": "Pillow",
+    "sub_category": "Soft Foam Pillow",
+    "description_short": "Enjoy the squishy soft support of this pillow that feels exactly like its name.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Pillow Fill",
+        "material": "Premium Soft Foam",
+        "foam_type": "Soft Foam",
+        "notes": "Extremely spongy feel with jelly-like bounce."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Premium Hypoallergenic Fabric",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Cover machine wash on delicate cycle with cold water. Foam inside not washable."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 635,
+        "width_mm": 406
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium",
+      "feel_descriptors": [
+        "Soft",
+        "Plush",
+        "Bouncy"
+      ]
+    },
+    "proprietary_tech": [],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 1989,
+        "selling_price": 1599,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the pillow made of?",
+        "answer": "The pillow is made of premium soft foam and has a cover of hypoallergenic fabric."
+      },
+      {
+        "question": "What is the recommended care for the foam?",
+        "answer": "The foam inside is not washable and should be kept away from water."
+      },
+      {
+        "question": "What dimensions does the pillow come in?",
+        "answer": "The dimensions are 25 x 16 inches (63.5 x 40.64 cm)."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "memory-foam-pillow",
+    "source_url": "https://sleepycat.in/products/memory-foam-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "SoftTouch Memory Foam Pillow",
+    "category": "Pillow",
+    "sub_category": "Memory Foam Pillow",
+    "description_short": "Experience real memory foam comfort that doesn't sag, break or flatten. Perforated design for breathability & medium height support for proper neck alignment.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Memory Foam",
+        "material": "Real Memory Foam",
+        "foam_type": "Perforated Memory Foam",
+        "thickness_mm": 100,
+        "thickness_inches": 4,
+        "notes": "Breathable design to enhance airflow."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Premium Hypoallergenic Fabric",
+      "weave": "Soft, breathable",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash in delicate cycle with cold water."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Regular",
+        "length_mm": 560,
+        "width_mm": 360,
+        "height_mm": 100,
+        "weight_kg": 0.8
+      },
+      {
+        "size_name": "Full",
+        "length_mm": 635,
+        "width_mm": 406,
+        "height_mm": 100,
+        "weight_kg": 0.9
+      },
+      {
+        "size_name": "King",
+        "length_mm": 711,
+        "width_mm": 457,
+        "height_mm": 100,
+        "weight_kg": 1
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Medium Firm",
+      "feel_descriptors": [
+        "Supportive",
+        "Comfortable",
+        "Contouring"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "SoftTouch",
+        "description": "SleepyCat's branded perforated memory foam pillow line."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 100
+    },
+    "pricing": [
+      {
+        "size_name": "Regular",
+        "mrp": 1599,
+        "selling_price": 959,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Full",
+        "mrp": 1999,
+        "selling_price": 1299,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 2299,
+        "selling_price": 1499,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the best memory foam pillow brand?",
+        "answer": "SleepyCat is one of the top memory foam pillow brands."
+      },
+      {
+        "question": "Is it good to sleep on memory foam?",
+        "answer": "Yes, it is good to sleep on a memory foam pillow that provides great support to your neck and spine."
+      },
+      {
+        "question": "How to choose a good memory foam pillow?",
+        "answer": "Consider factors like firmness, breathability, support, and hypoallergenic properties."
+      },
+      {
+        "question": "What do you mean by neutral spine position?",
+        "answer": "The neutral spine position is where your head and neck are aligned and under the least amount of stress."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "natural-latex-pillow",
+    "source_url": "https://sleepycat.in/products/natural-latex-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Natural Latex Pillow",
+    "category": "Pillow",
+    "sub_category": "Natural Latex Pillow",
+    "description_short": "100% Organic Latex pillow with GOLS certification, naturally cooling, hypoallergenic, and provides bouncy, responsive support.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Pillow Fill",
+        "material": "GOLS Certified 100% Natural Latex Foam",
+        "foam_type": "Natural Latex",
+        "thickness_mm": 102,
+        "thickness_inches": 4
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Premium Hypoallergenic Fabric With Mesh Sides",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable cover"
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 610,
+        "width_mm": 406,
+        "height_mm": 102,
+        "weight_kg": 0.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 6,
+      "label": "Medium-Soft",
+      "feel_descriptors": [
+        "medium soft",
+        "responsive",
+        "bouncy"
+      ]
+    },
+    "proprietary_tech": [],
+    "certifications": [
+      "GOLS Certified"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 2589,
+        "selling_price": 2199,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the lifespan of this pillow?",
+        "answer": "Natural Latex Pillows are highly durable and can last for about 7-10 years."
+      },
+      {
+        "question": "Is this pillow GOLS-certified?",
+        "answer": "Yes, our Standard Latex Pillow is GOLS-certified."
+      },
+      {
+        "question": "Is Organic Latex Pillow Good?",
+        "answer": "Yes, Organic Latex Pillow is good to sleep on and is actually a healthier option."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "pregnancy-body-pillow",
+    "source_url": "https://sleepycat.in/products/pregnancy-body-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Cuddle Pillow",
+    "category": "Pillow",
+    "sub_category": "Pregnancy / Body Pillow",
+    "description_short": "Maintain good sleep posture without tossing and turning. This body pillow is super comfortable for to-be-mothers, too!",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Pillow Fill",
+        "material": "Virgin Microfiber",
+        "foam_type": "Fiber Fill",
+        "notes": "Soft body-length fill."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Luxe Modal Fabric",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable"
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 1270,
+        "width_mm": 482.6,
+        "notes": "I-shaped body pillow"
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Soft",
+      "feel_descriptors": [
+        "Soft",
+        "Comfortable"
+      ]
+    },
+    "proprietary_tech": [],
+    "certifications": [
+      "Hypoallergenic"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 1989,
+        "selling_price": 1499,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the purpose of a body pillow?",
+        "answer": "Body pillow is made with moms-to-be in mind. They support your back and make it easier to sleep on your side, which may be more comfortable after 20 weeks."
+      },
+      {
+        "question": "Which shaped pillow is best during pregnancy?",
+        "answer": "An I or U-shaped quality body pillow can improve the alignment of your spine, back, and hips."
+      },
+      {
+        "question": "Is pregnancy body pillow helpful in pregnancy for back pain?",
+        "answer": "Yes, they help reduce back pain during pregnancy to a large extent."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "travel-neck-pillow",
+    "source_url": "https://sleepycat.in/products/travel-neck-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Travel Neck Pillow",
+    "category": "Pillow",
+    "sub_category": "Travel",
+    "description_short": "Unroll, Snap, Sleep. Repeat! This neck pillow comfortably sits around your neck & its flex headrest offers the best support.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Pillow Fill",
+        "material": "Memory Foam",
+        "foam_type": "Memory Foam",
+        "thickness_mm": 25,
+        "thickness_inches": 1,
+        "notes": "Soft cushioning for neck support."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Lycra",
+      "weave": "Soft",
+      "gsm": 200,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash on delicate cycle with cold water."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 254,
+        "width_mm": 228.6,
+        "weight_kg": 0.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium",
+      "feel_descriptors": [
+        "Soft",
+        "Supportive"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Snap Closure",
+        "description": "Snap-and-sleep closure for travel."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 100
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 1489,
+        "selling_price": 949,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the pillow made of?",
+        "answer": "The pillow is made of premium memory foam."
+      },
+      {
+        "question": "What are the dimensions of the pillow?",
+        "answer": "The dimensions are 10 x 9 inches (Standard size)."
+      }
+    ],
+    "_category_folder": "pillows"
+  },
+  {
+    "slug": "2-inch-memory-foam-mattress-topper",
+    "source_url": "https://sleepycat.in/products/2-inch-memory-foam-mattress-topper",
+    "scraped_at": "2026-05-13",
+    "product_name": "2 Inch Memory Foam Mattress Topper",
+    "category": "Mattress Topper",
+    "sub_category": "Memory Foam Topper",
+    "description_short": "Designed to add comfort and support to your existing mattress.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "AirGen Memory Foam",
+        "material": "Memory Foam",
+        "foam_type": "AirGen",
+        "thickness_mm": 51,
+        "thickness_inches": 2,
+        "gsm": 100,
+        "notes": "Adaptive support and soft feel."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "100% Cotton",
+      "weave": "Knitted",
+      "gsm": 200,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable, delicate cycle."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1829,
+        "width_mm": 914,
+        "height_mm": 51,
+        "weight_kg": 3.5
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1981,
+        "width_mm": 1372,
+        "height_mm": 51,
+        "weight_kg": 4.5
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981,
+        "width_mm": 1524,
+        "height_mm": 51,
+        "weight_kg": 5
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2134,
+        "width_mm": 1829,
+        "height_mm": 51,
+        "weight_kg": 6
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 6,
+      "label": "Medium",
+      "feel_descriptors": [
+        "Soft",
+        "Comfortable",
+        "Supportive"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "AirGen Memory Foam",
+        "description": "Provides adaptive cushioning for enhanced comfort."
+      }
+    ],
+    "certifications": [
+      "CertiPUR-US",
+      "ISO 9001",
+      "OEKO-TEX"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 150
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 5299,
+        "selling_price": 3709,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 6899,
+        "selling_price": 4829,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 7499,
+        "selling_price": 5249,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 8999,
+        "selling_price": 6299,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What's the best thickness for a mattress topper?",
+        "answer": "The best thickness for a mattress topper usually ranges between 2 to 4 inches."
+      }
+    ],
+    "notes_observed": "Duplicate of memory-foam-mattress-topper but with full spec table (cover fabric, CertiPUR/ISO/OEKO-TEX certs). Two SKUs for the same product line \u2014 likely the 2\" version is the premium-spec'd variant.",
+    "_category_folder": "toppers"
+  },
+  {
+    "slug": "aeroflow-foam-mattress-topper",
+    "source_url": "https://sleepycat.in/products/aeroflow-foam-mattress-topper",
+    "scraped_at": "2026-05-13",
+    "product_name": "Aeroflow Foam Topper",
+    "category": "Mattress Topper",
+    "sub_category": "Aeroflow Foam Topper",
+    "description_short": "Add breathable, cooling comfort and responsive support to your old mattress with the SleepyCat Aeroflow Foam Topper - no replacement needed.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Aeroflow Foam",
+        "material": "Foam",
+        "foam_type": "Aeroflow / Airflow Foam",
+        "thickness_mm": 51,
+        "thickness_inches": 2,
+        "notes": "Breathable, cooling comfort with ventilation channels."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Polyester",
+      "weave": "Knitted",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash on delicate cycle with cold water and msupport detergent."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1829,
+        "width_mm": 914,
+        "height_mm": 51
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1830,
+        "width_mm": 1371,
+        "height_mm": 51
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981,
+        "width_mm": 1524,
+        "height_mm": 51
+      },
+      {
+        "size_name": "King",
+        "length_mm": 1981,
+        "width_mm": 1830,
+        "height_mm": 51
+      },
+      {
+        "size_name": "Custom Size",
+        "height_mm": 51,
+        "notes": "Busupport-to-spec, non-returnable"
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 4,
+      "label": "Soft",
+      "feel_descriptors": [
+        "Soft Feel",
+        "Cooling",
+        "Breathable"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Aeroflow Transition Foam",
+        "description": "Enhances breathability and minimizes moisture busupportup."
+      },
+      {
+        "name": "Ventilation Channels",
+        "description": "Allows air to circulate freely to reduce heat and moisture."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 3959,
+        "selling_price": 3365,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the feel of the Aeroflow mattress topper?",
+        "answer": "The Aeroflow mattress topper has a soft feel, providing cooling comfort and breathable support."
+      },
+      {
+        "question": "What should I do if I choose a custom size?",
+        "answer": "Custom size mattresses are made to order and are non-returnable."
+      },
+      {
+        "question": "How long does it take for the topper to regain its shape after unboxing?",
+        "answer": "Allow 24-48 hours for the topper to fully regain its shape."
+      }
+    ],
+    "_category_folder": "toppers"
+  },
+  {
+    "slug": "latex-mattress-topper",
+    "source_url": "https://sleepycat.in/products/latex-mattress-topper",
+    "scraped_at": "2026-05-13",
+    "product_name": "Natural Latex Mattress Topper",
+    "category": "Mattress Topper",
+    "sub_category": "Latex Topper",
+    "description_short": "Soft Feel - GOLS-certified 100% organic latex - Responsive Support",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Latex Layer",
+        "material": "GOLS-certified organic latex",
+        "foam_type": "Natural Latex",
+        "thickness_mm": 38.1,
+        "thickness_inches": 1.5,
+        "notes": "Naturally responsive with pinhole design for airflow."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Cotton",
+      "weave": "Percale",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash cold, msupport detergent, delicate cycle."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1829,
+        "width_mm": 914,
+        "height_mm": 38.1,
+        "weight_kg": 8
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1880,
+        "width_mm": 1370,
+        "height_mm": 38.1,
+        "weight_kg": 10
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1980,
+        "width_mm": 1520,
+        "height_mm": 38.1,
+        "weight_kg": 12
+      },
+      {
+        "size_name": "King",
+        "length_mm": 1980,
+        "width_mm": 1830,
+        "height_mm": 38.1,
+        "weight_kg": 14
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 6,
+      "label": "Medium",
+      "feel_descriptors": [
+        "Responsive",
+        "Soft",
+        "Comfortable"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Pinhole Design",
+        "description": "Enhances airflow and reduces heat busupportup."
+      }
+    ],
+    "certifications": [
+      "GOLS-certified",
+      "OEKO-TEX Standard 100"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 120
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 8499,
+        "selling_price": 7224,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 9999,
+        "selling_price": 8499,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "How is a natural latex mattress topper different from memory foam?",
+        "answer": "A natural latex mattress topper feels more responsive and slightly bouncy, making it easier to move. Unlike memory foam, it doesn't sink deeply and offers a more balanced, on-the-surface feel."
+      },
+      {
+        "question": "Is natural latex mattress topper good for hot sleepers?",
+        "answer": "Yes, natural latex is naturally breathable. Its open structure and pinhole design allow better airflow."
+      }
+    ],
+    "_category_folder": "toppers"
+  },
+  {
+    "slug": "mattress-cover",
+    "source_url": "https://sleepycat.in/products/mattress-cover",
+    "scraped_at": "2026-05-13",
+    "product_name": "Mattress Cover",
+    "category": "Mattress Cover",
+    "sub_category": "Zipper Cover (replacement)",
+    "description_short": "Protect your mattress with our comfortable and removable zipper cover, making it easy to clean and maintain freshness.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Zipper Cover",
+        "material": "Cotton and polyester blend",
+        "notes": "Removable and machine washable Ezie Zipper Cover."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Cotton and polyester blend",
+      "weave": "Plain",
+      "gsm": 200,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash in cold water, tumble dry on low."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1829,
+        "width_mm": 914,
+        "height_mm": 152,
+        "weight_kg": 1.5
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1880,
+        "width_mm": 1372,
+        "height_mm": 152,
+        "weight_kg": 2
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 2032,
+        "width_mm": 1524,
+        "height_mm": 203,
+        "weight_kg": 2.5
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2134,
+        "width_mm": 1829,
+        "height_mm": 203,
+        "weight_kg": 3
+      }
+    ],
+    "firmness": {
+      "feel_descriptors": [
+        "Soft",
+        "Breathable",
+        "Comfortable"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "CoolTEC\u2122",
+        "description": "Provides cooling sensation on contact, enhancing sleep comfort."
+      }
+    ],
+    "certifications": [
+      "OEKO-TEX Standard 100"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 5,
+      "weight_capacity_kg": 300
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 3999,
+        "selling_price": 3399,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 4499,
+        "selling_price": 3799,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 4999,
+        "selling_price": 4199,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 5499,
+        "selling_price": 4699,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Is the cover removable?",
+        "answer": "Yes, the zipper cover is removable and machine washable."
+      },
+      {
+        "question": "What sizes are available?",
+        "answer": "Available in Single, Double, Queen, and King sizes."
+      }
+    ],
+    "notes_observed": "Replacement zipper cover for the mattress itself (not a protector/topper). Sized to fit 6\"-8\" mattresses depending on SKU.",
+    "_category_folder": "toppers"
+  },
+  {
+    "slug": "mattress-protector",
+    "source_url": "https://sleepycat.in/products/mattress-protector",
+    "scraped_at": "2026-05-13",
+    "product_name": "Mattress Protector",
+    "category": "Mattress Protector",
+    "sub_category": "Waterproof Protector",
+    "description_short": "Waterproof mattress protector to save your mattress from dust, food and liquid stains.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Outer Layer",
+        "material": "100% Polyester",
+        "notes": "Soft and breathable fabric."
+      },
+      {
+        "position": 2,
+        "name": "Waterproof Layer",
+        "material": "TPU",
+        "notes": "Waterproof layer prevents liquids from seeping into the mattress."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "100% Polyester",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable, delicate cycle, cold water."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single 72x36",
+        "length_mm": 1828.8,
+        "width_mm": 914.4
+      },
+      {
+        "size_name": "Double 75x48",
+        "length_mm": 1905,
+        "width_mm": 1219.2
+      },
+      {
+        "size_name": "Queen 78x60",
+        "length_mm": 1981.2,
+        "width_mm": 1524
+      },
+      {
+        "size_name": "King 84x72",
+        "length_mm": 2133.6,
+        "width_mm": 1828.8
+      }
+    ],
+    "firmness": {},
+    "proprietary_tech": [
+      {
+        "name": "Waterproof Protection Layer",
+        "description": "Prevents liquids from seeping into the mattress."
+      },
+      {
+        "name": "Fitted-Sheet Style",
+        "description": "Fits mattresses up to 10 inches in height."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 10
+    },
+    "pricing": [
+      {
+        "size_name": "Single 72x36",
+        "mrp": 789,
+        "selling_price": 710,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double 75x48",
+        "mrp": 789,
+        "selling_price": 710,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen 78x60",
+        "mrp": 789,
+        "selling_price": 710,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King 84x72",
+        "mrp": 789,
+        "selling_price": 710,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Will it fit my mattress properly?",
+        "answer": "It is designed to fit mattresses up to 10 inches in height, ensuring a snug and secure fit without bunching."
+      },
+      {
+        "question": "Will it feel uncomfortable or plastic-like?",
+        "answer": "No, the top fabric is soft and breathable, designed to feel like a regular bedsheet while the waterproof layer sits underneath."
+      }
+    ],
+    "notes_observed": "Flat pricing across all sizes (\u20b9710). 10-year warranty (longest in lineup).",
+    "_category_folder": "toppers"
+  },
+  {
+    "slug": "memory-foam-mattress-topper",
+    "source_url": "https://sleepycat.in/products/memory-foam-mattress-topper",
+    "scraped_at": "2026-05-13",
+    "product_name": "Memory Foam Mattress Topper",
+    "category": "Mattress Topper",
+    "sub_category": "Memory Foam Topper",
+    "description_short": "Designed to add comfort and support to your existing mattress - so you can ease discomfort without replacing it.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "AirGen\u2122 Memory Foam",
+        "material": "Memory Foam",
+        "foam_type": "Memory Foam",
+        "thickness_mm": 51,
+        "thickness_inches": 2,
+        "notes": "Adaptive support, soft feel."
+      }
+    ],
+    "cover_fabric": {
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash on delicate cycle with cold water."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1829,
+        "width_mm": 914,
+        "height_mm": 51
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1880,
+        "width_mm": 1372,
+        "height_mm": 51
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981,
+        "width_mm": 1524,
+        "height_mm": 51
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2032,
+        "width_mm": 1829,
+        "height_mm": 51
+      },
+      {
+        "size_name": "Custom Size",
+        "height_mm": 51,
+        "notes": "Busupport-to-spec dimensions available"
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 6,
+      "label": "Medium Soft",
+      "feel_descriptors": [
+        "Soft",
+        "Supportive",
+        "Comfortable"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "AirGen\u2122",
+        "description": "Memory Foam for adaptive comfort."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 4499,
+        "selling_price": 3149,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 4999,
+        "selling_price": 3499,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 5499,
+        "selling_price": 3799,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 5999,
+        "selling_price": 4099,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What's the best thickness for a mattress topper?",
+        "answer": "The best thickness for a mattress topper usually ranges between 2 to 4 inches. Thinner toppers (2 inches) are great for slight comfort upgrades, while thicker ones (3-4 inches) provide deeper cushioning and support."
+      },
+      {
+        "question": "How do I choose the right mattress topper?",
+        "answer": "To choose the right mattress topper, consider your mattress type and what it lacks - too firm, uneven, or lacking support."
+      }
+    ],
+    "_category_folder": "toppers"
+  },
+  {
+    "slug": "microfiber-mattress-topper",
+    "source_url": "https://sleepycat.in/products/microfiber-mattress-topper",
+    "scraped_at": "2026-05-13",
+    "product_name": "Microfiber Mattress Topper",
+    "category": "Mattress Topper",
+    "sub_category": "Microfiber Topper",
+    "description_short": "Designed to instantly add plush softness and smooth out firmness without changing your mattress.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Virgin Microfiber Filling",
+        "material": "100% Virgin Microfiber",
+        "foam_type": "Fiber Fill",
+        "thickness_mm": 50.8,
+        "thickness_inches": 2,
+        "notes": "Soft & plush feel."
+      }
+    ],
+    "cover_fabric": {
+      "removable": true,
+      "washable": false,
+      "wash_instructions": "Dry clean only."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1829,
+        "width_mm": 914,
+        "height_mm": 50.8
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1880,
+        "width_mm": 1372,
+        "height_mm": 50.8
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981,
+        "width_mm": 1524,
+        "height_mm": 50.8
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2032,
+        "width_mm": 1981,
+        "height_mm": 50.8
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 4,
+      "label": "Soft & Cushioned",
+      "feel_descriptors": [
+        "Plush",
+        "Comfortable"
+      ]
+    },
+    "proprietary_tech": [],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 4499,
+        "selling_price": 3374,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 4999,
+        "selling_price": 3899,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 5499,
+        "selling_price": 4399,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 5999,
+        "selling_price": 4799,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Can I wash a microfiber mattress topper?",
+        "answer": "Most microfiber mattress toppers are not machine washable and are best dry cleaned to maintain their softness and structure."
+      },
+      {
+        "question": "Is microfiber the same as memory foam?",
+        "answer": "No, microfiber and memory foam are very different. Microfiber is soft and cushiony, while a Memory Foam Mattress Topper adapts to your body to provide support and pressure relief."
+      }
+    ],
+    "_category_folder": "toppers"
+  },
+  {
+    "slug": "quilted-mattress-protector",
+    "source_url": "https://sleepycat.in/products/quilted-mattress-protector",
+    "scraped_at": "2026-05-13",
+    "product_name": "Quilted Mattress Protector",
+    "category": "Mattress Protector",
+    "sub_category": "Quilted Waterproof Protector",
+    "description_short": "A quilted mattress protector with added comfort & waterproof protection.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Quilted Top",
+        "material": "Polyester fabric with quilted padding",
+        "gsm": 200,
+        "notes": "Soft, padded surface."
+      },
+      {
+        "position": 2,
+        "name": "Waterproof Backing",
+        "material": "TPU",
+        "notes": "Prevents liquids from seeping through."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Polyester fabric with quilted padding",
+      "weave": "Quilted",
+      "gsm": 200,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable. Use msupport detergent and avoid bleach. Tumble dry on low heat or air dry. Do not iron."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1830,
+        "width_mm": 910,
+        "weight_kg": 1.2
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1981,
+        "width_mm": 1372,
+        "weight_kg": 1.5
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 2032,
+        "width_mm": 1524,
+        "weight_kg": 1.8
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2134,
+        "width_mm": 1829,
+        "weight_kg": 2
+      }
+    ],
+    "firmness": {
+      "feel_descriptors": [
+        "Soft quilted surface",
+        "Waterproof backing",
+        "Comfortable"
+      ]
+    },
+    "proprietary_tech": [],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 100
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 999,
+        "selling_price": 899,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 1199,
+        "selling_price": 1099,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 1399,
+        "selling_price": 1299,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 1599,
+        "selling_price": 1499,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What material is the mattress protector made of?",
+        "answer": "The mattress protector is made from polyester fabric with quilted padding and waterproof TPU backing."
+      }
+    ],
+    "_category_folder": "toppers"
+  },
+  {
+    "slug": "duvet-cover",
+    "source_url": "https://sleepycat.in/products/duvet-cover",
+    "scraped_at": "2026-05-13",
+    "product_name": "200 TC Percale Duvet Cover",
+    "category": "Bedding",
+    "sub_category": "Duvet Cover",
+    "description_short": "A soft, comfortable duvet cover made from 100% cotton with a percale weave for breathability.",
+    "cover_fabric": {
+      "composition": "100% Cotton",
+      "weave": "Percale",
+      "thread_count": 200,
+      "gsm": 120,
+      "washable": true,
+      "wash_instructions": "Wash in delicate cycle with cold water and msupport detergent. No bleach/softeners. Air-dry.",
+      "closure": "Button closure with 4 corner loops"
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single 90x60in",
+        "length_mm": 2286,
+        "width_mm": 1524
+      },
+      {
+        "size_name": "Double/Queen 90x100in",
+        "length_mm": 2286,
+        "width_mm": 2540
+      }
+    ],
+    "colors_available": [
+      "Purple Panther",
+      "Sailor Stripes",
+      "Overboard Checks",
+      "Dolphin Grey",
+      "Twilight Blue",
+      "Evergreen"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Corner Loops",
+        "description": "4 corner loops for tying duvet in place."
+      }
+    ],
+    "certifications": [
+      "OEKO-Tex Certified",
+      "Colored with AZO-free dyes"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 2089,
+        "selling_price": 1671,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double/Queen",
+        "mrp": 2089,
+        "selling_price": 1671,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the thread count of the duvet cover?",
+        "answer": "The duvet cover has a thread count of 200."
+      }
+    ],
+    "notes_observed": "Same 6 colors as percale fitted bedsheet \u2014 matching set. Note: schema reported dims in cm (228.6/152.4) \u2014 corrected to mm here.",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "jersey-duvet-cover",
+    "source_url": "https://sleepycat.in/products/jersey-duvet-cover",
+    "scraped_at": "2026-05-13",
+    "product_name": "Jersey Duvet Cover",
+    "category": "Bedding",
+    "sub_category": "Duvet Cover",
+    "description_short": "Comfier than your favourite t-shirt, this jersey duvet cover will feel so soft to your skin. It comes with a zipper so you can put them on as & when you please.",
+    "cover_fabric": {
+      "composition": "Knitted Jersey Fabric (T-shirt knit)",
+      "weave": "Knit (jersey)",
+      "gsm": 140,
+      "washable": true,
+      "wash_instructions": "Machine washable.",
+      "closure": "Zipper"
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single 90x60in",
+        "length_mm": 2286,
+        "width_mm": 1524
+      },
+      {
+        "size_name": "Double 90x100in",
+        "length_mm": 2286,
+        "width_mm": 2540
+      }
+    ],
+    "colors_available": [
+      "Bluewave Stripe",
+      "Midnight Blue",
+      "Walnut Brown",
+      "Zebra Stripes"
+    ],
+    "proprietary_tech": [],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 2089,
+        "selling_price": 1699,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the GSM?",
+        "answer": "The GSM is 140."
+      }
+    ],
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "jersey-fitted-bedsheet-set",
+    "source_url": "https://sleepycat.in/products/jersey-fitted-bedsheet-set",
+    "scraped_at": "2026-05-13",
+    "product_name": "Jersey Fitted Sheets",
+    "category": "Bedding",
+    "sub_category": "Fitted Bedsheet",
+    "description_short": "Soft as your favourite T-shirt! Get the softest feel with its knit fabric that does not wrinkle & stays snug with its elastic edges.",
+    "cover_fabric": {
+      "composition": "Knitted Jersey Fabric (T-shirt knit)",
+      "weave": "Knit (jersey)",
+      "gsm": 140,
+      "washable": true,
+      "wash_instructions": "Machine wash cold with colors. No bleach or fabric softeners. Low-heat tumble dry or air dry."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1828,
+        "width_mm": 914,
+        "pillowcase_count": 1
+      },
+      {
+        "size_name": "Double",
+        "pillowcase_count": 1
+      },
+      {
+        "size_name": "Queen",
+        "pillowcase_count": 2
+      },
+      {
+        "size_name": "King",
+        "pillowcase_count": 2
+      }
+    ],
+    "colors_available": [
+      "Bluewave Stripe",
+      "Midnight Blue",
+      "Zebra Stripes",
+      "Walnut Brown"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Elastic Edges",
+        "description": "Knit fabric stretches to grip mattress."
+      }
+    ],
+    "certifications": [
+      "Oeko-Tex certified"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 1389,
+        "selling_price": 1181,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 1389,
+        "selling_price": 1181,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 1389,
+        "selling_price": 1181,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 1389,
+        "selling_price": 1181,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What are jersey bed sheets?",
+        "answer": "Jersey bed sheets are made from a knit fabric, akin to T-shirt material. The result is a stretchy, soft, and breathable sheet."
+      },
+      {
+        "question": "Are jersey sheets suitable for all seasons?",
+        "answer": "Jersey sheets are versatile, offering comfort in warmer months with breathability and warmth in cooler weather due to their insulating properties."
+      }
+    ],
+    "notes_observed": "Page only fully extracted Single dimensions \u2014 Double/Queen/King not visible without variant select. Knit doesn't have thread count (TC=0).",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "jersey-pillow-cases",
+    "source_url": "https://sleepycat.in/products/jersey-pillow-cases",
+    "scraped_at": "2026-05-13",
+    "product_name": "Jersey Pillow Cases",
+    "category": "Bedding",
+    "sub_category": "Pillow Case",
+    "description_short": "Made from soft, stretchy jersey fabric known for its comfort and breathability, jersey pillowcases offer a cozy feel.",
+    "cover_fabric": {
+      "composition": "Knitted Jersey (cotton blend)",
+      "weave": "Knit (jersey)",
+      "gsm": 150,
+      "washable": true,
+      "wash_instructions": "Machine wash cold with like colors. No bleach or fabric softeners. Low-heat tumble dry or air dry."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 686,
+        "width_mm": 432,
+        "pieces": 2
+      },
+      {
+        "size_name": "King",
+        "length_mm": 813,
+        "width_mm": 508,
+        "pieces": 2
+      },
+      {
+        "size_name": "Cuddle (Body Pillow)",
+        "length_mm": 1321,
+        "width_mm": 508,
+        "pieces": 1
+      }
+    ],
+    "colors_available": [
+      "Midnight Blue",
+      "Bluewave Stripe",
+      "Zebra Stripes",
+      "Walnut Brown"
+    ],
+    "certifications": [
+      "OEKO-Tex certified",
+      "AZO-free dyes"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 549,
+        "selling_price": 449,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 649,
+        "selling_price": 549,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Cuddle",
+        "mrp": 299,
+        "selling_price": 250,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What are jersey pillow covers?",
+        "answer": "Jersey pillow covers, akin to T-shirt material, are crafted from a knit fabric blend of cotton and synthetic fibers, providing a soft, stretchy, and comfortable surface for pillows."
+      },
+      {
+        "question": "Do jersey pillow covers come in different sizes?",
+        "answer": "Yes, jersey pillow covers come in various sizes, including Standard, King, and Cuddle, accommodating different pillow dimensions for a proper fit."
+      }
+    ],
+    "notes_observed": "Schema returned weave='Percale' which is wrong \u2014 this is a knit jersey. Cheapest pillowcase in lineup (\u20b9250 for Cuddle).",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "knitted-throw",
+    "source_url": "https://sleepycat.in/products/knitted-throw",
+    "scraped_at": "2026-05-13",
+    "product_name": "Knitted Throw",
+    "category": "Bedding",
+    "sub_category": "Throw Blanket",
+    "description_short": "This throw is closely knitted and made out of 100% cotton. Perfect to snuggle with and to add warmth to your living room.",
+    "cover_fabric": {
+      "composition": "100% Premium Cotton (machine knitted yarns)",
+      "weave": "Knit",
+      "gsm": 200,
+      "washable": true,
+      "wash_instructions": "Machine wash delicate cycle, cold water, msupport detergent. No bleach/softeners. Air dry."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 1499,
+        "width_mm": 1244,
+        "weight_kg": 1.2
+      }
+    ],
+    "colors_available": [
+      "Biscotti Beige",
+      "Pineapple Yellow",
+      "Pebble Grey"
+    ],
+    "certifications": [
+      "OEKO-TEX Standard 100"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 2889,
+        "selling_price": 2399,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What are some standout features of SleepyCat's Knitted Throw?",
+        "answer": "Our Knitted Throws are made of 100% premium cotton yarns that are free of any harmful substances. These throws do not shrink after wash and are highly durable."
+      }
+    ],
+    "notes_observed": "Smaller than muslin (49x59 vs 85x59), but heavier (1.2kg vs 0.52kg) \u2014 thicker knit for cooler weather. Sofa decor positioning.",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "luxe-comforter",
+    "source_url": "https://sleepycat.in/products/luxe-comforter",
+    "scraped_at": "2026-05-13",
+    "product_name": "150 GSM Summer Luxe Comforter",
+    "category": "Bedding",
+    "sub_category": "Comforter (Summer Luxe)",
+    "description_short": "Luxurious sleep made with the finest virgin microfiber fill and the softest cotton modal fabric for comfort and coziness.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Cover Fabric",
+        "material": "Cotton Modal (Luxe Modal)",
+        "gsm": 150,
+        "notes": "Ultra-smooth modal fabric."
+      },
+      {
+        "position": 2,
+        "name": "Fill",
+        "material": "Virgin Microfiber Fill",
+        "gsm": 150,
+        "notes": "Light fill for summer / AC use."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Cotton Modal",
+      "gsm": 150,
+      "washable": true,
+      "wash_instructions": "Machine washable on delicate cycle with cold water and msupport detergents."
+    },
+    "fill_gsm": 150,
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 2286,
+        "width_mm": 1524,
+        "weight_kg": 5
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 2286,
+        "width_mm": 2540,
+        "weight_kg": 8
+      }
+    ],
+    "colors_available": [
+      "Rhino Grey",
+      "Coconut White"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Quilted Box Design",
+        "description": "Keeps filling evenly distributed."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 3599,
+        "selling_price": 3059,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the difference between the summer and winter Luxe Comforter variants?",
+        "answer": "The summer variant is lighter and designed for breathable comfort in warmer conditions, while the winter variant has a higher GSM fill for added warmth."
+      }
+    ],
+    "notes_observed": "Luxe range: Summer 150 \u2192 Winter 300 GSM. Standard line: Summer 120 \u2192 All-Season 200 \u2192 Winter 400 GSM.",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "muslin-throw",
+    "source_url": "https://sleepycat.in/products/muslin-throw",
+    "scraped_at": "2026-05-13",
+    "product_name": "Muslin Throw",
+    "category": "Bedding",
+    "sub_category": "Throw Blanket",
+    "description_short": "The perfect snuggle partner for warm summer nights. This cool, soft & lightweight Muslin Throw doubles up as a travel companion too!",
+    "cover_fabric": {
+      "composition": "100% Natural Cotton",
+      "weave": "Muslin (2-layer)",
+      "layers": 2,
+      "washable": true,
+      "wash_instructions": "Machine wash delicate cycle, cold water, msupport detergent. No bleach or fabric softeners. Air dry."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 2159.4,
+        "width_mm": 1498.6,
+        "weight_kg": 0.52
+      }
+    ],
+    "colors_available": [
+      "Maze",
+      "Nova",
+      "Aurora"
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "warranty_years": 1,
+      "notes": "Not eligible for return"
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 2999,
+        "selling_price": 2549,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "How much does the Muslin Throw weigh?",
+        "answer": "The Muslin Throw weighs approximately 520 grams without the bag, making it lightweight and easy to carry."
+      },
+      {
+        "question": "Will the fabric soften after every wash?",
+        "answer": "Yes, the cotton muslin fabric is designed to get softer with every wash."
+      }
+    ],
+    "notes_observed": "Throw size (85x59in) ~ Single bedsheet size but lighter weight. 520 GSM noted in fabric \u2014 likely refers to total weight not GSM; double-check.",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "percale-fitted-bedsheet-set",
+    "source_url": "https://sleepycat.in/products/percale-fitted-bedsheet-set",
+    "scraped_at": "2026-05-13",
+    "product_name": "200 TC Percale Fitted Bedsheet Set",
+    "category": "Bedding",
+    "sub_category": "Fitted Bedsheet",
+    "description_short": "Crafted from 100% cotton with a classic percale weave, these fitted sheets deliver a crisp, cool feel with natural breathability.",
+    "cover_fabric": {
+      "composition": "100% Cotton",
+      "weave": "Percale (one-over-one)",
+      "thread_count": 200,
+      "gsm": 130,
+      "washable": true,
+      "wash_instructions": "Machine wash delicate cycle, cold water, msupport detergent. No bleach. Iron OK."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1828.8,
+        "width_mm": 914.4,
+        "weight_kg": 1,
+        "pillowcase_count": 1
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1828.8,
+        "width_mm": 1219.2,
+        "weight_kg": 1,
+        "pillowcase_count": 1
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981.2,
+        "width_mm": 1524,
+        "weight_kg": 1,
+        "pillowcase_count": 2
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2133.6,
+        "width_mm": 1828.8,
+        "weight_kg": 1,
+        "pillowcase_count": 2
+      }
+    ],
+    "colors_available": [
+      "Purple Panther",
+      "Sailor Stripes",
+      "Overboard Checks",
+      "Dolphin Grey",
+      "Twilight Blue",
+      "Evergreen"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Elastic Fitted Corners",
+        "description": "Grips mattress edges so sheet stays smooth."
+      }
+    ],
+    "certifications": [
+      "OEKO-Tex certified",
+      "Coloured with AZO-free dyes"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 1389,
+        "selling_price": 1042,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 1389,
+        "selling_price": 1042,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 1389,
+        "selling_price": 1042,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 1389,
+        "selling_price": 1042,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What does 200 thread count mean in bedsheets?",
+        "answer": "A 200 thread count means there are 200 threads woven per square inch, offering the ideal balance of breathability, durability, and comfort for percale sheets."
+      },
+      {
+        "question": "Is this bedsheet suitable for hot weather or summer?",
+        "answer": "Yes, percale cotton is lightweight and highly breathable, making it perfect for warm weather and hot sleepers."
+      },
+      {
+        "question": "Is this fitted bedsheet wrinkle-free?",
+        "answer": "Percale sheets have a natural crisp finish and may wrinkle slightly, which is part of their classic, hotel-like look."
+      }
+    ],
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "percale-pillow-cases-king",
+    "source_url": "https://sleepycat.in/products/percale-pillow-cases-king",
+    "scraped_at": "2026-05-13",
+    "product_name": "200 TC Percale Pillow Cases",
+    "category": "Bedding",
+    "sub_category": "Pillow Case",
+    "description_short": "Soft pillow cases made of 100% cotton that protect your pillows from dust & dirt. Add a touch of warmth to your bedroom with our range of cozy pillow covers.",
+    "cover_fabric": {
+      "composition": "100% Cotton",
+      "weave": "Percale",
+      "thread_count": 200,
+      "washable": true,
+      "wash_instructions": "Machine wash delicate cycle, cold water, msupport detergent. No bleach/softeners. Air-dry."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 711,
+        "width_mm": 457,
+        "pieces": 2
+      },
+      {
+        "size_name": "King",
+        "length_mm": 813,
+        "width_mm": 508,
+        "pieces": 2
+      },
+      {
+        "size_name": "Cuddle (Body Pillow)",
+        "length_mm": 1321,
+        "width_mm": 508,
+        "pieces": 1
+      }
+    ],
+    "colors_available": [
+      "Sailor Stripes",
+      "Overboard Checks",
+      "Purple Panther",
+      "Dolphin Grey",
+      "Twilight Blue",
+      "Evergreen"
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 699,
+        "selling_price": 664,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 699,
+        "selling_price": 664,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Cuddle",
+        "mrp": 699,
+        "selling_price": 664,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What sizes are available?",
+        "answer": "Available in King, Standard, and Cuddle sizes."
+      }
+    ],
+    "notes_observed": "URL says 'king' but page covers Standard/King/Cuddle. Same colorway as percale bedsheet \u2014 matching set.",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "reversible-comforter",
+    "source_url": "https://sleepycat.in/products/reversible-comforter",
+    "scraped_at": "2026-05-13",
+    "product_name": "All Season Reversible Comforter",
+    "category": "Bedding",
+    "sub_category": "Comforter (All Season)",
+    "description_short": "Sleep comfortable and cozy all year round with our 200 GSM Virgin Microfiber All Season Reversible Comforter.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Cover Fabric",
+        "material": "Virgin Microfiber",
+        "gsm": 200,
+        "notes": "Soft and breathable, both sides usable (reversible)."
+      },
+      {
+        "position": 2,
+        "name": "Filling",
+        "material": "Virgin Microfiber Fill",
+        "gsm": 200,
+        "notes": "Lightweight and warm. Total fill weight 200 GSM."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Virgin Microfiber",
+      "gsm": 200,
+      "washable": true,
+      "wash_instructions": "Machine wash in warm water with msupport detergent."
+    },
+    "fill_gsm": 200,
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 2286,
+        "width_mm": 1524,
+        "weight_kg": 1.5
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 2286,
+        "width_mm": 2540,
+        "weight_kg": 2
+      }
+    ],
+    "colors_available": [
+      "Rhino Grey & Coconut White",
+      "Acid Lime & Rhino Grey",
+      "Coffee & Cream",
+      "Nude Pink & Seafoam White",
+      "Navy Maze",
+      "Mustard Mosaic",
+      "Aqua Herringbone",
+      "Green Petal"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Quilted Box Design",
+        "description": "Keeps all filling in place."
+      },
+      {
+        "name": "Moisture Wicking",
+        "description": "Fabric pulls moisture away to dry quickly."
+      }
+    ],
+    "certifications": [
+      "Oeko-Tex Certified"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 1879,
+        "selling_price": 1597,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 1999,
+        "selling_price": 1697,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Will the Reversible Comforter keep me warm?",
+        "answer": "Yes, it's designed for all seasons; it keeps you warm without causing night sweats."
+      },
+      {
+        "question": "What does Moisture Wicking mean?",
+        "answer": "Moisture wicking means the fabric dries quickly and pulls sweat away."
+      }
+    ],
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "sateen-duvet-cover",
+    "source_url": "https://sleepycat.in/products/sateen-duvet-cover",
+    "scraped_at": "2026-05-13",
+    "product_name": "300 TC Sateen Duvet Cover",
+    "category": "Bedding",
+    "sub_category": "Duvet Cover",
+    "description_short": "Experience the silky smoothness of our sateen duvet cover, designed with a sleek zipper closure.",
+    "cover_fabric": {
+      "composition": "100% Long-staple Cotton",
+      "weave": "Sateen",
+      "thread_count": 300,
+      "washable": true,
+      "wash_instructions": "Machine wash delicate cycle, cold water, msupport detergent. No bleach/softeners. Air-dry.",
+      "closure": "Zipper closure with internal corner ties"
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 2286,
+        "width_mm": 1524
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 2286,
+        "width_mm": 2540
+      }
+    ],
+    "colors_available": [
+      "Ivory",
+      "Pebble",
+      "Mineral",
+      "Denim"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Zipper + Corner Ties",
+        "description": "Zipper secures duvet, internal ties prevent shifting/bunching."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 2699,
+        "selling_price": 2294,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What does 300 thread count mean in this duvet cover?",
+        "answer": "A 300 thread count refers to the number of threads woven per square inch, offering an ideal balance of softness, strength, and breathability."
+      },
+      {
+        "question": "How does the zipper closure and corner ties help?",
+        "answer": "The zipper closure keeps your duvet securely enclosed, while the corner ties hold it in place, preventing shifting or bunching inside the cover."
+      }
+    ],
+    "notes_observed": "Only Single price visible (\u20b92294). Available in Single/Double only \u2014 no Queen/King for duvet covers.",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "sateen-fitted-bedsheet-set",
+    "source_url": "https://sleepycat.in/products/sateen-fitted-bedsheet-set",
+    "scraped_at": "2026-05-13",
+    "product_name": "300 TC Sateen Fitted BedSheet",
+    "category": "Bedding",
+    "sub_category": "Fitted Bedsheet",
+    "description_short": "Crafted from 100% long-staple cotton with a refined sateen weave, these fitted sheets deliver a buttery-soft feel, subtle luster, and breathable comfort.",
+    "cover_fabric": {
+      "composition": "100% Long-staple Cotton",
+      "weave": "Sateen",
+      "thread_count": 300,
+      "gsm": 135,
+      "washable": true,
+      "wash_instructions": "Machine wash in cold water with msupport detergents. Do not bleach. Can be ironed."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1828,
+        "width_mm": 914,
+        "height_mm": 330,
+        "weight_kg": 1.3,
+        "pillowcase_count": 1
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1828,
+        "width_mm": 1372,
+        "height_mm": 330,
+        "weight_kg": 1.5,
+        "pillowcase_count": 1
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981,
+        "width_mm": 1524,
+        "height_mm": 330,
+        "weight_kg": 1.7,
+        "pillowcase_count": 2
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2134,
+        "width_mm": 1981,
+        "height_mm": 330,
+        "weight_kg": 1.9,
+        "pillowcase_count": 2
+      }
+    ],
+    "colors_available": [
+      "Ivory",
+      "Pebble",
+      "Mineral",
+      "Denim"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "360\u00b0 Elastic",
+        "description": "Elastic runs all around the sheet, grips mattresses up to 10\u201313 inches thick."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 1999,
+        "selling_price": 1599,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 1999,
+        "selling_price": 1599,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 1999,
+        "selling_price": 1599,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 1999,
+        "selling_price": 1599,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Why should I choose a sateen fitted bedsheet over other fabrics?",
+        "answer": "Sateen offers a smoother, softer feel with a subtle sheen compared to percale's crisp texture or microfiber's synthetic feel."
+      },
+      {
+        "question": "Is this fitted bedsheet suitable for thick mattresses?",
+        "answer": "Yes, it is designed with a deep pocket and can comfortably fit mattresses up to 10\u201313 inches thick, depending on the size."
+      },
+      {
+        "question": "Does this bedsheet come with pillowcases?",
+        "answer": "Yes. Single and Double sizes come with 1 pillowcase, while Queen and King sizes come with 2 pillowcases."
+      }
+    ],
+    "notes_observed": "Flat \u20b91599 across all sizes. Pocket depth (height_mm) = 330mm = ~13\".",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "sateen-pillow-cases-cuddle",
+    "source_url": "https://sleepycat.in/products/sateen-pillow-cases-cuddle",
+    "scraped_at": "2026-05-13",
+    "product_name": "300 TC Sateen Pillow Cases (Cuddle)",
+    "category": "Bedding",
+    "sub_category": "Pillow Case \u2014 Cuddle/Body Pillow",
+    "description_short": "Combining the buttery smoothness of sateen fabric with a refined, seamless design, these pillow covers offer a luxurious look free from visible zippers or buttons.",
+    "cover_fabric": {
+      "composition": "100% Cotton",
+      "weave": "Sateen",
+      "thread_count": 300,
+      "washable": true,
+      "wash_instructions": "Machine washable.",
+      "closure": "Seamless (no zippers or buttons)"
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Cuddle 52x20in",
+        "length_mm": 1320,
+        "width_mm": 510,
+        "pieces": 1
+      }
+    ],
+    "colors_available": [
+      "Ivory",
+      "Pebble",
+      "Mineral",
+      "Denim"
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Cuddle Standard",
+        "mrp": 799,
+        "selling_price": 679,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What sizes are available?",
+        "answer": "The pillowcases are available in standard size of 52 x 20 inches."
+      },
+      {
+        "question": "Can I return the pillowcases?",
+        "answer": "These pillowcases are not eligible for return."
+      }
+    ],
+    "notes_observed": "Cuddle = body pillow case (52x20\"). Matches sateen bedsheet colorway.",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "satin-pillow-cases",
+    "source_url": "https://sleepycat.in/products/satin-pillow-cases",
+    "scraped_at": "2026-05-13",
+    "product_name": "Satin Pillow Cases",
+    "category": "Bedding",
+    "sub_category": "Pillow Case (Satin / Beauty)",
+    "description_short": "Luxuriously soft pillow cases to ensure your beauty sleep while protecting your hair and skin.",
+    "cover_fabric": {
+      "composition": "Satin (polyester satin weave)",
+      "weave": "Satin",
+      "thread_count": 300,
+      "gsm": 90,
+      "washable": true,
+      "wash_instructions": "Machine wash cold, tumble dry low, iron on low."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 711,
+        "width_mm": 457,
+        "pieces": 2
+      },
+      {
+        "size_name": "King",
+        "length_mm": 864,
+        "width_mm": 508,
+        "pieces": 2
+      },
+      {
+        "size_name": "Cuddle",
+        "length_mm": 1016,
+        "width_mm": 914,
+        "pieces": 2
+      }
+    ],
+    "colors_available": [
+      "Daisy White",
+      "Opera Mauve",
+      "Steel Grey",
+      "Dusk Pearl",
+      "Sapphire Blue"
+    ],
+    "certifications": [
+      "Hypoallergenic"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 899,
+        "selling_price": 749,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 999,
+        "selling_price": 899,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Cuddle",
+        "mrp": 1099,
+        "selling_price": 999,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Is the fabric hypoallergenic?",
+        "answer": "Yes, our satin pillow cases are made from hypoallergenic material."
+      },
+      {
+        "question": "Can I buy just one pillow case?",
+        "answer": "Currently, they are available in packs of two."
+      }
+    ],
+    "notes_observed": "Beauty-positioned: 'protect hair and skin, reduce wrinkles, frizz-free hair'. Distinct from satin-weave 300TC sateen \u2014 this is polyester satin not cotton.",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "summer-comforter",
+    "source_url": "https://sleepycat.in/products/summer-comforter",
+    "scraped_at": "2026-05-13",
+    "product_name": "Summer Comforter",
+    "category": "Bedding",
+    "sub_category": "Comforter (Summer / AC)",
+    "description_short": "Soft, breathable, and effortlessly light, our 120 GSM Virgin Microfiber Comforter is made for everyday comfort. Designed as a dual-colour summer AC comforter.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Cover",
+        "material": "Peached Microfibre",
+        "gsm": 120
+      },
+      {
+        "position": 2,
+        "name": "Fill",
+        "material": "Virgin Microfiber",
+        "gsm": 120,
+        "notes": "Lightweight for warm weather / AC rooms."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Peached Microfibre",
+      "gsm": 120,
+      "washable": true,
+      "wash_instructions": "Machine washable. Single fits 5-7kg machine, Double fits 8-10kg machine."
+    },
+    "fill_gsm": 120,
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 2286,
+        "width_mm": 1524
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 2286,
+        "width_mm": 2540
+      }
+    ],
+    "colors_available": [
+      "Rhino Grey & Coconut White",
+      "Acid Lime & Rhino Grey",
+      "Coffee & Cream",
+      "Nude Pink & Seafoam White"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Reversible Design",
+        "description": "Dual-color sides."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 1689,
+        "selling_price": 1436,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 1689,
+        "selling_price": 1436,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Can I use this comforter in AC rooms during summer?",
+        "answer": "Absolutely, it's ideal for AC environments where light layering is needed. It provides just the right amount of coziness without overheating."
+      }
+    ],
+    "notes_observed": "Comforter ladder by GSM: Summer 120 \u2192 All-Season 200 \u2192 Winter 400. Same dual-color reversible cover style across all three.",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "weighted-blanket",
+    "source_url": "https://sleepycat.in/products/weighted-blanket",
+    "scraped_at": "2026-05-13",
+    "product_name": "Weighted Blanket",
+    "category": "Bedding",
+    "sub_category": "Weighted Blanket",
+    "description_short": "Reduce stress, relieve anxiety and relax deeply with our weighted blanket. Filled with glass microbeads this feel-good blanket will have you snoozing peacefully in no time.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Blanket Cover",
+        "material": "Micro Peached Fabric (Cotton Sateen mentioned in FAQ)",
+        "notes": "Super soft & comfortable."
+      },
+      {
+        "position": 2,
+        "name": "Blanket Fill",
+        "material": "High Density Glass Beads (shatterproof)",
+        "notes": "Provides deep pressure therapy."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Micro Peached Fabric / Cotton Sateen",
+      "washable": false,
+      "wash_instructions": "Not machine washable. Spot clean with damp cloth."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1905,
+        "width_mm": 1270,
+        "weight_kg": 4
+      }
+    ],
+    "colors_available": [
+      "Midnight Blue",
+      "Charcoal Grey",
+      "Blush Nude"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Deep Pressure Therapy",
+        "description": "Glass bead weight reduces stress and anxiety."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 5489,
+        "selling_price": 4666,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Are glass beads safe? What if they break?",
+        "answer": "The premium high density glass beads that we use are completely safe. They're made to be shatterproof."
+      },
+      {
+        "question": "Can I wash the Weighted Blanket?",
+        "answer": "The fill of the Weighted Blanket is why the Weighted Blanket is not machine washable. In case of any spills, just use a damp cloth and wipe it off gently."
+      }
+    ],
+    "notes_observed": "Only Single size; 4kg weight. Not washable (key constraint). Therapeutic positioning \u2014 pairs with [[pregnancy-body-pillow]] in stress-relief category.",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "winter-luxe-comforter",
+    "source_url": "https://sleepycat.in/products/winter-luxe-comforter",
+    "scraped_at": "2026-05-13",
+    "product_name": "300 GSM Winter Luxe Comforter",
+    "category": "Bedding",
+    "sub_category": "Comforter (Winter Luxe)",
+    "description_short": "Made with the finest virgin microfiber fill and the softest cotton modal fabric, this comforter provides luxurious comfort and warmth for winter nights.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Cover Fabric",
+        "material": "Luxe Modal Fabric (cotton modal)",
+        "gsm": 300,
+        "notes": "Soft and breathable."
+      },
+      {
+        "position": 2,
+        "name": "Fill",
+        "material": "Virgin Microfiber Fill",
+        "gsm": 300,
+        "notes": "Provides warmth while being lightweight."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Luxe Modal Fabric (cotton modal)",
+      "thread_count": 300,
+      "gsm": 300,
+      "washable": true,
+      "wash_instructions": "Machine washable using cold water and msupport detergents."
+    },
+    "fill_gsm": 300,
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 2286,
+        "width_mm": 1524,
+        "weight_kg": 5
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 2286,
+        "width_mm": 2540,
+        "weight_kg": 8
+      }
+    ],
+    "colors_available": [
+      "Rhino Grey & Coconut White"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Quilted Box Design",
+        "description": "Keeps filling evenly distributed, prevents clumping or shifting."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 3989,
+        "selling_price": 3391,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 3989,
+        "selling_price": 3391,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the difference between the summer and winter Luxe Comforter variants?",
+        "answer": "The summer variant is lighter and designed for breathable comfort in warmer conditions while the winter variant has a higher GSM fill for added warmth."
+      }
+    ],
+    "notes_observed": "Luxe line uses cotton modal cover vs peached microfiber on standard line. Same 300 GSM fill = lighter than standard Winter Reversible (400).",
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "winter-reversible-comforter",
+    "source_url": "https://sleepycat.in/products/winter-reversible-comforter",
+    "scraped_at": "2026-05-13",
+    "product_name": "Winter Reversible Comforter",
+    "category": "Bedding",
+    "sub_category": "Comforter (Winter)",
+    "description_short": "Soft, warm, and made for colder nights, our 400 GSM Virgin Microfiber Winter Reversible Comforter is designed for cozy winter snuggles.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Cover",
+        "material": "Peached Microfiber",
+        "notes": "Dual color style (reversible)."
+      },
+      {
+        "position": 2,
+        "name": "Fill",
+        "material": "Virgin Microfiber",
+        "gsm": 400,
+        "notes": "Warm and cozy fill \u2014 heavier than all-season (200 GSM)."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Peached Microfiber",
+      "washable": true,
+      "wash_instructions": "Machine washable."
+    },
+    "fill_gsm": 400,
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 2286,
+        "width_mm": 1524
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 2286,
+        "width_mm": 2540
+      }
+    ],
+    "colors_available": [
+      "Rhino Grey & Coconut White"
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Reversible Design",
+        "description": "Two-tone with different colour on each side."
+      }
+    ],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Double",
+        "mrp": 3989,
+        "selling_price": 3191,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the fill of the comforter?",
+        "answer": "The comforter is filled with 400 GSM Virgin Microfiber."
+      },
+      {
+        "question": "What is the country of origin?",
+        "answer": "The country of origin is India."
+      }
+    ],
+    "_category_folder": "bedding"
+  },
+  {
+    "slug": "car-bundle",
+    "source_url": "https://sleepycat.in/products/car-bundle",
+    "scraped_at": "2026-05-13",
+    "product_name": "Car Bundle",
+    "category": "Ergo",
+    "sub_category": "Bundle (Car \u2014 Slim 3-piece)",
+    "description_short": "Three compact cushions that support your neck, back, and hips, ensuring comfort during long drives.",
+    "bundle_components": [
+      "Car Neck Pillow",
+      "Slim Back Cushion",
+      "Slim Seat Cushion"
+    ],
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "weight_kg": 0.8
+      }
+    ],
+    "proprietary_tech": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard Bundle",
+        "mrp": 5797,
+        "selling_price": 3478,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is included in the SleepyCat Ergo Car Bundle?",
+        "answer": "The bundle includes Car Neck Cushion, Car Back Cushion, Car Seat Cushion, designed to provide complete comfort and ergonomic support while driving."
+      }
+    ],
+    "notes_observed": "Lighter/compact alternative to [[ergo-car-bundle]] (Pro Car Bundle). Uses Slim variants (Slim Back + Slim Seat + Car Neck) instead of Pro variants. 0.8kg vs 2.5kg. Similar price (\u20b93478 vs \u20b93442) \u2014 Slim bundle priced slightly higher despite less foam, likely due to compact appeal.",
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "car-neck-pillow",
+    "source_url": "https://sleepycat.in/products/car-neck-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Car Neck Pillow",
+    "category": "Ergo",
+    "sub_category": "Car Neck Pillow (Compact)",
+    "description_short": "This compact ergonomic pillow is filled with premium memory foam that supports your neck, prevents muscle tension, and promotes better posture.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Memory Foam Core",
+        "material": "Memory Foam",
+        "foam_type": "Premium Memory Foam",
+        "thickness_mm": 76.2,
+        "thickness_inches": 3,
+        "notes": "Adaptive and contouring."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Breathable Dual Layer Nylon Cover",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Remove cover and machine wash."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 279.4,
+        "width_mm": 76.2,
+        "height_mm": 203.2,
+        "weight_kg": 0.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 8,
+      "label": "Firm",
+      "feel_descriptors": [
+        "Supportive",
+        "Adaptive",
+        "Contour"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Adjustable Straps",
+        "description": "Attach to headrest of any vehicle."
+      }
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 1299,
+        "selling_price": 974,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "How do I clean my car neck pillow?",
+        "answer": "Unzip the outer cover and machine wash it. The foam core stays protected and fresh."
+      }
+    ],
+    "notes_observed": "Smaller and cheaper than Pro Neck \u2014 no side pocket, narrower profile (76mm wide vs 406mm).",
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "ergo-car-bundle",
+    "source_url": "https://sleepycat.in/products/ergo-car-bundle",
+    "scraped_at": "2026-05-13",
+    "product_name": "Pro Car Bundle",
+    "category": "Ergo",
+    "sub_category": "Bundle (Car \u2014 3-piece)",
+    "description_short": "A three-piece ergonomic system for your car, designed to keep your body aligned and comfortable during every drive.",
+    "bundle_components": [
+      "Pro Neck Pillow",
+      "Pro Back Cushion",
+      "Pro Seat Cushion"
+    ],
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "weight_kg": 2.5
+      }
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Anti-Skid Base",
+        "description": "Cushions stay secure."
+      },
+      {
+        "name": "Adjustable Straps",
+        "description": "Provides additional stability."
+      }
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard Bundle",
+        "mrp": 5737,
+        "selling_price": 3442,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is included in the SleepyCat Ergo Car Bundle?",
+        "answer": "The bundle includes Car Neck Cushion, Car Back Cushion, Car Seat Cushion, designed to provide complete comfort and ergonomic support while driving."
+      }
+    ],
+    "notes_observed": "URL slug = ergo-car-bundle, product name = Pro Car Bundle (rebrand). 3-piece bundle (neck+back+seat) at \u20b93442 vs Ergo Chair Bundle (2-piece) at \u20b93448. Same components likely just different naming.",
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "ergo-chair-bundle",
+    "source_url": "https://sleepycat.in/products/ergo-chair-bundle",
+    "scraped_at": "2026-05-13",
+    "product_name": "Ergo Chair Bundle",
+    "category": "Ergo",
+    "sub_category": "Bundle (Office/Home Chair)",
+    "description_short": "An ergonomic duo designed to support your posture and keep you comfortable through long sitting hours.",
+    "bundle_components": [
+      "Pro Seat Cushion",
+      "Pro Back Cushion"
+    ],
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "weight_kg": 0.75
+      }
+    ],
+    "proprietary_tech": [
+      {
+        "name": "Anti-Skid Base",
+        "description": "Prevents cushions from sliding off your chair."
+      },
+      {
+        "name": "Adjustable Straps",
+        "description": "Keeps cushions secure during use."
+      }
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 10
+    },
+    "pricing": [
+      {
+        "size_name": "Standard Bundle",
+        "mrp": 5747,
+        "selling_price": 3448,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is included in the SleepyCat Ergo Chair Bundle?",
+        "answer": "The bundle includes chair seat cushion and chair back cushion designed to provide complete ergonomic support while sitting."
+      },
+      {
+        "question": "Can I use this cushion bundle on any chair?",
+        "answer": "Yes, it is compatible with most office chairs, dining chairs, and even car seats."
+      }
+    ],
+    "notes_observed": "Bundle = [[pro-back-cushion]] (\u20b91499) + [[pro-seat-cushion]] (\u20b91874) = \u20b93373 individual vs \u20b93448 bundle. Bundle saves nothing on actual purchase \u2014 slightly more expensive than individual sum but listed at 40% off MRP. 10-year warranty on bundle (vs 1yr individual) is the real value-add.",
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "lumbar-seat-cushion",
+    "source_url": "https://sleepycat.in/products/lumbar-seat-cushion",
+    "scraped_at": "2026-05-13",
+    "product_name": "Lumbar Seat Cushion",
+    "category": "Ergo",
+    "sub_category": "Lumbar Roll Cushion",
+    "description_short": "Ergonomic lumbar cushion with contoured support, breathable memory foam, and a compact design that fits wherever you sit.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Memory Foam Roll",
+        "material": "Memory Foam",
+        "foam_type": "Breathable Memory Foam",
+        "thickness_mm": 127,
+        "thickness_inches": 5,
+        "notes": "Contours to lumbar curve. Roll shape fills lower-back gap."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Nylon",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 394,
+        "width_mm": 203,
+        "height_mm": 127,
+        "weight_kg": 0.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Firm",
+      "feel_descriptors": [
+        "Contouring",
+        "Supportive"
+      ]
+    },
+    "proprietary_tech": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 1249,
+        "selling_price": 937,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What makes this the best lumbar support cushion for office chair use?",
+        "answer": "It fills the gap between your lower back and the chair, encouraging healthier posture."
+      }
+    ],
+    "notes_observed": "Smaller and more affordable than Pro/Slim back cushions \u2014 narrow roll form (only 203mm wide). Different use case: targets lumbar gap specifically vs full back.",
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "pro-back-cushion",
+    "source_url": "https://sleepycat.in/products/pro-back-cushion",
+    "scraped_at": "2026-05-13",
+    "product_name": "Pro Back Cushion",
+    "category": "Ergo",
+    "sub_category": "Back Cushion",
+    "description_short": "The SleepyCat Pro Back Cushion brings targeted, ergonomic lumbar support for superior comfort and posture whether at home, office, or on the move.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Memory Foam Core",
+        "material": "Memory Foam",
+        "foam_type": "Perforated Memory Foam",
+        "thickness_mm": 100,
+        "thickness_inches": 4,
+        "notes": "Breathable, contours to spine."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Dual Layer Nylon Cover",
+      "weave": "Breathable",
+      "gsm": 100,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Unzip cover, machine wash."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 444.5,
+        "width_mm": 406.4,
+        "height_mm": 100,
+        "weight_kg": 0.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Medium",
+      "feel_descriptors": [
+        "Contouring",
+        "Supportive",
+        "Breathable"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Anti-Skid Base",
+        "description": "Ensures stability on long drives."
+      },
+      {
+        "name": "Adjustable Straps",
+        "description": "Fits most office and dining chairs."
+      }
+    ],
+    "certifications": [
+      "ISO Certified",
+      "REACH Compliant"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 150
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 1999,
+        "selling_price": 1499,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Will the Pro Back Cushion fit my chair?",
+        "answer": "Yes, the adjustable strap fits most office chairs and dining chairs."
+      },
+      {
+        "question": "Does it feel bulky?",
+        "answer": "No, the 4-inch profile supports your back without altering your seating height too much."
+      }
+    ],
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "pro-neck-pillow",
+    "source_url": "https://sleepycat.in/products/pro-neck-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Pro Neck Pillow",
+    "category": "Ergo",
+    "sub_category": "Car/Office Neck Pillow",
+    "description_short": "Ergonomic support for long drives and longer days. With anti-skid base, and handy side pocket, this neck cushion keeps your neck & shoulders supported.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Memory Foam Core",
+        "material": "Premium Memory Foam",
+        "foam_type": "Memory Foam",
+        "thickness_mm": 50,
+        "thickness_inches": 2,
+        "notes": "Contouring support."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Nylon (breathable, cool-to-touch)",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Unzip cover, machine wash on gentle cycle."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 444,
+        "width_mm": 406,
+        "height_mm": 127,
+        "weight_kg": 0.68
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Medium",
+      "feel_descriptors": [
+        "Soft",
+        "Supportive",
+        "Contouring"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "Adjustable Straps",
+        "description": "Attaches to headrest of any car/office chair."
+      },
+      {
+        "name": "Side Pocket",
+        "description": "Built-in storage pocket on pillow."
+      },
+      {
+        "name": "Anti-Skid Base",
+        "description": "Prevents shifting during use."
+      }
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 1869,
+        "selling_price": 1402,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Does this car neck pillow fit all vehicles?",
+        "answer": "Yes. The adjustable straps fit compact cars, SUVs, and larger vehicles with ease."
+      },
+      {
+        "question": "Is this neck support pillow for car drivers only?",
+        "answer": "No. Passengers benefit just as much from proper cervical support on long journeys."
+      }
+    ],
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "pro-seat-cushion",
+    "source_url": "https://sleepycat.in/products/pro-seat-cushion",
+    "scraped_at": "2026-05-13",
+    "product_name": "Pro Seat Cushion",
+    "category": "Ergo",
+    "sub_category": "Seat Cushion (U-cutout)",
+    "description_short": "Designed for long hours of sitting, this seat cushion offers pressure relief, posture support, and a contoured shape that keeps you aligned.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Premium Memory Foam",
+        "material": "Memory Foam",
+        "foam_type": "Perforated Memory Foam",
+        "thickness_mm": 50,
+        "thickness_inches": 2,
+        "notes": "Contours to body shape; U-cutout for tailbone pressure relief."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Dual Layer Nylon",
+      "gsm": 200,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable, gentle cycle."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 482,
+        "width_mm": 449,
+        "height_mm": 127,
+        "weight_kg": 1.2
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Medium",
+      "feel_descriptors": [
+        "Contouring",
+        "Supportive",
+        "Comfortable"
+      ]
+    },
+    "proprietary_tech": [
+      {
+        "name": "U-Cutout Design",
+        "description": "Eases tailbone/coccyx pressure during long sits."
+      }
+    ],
+    "certifications": [
+      "GOLS Certified",
+      "ISO Certified Manufacturing"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 120
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 2499,
+        "selling_price": 1874,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Can these seat cushions improve posture?",
+        "answer": "Yes, the ergonomic design supports your tailbone and hips for better sitting posture."
+      }
+    ],
+    "notes_observed": "Height 127mm \u2014 schema may have mis-reported. Foam layer is 50mm/2in; total cushion likely closer to 75mm. Verify on compare page.",
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "slim-back-cushion",
+    "source_url": "https://sleepycat.in/products/slim-back-cushion",
+    "scraped_at": "2026-05-13",
+    "product_name": "Slim Back Cushion",
+    "category": "Ergo",
+    "sub_category": "Back Cushion (Slim)",
+    "description_short": "A slim, supportive back cushion designed to improve posture without adding bulk.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Memory Foam Core",
+        "material": "Memory Foam",
+        "foam_type": "Premium Perforated Memory Foam",
+        "thickness_mm": 63.5,
+        "thickness_inches": 2.5,
+        "notes": "Perforated design for enhanced airflow."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Breathable Dual Layer Nylon",
+      "gsm": 200,
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 444.5,
+        "width_mm": 406.4,
+        "height_mm": 63.5,
+        "weight_kg": 0.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Contouring",
+      "feel_descriptors": [
+        "Soft",
+        "Supportive",
+        "Cushiony"
+      ]
+    },
+    "proprietary_tech": [],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 120
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 1869,
+        "selling_price": 1402,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What material is the Slim Back Cushion made of?",
+        "answer": "The Slim Back Cushion is made of premium memory foam."
+      },
+      {
+        "question": "What are the dimensions of the cushion?",
+        "answer": "The dimensions are 17.5 x 16 inches."
+      }
+    ],
+    "notes_observed": "Same face dimensions as Pro (17.5x16in) but 2.5\" thick vs 4\" \u2014 for users who want less seat-height impact.",
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "slim-seat-cushion",
+    "source_url": "https://sleepycat.in/products/slim-seat-cushion",
+    "scraped_at": "2026-05-13",
+    "product_name": "Slim Seat Cushion",
+    "category": "Ergo",
+    "sub_category": "Seat Cushion (Slim)",
+    "description_short": "A sleek, ergonomic seat cushion made for everyday comfort & support without the bulk. Perfect for office chairs, car seats, and compact spaces.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Memory Foam Core",
+        "material": "Memory Foam",
+        "foam_type": "Premium Memory Foam",
+        "thickness_mm": 64,
+        "thickness_inches": 2.5,
+        "notes": "Slim profile to avoid raising seat height."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Breathable Dual Layer Nylon Cover",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 457,
+        "width_mm": 432,
+        "height_mm": 64,
+        "weight_kg": 0.5
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Medium Firm",
+      "feel_descriptors": [
+        "Contouring",
+        "Supportive",
+        "Comfortable"
+      ]
+    },
+    "proprietary_tech": [],
+    "certifications": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 1999,
+        "selling_price": 1499,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Is it only for car seats?",
+        "answer": "No. While it's perfect as a car driver seat cushion, it's equally useful for office and home chairs."
+      }
+    ],
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "wedge-pillow",
+    "source_url": "https://sleepycat.in/products/wedge-pillow",
+    "scraped_at": "2026-05-13",
+    "product_name": "Wedge Pillow",
+    "category": "Ergo",
+    "sub_category": "Wedge Pillow (Acid Reflux / Back Pain)",
+    "description_short": "Ergonomic wedge pillow with premium memory foam, angled support design, and smart utility features for everyday ease.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Memory Foam Wedge",
+        "material": "Memory Foam",
+        "foam_type": "Premium Memory Foam",
+        "notes": "High-density memory foam that holds its shape. Angled wedge form."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Breathable Dual Layer Nylon Cover",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Cover machine washable with msupport detergent. Foam core not washable."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard 20x7x21in",
+        "length_mm": 508,
+        "width_mm": 178,
+        "height_mm": 533,
+        "incline_degrees": 30
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 8,
+      "label": "Firm & Contouring",
+      "feel_descriptors": [
+        "Firm",
+        "Contouring",
+        "Supportive"
+      ]
+    },
+    "proprietary_tech": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 2499,
+        "selling_price": 1874,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is a wedge pillow used for?",
+        "answer": "A wedge pillow supports the head, back, or legs at an incline. It improves posture, eases acid reflux, and relieves back pain."
+      },
+      {
+        "question": "Can it help with snoring?",
+        "answer": "Yes. Sleeping elevated keeps airways open, therefore reducing snoring and helping with msupport sleep apnea."
+      }
+    ],
+    "_category_folder": "ergo"
+  },
+  {
+    "slug": "dog-bed-cover",
+    "source_url": "https://sleepycat.in/products/dog-bed-cover",
+    "scraped_at": "2026-05-13",
+    "product_name": "Dog Bed Cover - Original",
+    "category": "Dog Bed",
+    "sub_category": "Replacement Cover (Original)",
+    "description_short": "Shield your dog's bed from dirt, pet hair, and everyday wear and tear with this velour knitted fabric. Offering the extra protective layer crafted with care!",
+    "cover_fabric": {
+      "composition": "Knitted velour fabric with velvet finish",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash delicate cycle, cold water, msupport detergent. No bleach/softeners. Air-dry."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Medium",
+        "length_mm": 914.4,
+        "width_mm": 660.4,
+        "for_dog_weight_kg": "up to 15"
+      },
+      {
+        "size_name": "Large",
+        "length_mm": 1168.4,
+        "width_mm": 812.8,
+        "for_dog_weight_kg": "15-30"
+      },
+      {
+        "size_name": "Extra Large",
+        "length_mm": 1371.6,
+        "width_mm": 914.4,
+        "for_dog_weight_kg": "30-45"
+      }
+    ],
+    "colors_available": [
+      "Mud Red",
+      "Nautic Blue"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 10
+    },
+    "pricing": [
+      {
+        "size_name": "Medium",
+        "mrp": 1099,
+        "selling_price": 769,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Large",
+        "mrp": 1299,
+        "selling_price": 899,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Extra Large",
+        "mrp": 1499,
+        "selling_price": 999,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the purpose of using a dog bed cover?",
+        "answer": "A dog bed cover helps protect the inner bed from fur, dirt, spills, and everyday wear, keeping it cleaner and extending its life."
+      }
+    ],
+    "notes_observed": "Replacement cover for [[dog-beds]] (Original). Dimensions match Original bed sizes.",
+    "_category_folder": "dogs"
+  },
+  {
+    "slug": "dog-beds",
+    "source_url": "https://sleepycat.in/products/dog-beds",
+    "scraped_at": "2026-05-13",
+    "product_name": "Dog Bed - Original",
+    "category": "Dog Bed",
+    "sub_category": "Original (Shredded Foam)",
+    "description_short": "Our Original Dog Bed brings tail-wagging comfort for your fur baby. Filled with premium shredded foam, this plush bed is lightweight, durable & easy to clean.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "Inner Fill",
+        "material": "Premium Shredded Foam",
+        "foam_type": "Shredded Foam",
+        "thickness_mm": 50,
+        "thickness_inches": 2,
+        "notes": "Soft cushioned comfort."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Knitted velour fabric with velvet finish (scratch resistant)",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine washable cover in cold water, air dry recommended."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Medium",
+        "length_mm": 914,
+        "width_mm": 660,
+        "height_mm": 50,
+        "for_dog_weight_kg": "1-3"
+      },
+      {
+        "size_name": "Large",
+        "length_mm": 1168,
+        "width_mm": 813,
+        "height_mm": 50,
+        "for_dog_weight_kg": "5-9"
+      },
+      {
+        "size_name": "Extra Large",
+        "length_mm": 1372,
+        "width_mm": 914,
+        "height_mm": 50,
+        "for_dog_weight_kg": "10-25"
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 5,
+      "label": "Medium"
+    },
+    "proprietary_tech": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 10
+    },
+    "pricing": [
+      {
+        "size_name": "Medium",
+        "mrp": 1989,
+        "selling_price": 1392,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What is the difference between the Original Dog Bed and the Orthopedic Dog Bed?",
+        "answer": "The Original Dog Bed is more contouring, while the Orthopedic Dog Bed is more supportive."
+      },
+      {
+        "question": "How do I know which size of dog bed to buy?",
+        "answer": "Medium for smaller dogs like Chihuahuas, Large for breeds like Huskies, Extra Large for larger breeds like Boxers."
+      }
+    ],
+    "notes_observed": "Original = shredded foam fill (cushioning). Orthopedic version (see [[orthopedic-dog-bed]]) uses solid foam for support.",
+    "_category_folder": "dogs"
+  },
+  {
+    "slug": "orthopedic-dog-bed-cover",
+    "source_url": "https://sleepycat.in/products/orthopedic-dog-bed-cover",
+    "scraped_at": "2026-05-13",
+    "product_name": "Dog Bed Cover - Orthopedic",
+    "category": "Dog Bed",
+    "sub_category": "Replacement Cover (Orthopedic)",
+    "description_short": "Shield your dog bed from dirt, pet hair, and everyday wear and tear with this velvet knitted fabric. Offering the extra protective layer crafted with care!",
+    "cover_fabric": {
+      "composition": "Knitted velour fabric with velvet finish (water-resistant)",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash delicate cycle, cold water. No bleach/softeners. Air-dry."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Large",
+        "length_mm": 1219,
+        "width_mm": 610,
+        "for_dog_weight_kg": "15-25"
+      },
+      {
+        "size_name": "Extra Large",
+        "length_mm": 1321,
+        "width_mm": 711,
+        "for_dog_weight_kg": "25-40"
+      }
+    ],
+    "colors_available": [
+      "Mud Red",
+      "Nautic Blue"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 10
+    },
+    "pricing": [
+      {
+        "size_name": "Large",
+        "mrp": 1399,
+        "selling_price": 979,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Extra Large",
+        "mrp": 1499,
+        "selling_price": 979,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Is the SleepyCat orthopedic dog bed cover water-resistant?",
+        "answer": "Yes, this orthopedic dog bed cover is water-resistant, helping guard against minor spills, drool, and accidents."
+      }
+    ],
+    "notes_observed": "Replacement cover for [[orthopedic-dog-bed]]. Only Large + XL (no Medium) \u2014 Medium ortho bed users would use original-style cover sized similarly. Water-resistant differentiates from non-ortho cover.",
+    "_category_folder": "dogs"
+  },
+  {
+    "slug": "orthopedic-dog-bed",
+    "source_url": "https://sleepycat.in/products/orthopedic-dog-bed",
+    "scraped_at": "2026-05-13",
+    "product_name": "Dog Bed - Orthopedic",
+    "category": "Dog Bed",
+    "sub_category": "Orthopedic (HD Foam)",
+    "description_short": "Give your fur baby some tail-wagging comfort. Our Orthopedic Dog Bed provides superior joint & muscle support for aging pets, dogs with arthritis, or those recovering from injuries.",
+    "construction_layers": [
+      {
+        "position": 1,
+        "name": "HD Foam Core",
+        "material": "Premium High Density Foam",
+        "foam_type": "HD Foam",
+        "thickness_mm": 102,
+        "thickness_inches": 4,
+        "notes": "Supportive feel, spreads weight evenly to reduce joint pressure."
+      }
+    ],
+    "cover_fabric": {
+      "composition": "Knitted velour fabric with velvet finish (scratch resistant)",
+      "removable": true,
+      "washable": true,
+      "wash_instructions": "Machine wash delicate cycle, cold water, msupport detergent. No bleach. Air dry."
+    },
+    "dimensions_by_size": [
+      {
+        "size_name": "Medium",
+        "length_mm": 711,
+        "width_mm": 660,
+        "height_mm": 102,
+        "for_dog_weight_kg": "4-10"
+      },
+      {
+        "size_name": "Large",
+        "length_mm": 1219,
+        "width_mm": 610,
+        "height_mm": 102,
+        "for_dog_weight_kg": "10-30"
+      },
+      {
+        "size_name": "Extra Large",
+        "length_mm": 1321,
+        "width_mm": 711,
+        "height_mm": 102,
+        "for_dog_weight_kg": "30-45"
+      }
+    ],
+    "firmness": {
+      "rating_1_10": 7,
+      "label": "Supportive, Medium-Soft"
+    },
+    "proprietary_tech": [],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 10
+    },
+    "pricing": [
+      {
+        "size_name": "Medium",
+        "mrp": 2989,
+        "selling_price": 2092,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "How does this dog bed help with joint pain and muscle support?",
+        "answer": "The orthopedic dog bed uses high-density foam that evenly distributes weight, helping reduce pressure on joints and supporting muscles for more restful sleep."
+      },
+      {
+        "question": "Is the SleepyCat orthopedic dog bed suitable for senior dogs?",
+        "answer": "Absolutely. Designed to provide enhanced support, especially comfortable for senior dogs or those with mobility concerns."
+      }
+    ],
+    "notes_observed": "vs Original Dog Bed: 4\" HD foam (solid) instead of 2\" shredded foam. Targets senior/joint-issue dogs. Higher weight capacity (up to 45kg vs 25kg).",
+    "_category_folder": "dogs"
+  },
+  {
+    "slug": "enso-recliner",
+    "source_url": "https://sleepycat.in/products/enso-recliner",
+    "scraped_at": "2026-05-13",
+    "product_name": "Enso Recliner",
+    "category": "Furniture",
+    "sub_category": "Motorised Recliner",
+    "description_short": "A stylish motorised recliner with smooth one-touch motion, built-in charging, and ergonomic support in a compact frame.",
+    "features": [
+      "One-touch motorised recline",
+      "Compact frame",
+      "USB-C charging port",
+      "Side pocket"
+    ],
+    "frame_material": "Ply + Solid Wood",
+    "upholstery": "Leatherette 540 GSM (50K Rub Count)",
+    "recliner_mechanism": "Branded Motorised R3 Mechanism",
+    "recliner_positions": "One-Touch Recline",
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 1028,
+        "width_mm": 1085,
+        "height_mm": 923,
+        "weight_kg": 40.5
+      }
+    ],
+    "colors_available": [
+      "Amber Yellow",
+      "Sand Beige"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 125
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 43999,
+        "selling_price": 37399,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Does the recliner have a charging port?",
+        "answer": "Yes, it features a built-in USB-C port, so you can conveniently charge your phone or devices while you relax."
+      },
+      {
+        "question": "How does the one-touch recline function work?",
+        "answer": "The Enso Recliner comes with a motorised mechanism that lets you adjust your position smoothly with just the push of a button."
+      }
+    ],
+    "_category_folder": "furniture"
+  },
+  {
+    "slug": "katachi-bed",
+    "source_url": "https://sleepycat.in/products/katachi-bed",
+    "scraped_at": "2026-05-13",
+    "product_name": "Katachi Bed",
+    "category": "Furniture",
+    "sub_category": "Wooden Bed (Japandi)",
+    "description_short": "This sleek and sturdy Mango wood bed with a plush headboard is the perfect blend of aesthetics, comfort, and durability.",
+    "features": [
+      "Termite-Resistant Mango Wood",
+      "Hand tufted Molfino fabric headboard",
+      "Japandi Design"
+    ],
+    "frame_material": "Solid Mango Wood",
+    "headboard_material": "Molfino Fabric",
+    "storage_type": "None",
+    "dimensions_by_size": [
+      {
+        "size_name": "Double",
+        "length_mm": 1829,
+        "width_mm": 1219,
+        "height_mm": 406,
+        "weight_kg": 69,
+        "mattress_fits": "72 x 48 inches"
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 2134,
+        "width_mm": 1571,
+        "height_mm": 406,
+        "weight_kg": 78,
+        "mattress_fits": "72 x 72 inches"
+      },
+      {
+        "size_name": "King",
+        "length_mm": 2134,
+        "width_mm": 1930,
+        "height_mm": 406,
+        "weight_kg": 88,
+        "mattress_fits": "78 x 72 inches"
+      }
+    ],
+    "colors_available": [
+      "Brown",
+      "Natural"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 2,
+      "weight_capacity_kg": 420
+    },
+    "pricing": [
+      {
+        "size_name": "Double",
+        "mrp": 28999,
+        "selling_price": 24649,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 28999,
+        "selling_price": 24649,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 28999,
+        "selling_price": 24649,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "What are the benefits of mango wood?",
+        "answer": "Mango wood offers multiple premium benefits: exceptional durability, natural resistance to water and termites, beautiful grain patterns, and eco-friendly sustainability."
+      }
+    ],
+    "_category_folder": "furniture"
+  },
+  {
+    "slug": "ohayo-bed",
+    "source_url": "https://sleepycat.in/products/ohayo-bed",
+    "scraped_at": "2026-05-13",
+    "product_name": "Ohayo Bed",
+    "category": "Furniture",
+    "sub_category": "Wooden Bed",
+    "description_short": "A 100% Solid Mango Wood Bed \u2014 durable and withstands whatever pressure you put on it.",
+    "features": [
+      "100% Mango Solid Wood",
+      "Termite Resistant",
+      "Heavy-Duty Busupport",
+      "No Creaking",
+      "Complimentary installation"
+    ],
+    "frame_material": "Mango Hardwood",
+    "headboard_material": "Mango Solidwood",
+    "storage_type": "Under Bed Storage Clearance",
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1981,
+        "width_mm": 914,
+        "height_mm": 889,
+        "weight_kg": 68.7,
+        "mattress_fits": "78 x 36 inches"
+      },
+      {
+        "size_name": "Double",
+        "length_mm": 1981,
+        "width_mm": 1295,
+        "height_mm": 889,
+        "weight_kg": 73.8,
+        "mattress_fits": "78 x 48 inches"
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1876,
+        "width_mm": 1600,
+        "height_mm": 889,
+        "weight_kg": 71.9,
+        "mattress_fits": "75 x 60 inches"
+      },
+      {
+        "size_name": "King",
+        "length_mm": 1981,
+        "width_mm": 1905,
+        "height_mm": 889,
+        "weight_kg": 81.1,
+        "mattress_fits": "78 x 72 inches"
+      }
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 2,
+      "weight_capacity_kg": 420
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 21999,
+        "selling_price": 18699,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Double",
+        "mrp": 21999,
+        "selling_price": 18699,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 21999,
+        "selling_price": 18699,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 21999,
+        "selling_price": 18699,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "How much weight can the Ohayo Bed handle?",
+        "answer": "The Ohayo bed can withstand over 420kg of weight."
+      },
+      {
+        "question": "How to assemble the Ohayo Bed?",
+        "answer": "You receive complimentary bed installation with your purchase or can use the provided instruction manual for easy assembly."
+      }
+    ],
+    "notes_observed": "All-wood (no fabric headboard) vs [[katachi-bed]] which has Molfino headboard. Cheaper (\u20b918.7k vs \u20b924.6k).",
+    "_category_folder": "furniture"
+  },
+  {
+    "slug": "seika-recliner",
+    "source_url": "https://sleepycat.in/products/seika-recliner",
+    "scraped_at": "2026-05-13",
+    "product_name": "Seika Recliner",
+    "category": "Furniture",
+    "sub_category": "Manual Recliner",
+    "description_short": "A stylish manual recliner built for everyday lounging. Space-efficient and upholstered in easy-clean premium leatherette.",
+    "features": [
+      "Compact & Modern",
+      "Premium Leatherette",
+      "Ergonomic Back/Neck Support"
+    ],
+    "frame_material": "Ply + Solid Wood",
+    "upholstery": "Premium Leatherette",
+    "recliner_mechanism": "Branded Manual R1 Mechanism",
+    "recliner_positions": "Manual recline",
+    "dimensions_by_size": [
+      {
+        "size_name": "Standard",
+        "length_mm": 1020,
+        "width_mm": 990,
+        "height_mm": 760,
+        "weight_kg": 20
+      }
+    ],
+    "colors_available": [
+      "Jade Green",
+      "Pebble Grey"
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 1,
+      "weight_capacity_kg": 125
+    },
+    "pricing": [
+      {
+        "size_name": "Standard",
+        "mrp": 26249,
+        "selling_price": 22312,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Is the Seika Recliner manual or motorized?",
+        "answer": "This is a manual recliner, designed for smooth and easy operation without the need for power or wiring."
+      },
+      {
+        "question": "Does the recliner require assembly after delivery?",
+        "answer": "Yes, this recliner chair comes with a DIY assembly setup that's simple and quick to put together."
+      }
+    ],
+    "notes_observed": "Manual mechanism vs [[enso-recliner]]'s motorised. \u20b922,312 vs \u20b937,399 (Enso). Half the weight (20kg vs 40.5kg) \u2014 smaller frame.",
+    "_category_folder": "furniture"
+  },
+  {
+    "slug": "tauras-smart-electric-recliner-bed",
+    "source_url": "https://sleepycat.in/products/tauras-smart-electric-recliner-bed",
+    "scraped_at": "2026-05-13",
+    "product_name": "Taurus Smart Recliner Bed With Headboard",
+    "category": "Furniture",
+    "sub_category": "Electric Recliner Bed",
+    "description_short": "Experience intelligent sleep with customisable positions, one-touch presets, and premium comfort features in this advanced electric bed.",
+    "features": [
+      "Wireless Remote Control",
+      "Zero Gravity Tech",
+      "Anti-Snore Mode",
+      "Reading Mode",
+      "Adjustable head and foot positions",
+      "Quiet motor",
+      "Memory presets"
+    ],
+    "frame_material": "High-quality steel with black powder coating",
+    "headboard_material": "Hand tufted Molfino fabric",
+    "motor_type": "Electric",
+    "recliner_positions": "Zero Gravity, Anti-Snore, Reading, Custom",
+    "usb_ports": 2,
+    "dimensions_by_size": [
+      {
+        "size_name": "Single",
+        "length_mm": 1981,
+        "width_mm": 914,
+        "height_mm": 279,
+        "weight_kg": 41,
+        "mattress_fits": "78 x 36 inches"
+      },
+      {
+        "size_name": "Queen",
+        "length_mm": 1981,
+        "width_mm": 1524,
+        "height_mm": 279,
+        "weight_kg": 56,
+        "mattress_fits": "78 x 60 inches"
+      },
+      {
+        "size_name": "King",
+        "length_mm": 1981,
+        "width_mm": 1829,
+        "height_mm": 279,
+        "weight_kg": 70,
+        "mattress_fits": "78 x 72 inches"
+      }
+    ],
+    "trial_warranty": {
+      "trial_nights": 0,
+      "warranty_years": 5,
+      "weight_capacity_kg": 300
+    },
+    "pricing": [
+      {
+        "size_name": "Single",
+        "mrp": 84999,
+        "selling_price": 72249,
+        "currency": "INR"
+      },
+      {
+        "size_name": "Queen",
+        "mrp": 84999,
+        "selling_price": 72249,
+        "currency": "INR"
+      },
+      {
+        "size_name": "King",
+        "mrp": 84999,
+        "selling_price": 72249,
+        "currency": "INR"
+      }
+    ],
+    "faq_specs": [
+      {
+        "question": "Does the bed come with pre-set positions?",
+        "answer": "Yes, pre-set positions like zero-gravity and anti-snore are available."
+      },
+      {
+        "question": "What is the weight capacity of the bed?",
+        "answer": "The bed can support up to 300 kg, depending on the size."
+      }
+    ],
+    "notes_observed": "Most expensive product in the catalog. Includes 2 USB ports + zero-gravity + anti-snore. Note: og:price showed \u20b955,249 but schema returned \u20b972,249 \u2014 possibly base/current price differ from variant pricing.",
+    "_category_folder": "furniture"
+  }
+]
