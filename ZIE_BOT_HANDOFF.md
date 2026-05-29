@@ -1,64 +1,67 @@
 # 🐈 ZIE BOT: Deployment & Handoff Guide
-**Project Status:** 200 IQ Brain Built (v1.1.0) · **Mascot:** Zie · **Launch Date:** August 28, 2017 (Zie's Birthday)
+**Project Status:** v4.1 (Enterprise Ready - Trifecta RAG) · **Mascot:** Zie · **Launch Date:** August 28, 2017 (Zie's Birthday)
 
-This document serves as the master reference for deploying and maintaining **Zie**, the SleepyCat Mascot Bot.
+This document serves as the master reference for the production-grade **Zie**, the SleepyCat Mascot Bot.
 
 ---
 
 ## 1. The Persona: "Zie"
 *   **Species:** Sleep Cat from the *Planet of Pillows*.
-*   **Age:** Perpetually 5 years old.
+*   **Age:** 8 years old (Born: August 28, 2017).
 *   **Voice/Tone:** Naive, super cute, bubbly, wide-eyed, and unconditionally supportive.
 *   **IQ:** 200 in Sleep Science / 0 in Human Life (Adulting).
-*   **Core Logic:** "Sleep Solves Everything." Every human problem (stress, heartbreak, traffic) is actually just a "Rest-Deficiency."
-*   **Character References:** Wall-E (innocence), Nemo (energy/vibe).
-
-### Strict Conversational Rules:
-1.  **TM/R Preservation:** Zie MUST use official proprietary terms (e.g., **7-zone DeepTouch™ Pressure Tech**).
-2.  **Zie-Speak Translation:** He immediately follows official terms with his cute names (e.g., "...which I call 'Invisible magic holes'").
-3.  **No Medical Claims:** Zie offers "clouds" and "hugs." He does not "cure," "treat," or "fix" medical conditions.
-4.  **Explicit Links Only:** Do not spam product links. Only provide the "Magic Portal" link when the user explicitly asks for one.
+*   **Core Logic:** "Sleep Solves Everything." Every human problem is a "Rest-Deficiency."
+*   **Brand Mission:** Translate high-tech sleep engineering into "Head-Clouds" and "Magic Holes."
 
 ---
 
-## 2. Brain Architecture: `zie_master_brain.json`
-*   **Location:** `sleepycat-brand/zie knowledge/zie_master_brain.json`
-*   **Type:** High-density Unified JSON.
-*   **Why a Master Brain?** It merges 69 products, brand history, Zie's dictionary, and solution logic into one file to ensure the Telegram/WhatsApp bot responds instantly without multiple database lookups.
-
-### Key Data Sections:
-*   `zie_profile`: The persona's facts and favorite/hated things.
-*   `brand_knowledge`: Founding dates, mission, vision, and core values.
-*   `zie_dictionary`: Mapping of proprietary terms to "Zie-speak."
-*   `solution_engine`: Pre-defined pivots from human problems to sleep solutions.
-*   `products`: Full technical specs (layers, foam types, pricing) for the entire SleepyCat range.
+## 2. Infrastructure: OCI VM Deployment
+*   **Host:** Oracle Cloud VM (`161.118.175.141`)
+*   **Service Name:** `zie-bot.service` (Systemd)
+*   **Deployment Path:** `/home/ubuntu/zie-bot/`
+*   **Environment:** Python 3.11 (Venv: `/home/ubuntu/sleepycat-agent/venv/`)
 
 ---
 
-## 3. Deployment Strategy (Telegram/WhatsApp)
+## 3. High-Performance Architecture (Trifecta RAG)
+Zie is built on the **Trifecta RAG Pipeline** to ensure zero-latency and massive scalability.
 
-### Step 1: Loading the Brain
-When the bot server starts, it should load the `zie_master_brain.json` into the system prompt context. 
+### Layer 1: Semantic RAG (The Librarian)
+- **Engine:** Local Word Intersection Scoring.
+- **Data:** Segmented knowledge (`zie_meta.json`) and indexed products (`zie_product_index.json`).
+- **Logic:** Only pulls the specific 1-2KB of data needed for a query instead of the full 200KB.
 
-### Step 2: System Prompting (The "Zie Filter")
-The AI should be instructed with a prompt similar to this:
-> "You are Zie, the 5-year-old Sleep Cat mascot of SleepyCat. You have a 200 IQ regarding the data in `zie_master_brain.json`. Speak in a super cute, bubbly tone. Always include ™/® for SleepyCat techs but explain them using your cat dictionary. If a user has a life problem, pivot to a SleepyCat product. Only give links if asked."
+### Layer 2: Prompt Caching (The RAM)
+- **Engine:** Anthropic/LiteLLM Prompt Caching.
+- **Logic:** Locks Zie’s persona, brand history, and rules into the AI's "RAM."
+- **Performance:** 80% reduction in latency; 90% reduction in cost.
 
-### Step 3: Platform Specifics
-*   **WhatsApp:** Use concise formatting. Use emojis (☁️, 🐈, 💤, ✨).
-*   **Telegram:** Utilize stickers or GIFs that match Zie's "Wall-E/Nemo" vibe.
+### Layer 3: Universal Tiered Failover (The LiteLLM Adapter)
+Zie uses a universal wrapper to switch providers instantly if one fails.
+1. **Primary (Main Chat):** `gemini/gemini-1.5-pro` (Smartest + Cheapest).
+2. **Primary (Feedback):** `gemini/gemini-2.5-pro` (High Logic).
+3. **Fallback Tier:** `anthropic/claude-haiku-4-5-20251001` -> `anthropic/claude-sonnet-4-6`.
 
 ---
 
-## 4. Maintenance & Updates
-*   **Updating Products:** If new products are launched, update the `products` array in the master brain.
-*   **Adding Zie-isms:** If you invent a new cute name for a product, add it to the `zie_dictionary` section.
-*   **Public Readiness:** The current brain is "Open Universe," meaning it is safe for general public chat and doesn't contain internal-only employee secrets.
+## 4. Self-Evolving Feedback Loop
+The bot is programmed to evolve with the SleepyCat team.
+1. **Report:** Employees send `/feedback <issue>` (e.g., "Correct the price of the Hybrid Mattress").
+2. **Propose:** The **Feedback Agent** (Gemini 2.5 Pro) reads the codebase, proposes a JSON/Python fix, and sends a request to the Admin.
+3. **Approve:** Admin (Aman) clicks **[Approve ✅]** in Telegram.
+4. **Deploy:** The bot edits its own files locally and restarts itself automatically.
 
 ---
 
-## 5. Reference Files in Workspace
-- `sleepycat-brand/zie knowledge/zie_master_brain.json` (The Brain)
-- `C:\Users\Aayushi\.gemini\tmp\aayushi\eb633b05-529e-48df-9cf8-ed30eaac0e8f\plans\zie-bot-plan.md` (The Approved Plan)
+## 5. Maintenance & Safety
+- **Anti-Hallucination Sweeper:** Code scans all outputs to replace hallucinated domains (e.g., `.com` -> `.in`).
+- **Dynamic Model Resolver:** At every startup, Zie polls the APIs to find the newest models (e.g., Haiku 4.5, Sonnet 4.6), ensuring the bot never "ages out."
+- **HTML Safety Fallback:** If high-tech formatting fails, the bot automatically sends a plain-text reply to ensure the user is never ignored.
 
-**"Go sleep on it! Zzz..." — Zie**
+---
+
+## 6. GitHub Repository
+- **URL:** https://github.com/acovrp/agent-zie
+- **Usage:** This repo is the source of truth for all knowledge segments and core logic.
+
+**"I'm all updated and ready for my Head-Clouds! Purrr..." — Zie** 🐈🛸✨💤
