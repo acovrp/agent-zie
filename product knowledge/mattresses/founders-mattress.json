@@ -5,36 +5,135 @@
   "product_name": "The Founder's Mattress",
   "category": "Mattresses",
   "sub_category": "Hybrid Luxury Mattress",
-  "description_short": "India's 1st and only mattress with Patented SmartCell™ Memory Foam. It adapts to your body, provides targeted support, and helps you sleep up to 6°C cooler.",
+  "description_short": "India's 1st and only mattress with Patented SmartCell\u2122 Memory Foam. It adapts to your body, provides targeted support, and helps you sleep up to 6\u00b0C cooler.",
   "construction_layers": [
-    {"position": 1, "name": "HyperXD™ Foam", "material": "Foam", "foam_type": "Standard", "thickness_mm": 40, "thickness_inches": 1.5, "notes": "Adaptive foam that cradles without sinking."},
-    {"position": 2, "name": "Patented SmartCell™ Memory Foam", "material": "Foam", "foam_type": "Memory", "thickness_mm": 25, "thickness_inches": 1, "notes": "Patented micro-cell design for precise pressure relief and improved airflow."},
-    {"position": 3, "name": "GOLS Certified Natural Latex", "material": "Latex", "foam_type": "Natural", "thickness_mm": 40, "thickness_inches": 1.5, "notes": "Provides responsive bounce, natural breathability, and antimicrobial protection."},
-    {"position": 4, "name": "HR Base Foam", "material": "Foam", "foam_type": "Standard", "thickness_mm": 128, "thickness_inches": 5, "notes": "High resilience foundation for long-term durability."}
+    {
+      "position": 1,
+      "name": "HyperXD\u2122 Foam",
+      "material": "Foam",
+      "foam_type": "Standard",
+      "thickness_mm": 40,
+      "thickness_inches": 1.5,
+      "notes": "Adaptive foam that cradles without sinking."
+    },
+    {
+      "position": 2,
+      "name": "Patented SmartCell\u2122 Memory Foam",
+      "material": "Foam",
+      "foam_type": "Memory",
+      "thickness_mm": 25,
+      "thickness_inches": 1,
+      "notes": "Patented micro-cell design for precise pressure relief and improved airflow."
+    },
+    {
+      "position": 3,
+      "name": "GOLS Certified Natural Latex",
+      "material": "Latex",
+      "foam_type": "Natural",
+      "thickness_mm": 40,
+      "thickness_inches": 1.5,
+      "notes": "Provides responsive bounce, natural breathability, and antimicrobial protection."
+    },
+    {
+      "position": 4,
+      "name": "HR Base Foam",
+      "material": "Foam",
+      "foam_type": "Standard",
+      "thickness_mm": 128,
+      "thickness_inches": 5,
+      "notes": "High resilience foundation for long-term durability."
+    }
   ],
-  "cover_fabric": {"composition": "CoolTec™ 600 GSM Cooling Fabric", "weave": "Zipper Cover", "gsm": 600, "removable": true, "washable": false, "wash_instructions": "Vacuum clean cover, spot clean only"},
+  "cover_fabric": {
+    "composition": "CoolTec\u2122 600 GSM Cooling Fabric",
+    "weave": "Zipper Cover",
+    "gsm": 600,
+    "removable": true,
+    "washable": false,
+    "wash_instructions": "Vacuum clean cover, spot clean only"
+  },
   "dimensions_by_size": [
-    {"size_name": "Single", "length_mm": 1828, "width_mm": 762, "height_mm": 228},
-    {"size_name": "Double", "length_mm": 1828, "width_mm": 915, "height_mm": 228},
-    {"size_name": "Queen", "length_mm": 1981, "width_mm": 1524, "height_mm": 228},
-    {"size_name": "King", "length_mm": 2134, "width_mm": 1829, "height_mm": 228}
+    {
+      "size_name": "Single",
+      "length_mm": 1828,
+      "width_mm": 762,
+      "height_mm": 228
+    },
+    {
+      "size_name": "Double",
+      "length_mm": 1828,
+      "width_mm": 915,
+      "height_mm": 228
+    },
+    {
+      "size_name": "Queen",
+      "length_mm": 1981,
+      "width_mm": 1524,
+      "height_mm": 228
+    },
+    {
+      "size_name": "King",
+      "length_mm": 2134,
+      "width_mm": 1829,
+      "height_mm": 228
+    }
   ],
-  "firmness": {"rating_1_10": 5, "label": "Medium", "feel_descriptors": ["Adaptive", "Supportive", "Cool"]},
+  "firmness": {
+    "rating_1_10": 5,
+    "label": "Medium",
+    "feel_descriptors": [
+      "Adaptive",
+      "Supportive",
+      "Cool"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "SmartCell™ Technology", "description": "Patented technology for airflow and pressure relief."},
-    {"name": "CoolTec™ Fabric", "description": "Keeps mattress cool up to 6°C."},
-    {"name": "HyperXD™ Foam", "description": "Adaptive foam that cradles without sinking."}
+    {
+      "name": "SmartCell\u2122 Technology",
+      "description": "Patented technology for airflow and pressure relief."
+    },
+    {
+      "name": "CoolTec\u2122 Fabric",
+      "description": "Keeps mattress cool up to 6\u00b0C."
+    },
+    {
+      "name": "HyperXD\u2122 Foam",
+      "description": "Adaptive foam that cradles without sinking."
+    }
   ],
-  "certifications": ["GOLS Certified Natural Latex", "GOTS Certified Cotton"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 10},
+  "certifications": [
+    "GOLS Certified Natural Latex",
+    "GOTS Certified Cotton"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 10
+  },
   "pricing": [
-    {"size_name": "Single", "mrp": 31789, "selling_price": 30200, "currency": "INR"}
+    {
+      "size_name": "Single",
+      "mrp": 31789,
+      "selling_price": 30200,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What is the firmness or feel of the Founder's Mattress? How thick is it?", "answer": "The Founder's Mattress is 9 inches thick and offers a balanced, medium feel."},
-    {"question": "What materials are used in the Founder's mattress?", "answer": "The Founder's mattress is a combination of GOLS-certified natural latex, HyperXD™ foam, and SmartCell™ memory foam."},
-    {"question": "Will this mattress stay cool in hot weather?", "answer": "Yes, the mattress uses CoolTec™ cooling fabric and integrated SmartCell™ airflow channels to keep you cool."},
-    {"question": "What makes the Founder's Mattress different from other luxury mattresses in India?", "answer": "The Founder's Mattress offers a four-layer hybrid design engineered specifically for Indian sleepers."}
+    {
+      "question": "What is the firmness or feel of the Founder's Mattress? How thick is it?",
+      "answer": "The Founder's Mattress is 9 inches thick and offers a balanced, medium feel."
+    },
+    {
+      "question": "What materials are used in the Founder's mattress?",
+      "answer": "The Founder's mattress is a combination of GOLS-certified natural latex, HyperXD\u2122 foam, and SmartCell\u2122 memory foam."
+    },
+    {
+      "question": "Will this mattress stay cool in hot weather?",
+      "answer": "Yes, the mattress uses CoolTec\u2122 cooling fabric and integrated SmartCell\u2122 airflow channels to keep you cool."
+    },
+    {
+      "question": "What makes the Founder's Mattress different from other luxury mattresses in India?",
+      "answer": "The Founder's Mattress offers a four-layer hybrid design engineered specifically for Indian sleepers."
+    }
   ],
-  "notes_observed": "Densities/ILDs not on page (returned 0). Total height per FAQ = 9 inches (~228mm) confirms layers sum. Only Single price extracted — Double/Queen/King MRP/SP not visible without variant selection. Weight_kg not on page."
+  "notes_observed": " Total height per FAQ = 9 inches (~228mm) confirms layers sum. Only Single price extracted \u2014 Double/Queen/King MRP/SP not visible without variant selection. Weight_kg not on page."
 }

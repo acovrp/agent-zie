@@ -6,18 +6,46 @@
   "category": "Bedding",
   "sub_category": "Throw Blanket",
   "description_short": "This throw is closely knitted and made out of 100% cotton. Perfect to snuggle with and to add warmth to your living room.",
-  "cover_fabric": {"composition": "100% Premium Cotton (machine knitted yarns)", "weave": "Knit", "gsm": 200, "washable": true, "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach/softeners. Air dry."},
+  "cover_fabric": {
+    "composition": "100% Premium Cotton (machine knitted yarns)",
+    "weave": "Knit",
+    "gsm": 200,
+    "washable": true,
+    "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach/softeners. Air dry."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 1499, "width_mm": 1244, "weight_kg": 1.2}
+    {
+      "size_name": "Standard",
+      "length_mm": 1499,
+      "width_mm": 1244,
+      "weight_kg": 1.2
+    }
   ],
-  "colors_available": ["Biscotti Beige", "Pineapple Yellow", "Pebble Grey"],
-  "certifications": ["OEKO-TEX Standard 100"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "colors_available": [
+    "Biscotti Beige",
+    "Pineapple Yellow",
+    "Pebble Grey"
+  ],
+  "certifications": [
+    "OEKO-TEX Standard 100"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 2889, "selling_price": 2399, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 2889,
+      "selling_price": 2399,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What are some standout features of SleepyCat's Knitted Throw?", "answer": "Our Knitted Throws are made of 100% premium cotton yarns that are free of any harmful substances. These throws do not shrink after wash and are highly durable."}
+    {
+      "question": "What are some standout features of SleepyCat's Knitted Throw?",
+      "answer": "Our Knitted Throws are made of 100% premium cotton yarns that are free of any harmful substances. These throws do not shrink after wash and are highly durable."
+    }
   ],
-  "notes_observed": "Smaller than muslin (49x59 vs 85x59), but heavier (1.2kg vs 0.52kg) — thicker knit for cooler weather. Sofa decor positioning."
+  "notes_observed": "Smaller than muslin (49x59 vs 85x59), but heavier (1.2kg vs 0.52kg) \u2014 thicker knit for cooler weather. Sofa decor positioning."
 }

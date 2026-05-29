@@ -7,24 +7,70 @@
   "sub_category": "Memory Foam Pillow / Cervical Contour",
   "description_short": "Super comfy cervical pillow with dual height options, designed to reduce pressure on your head & neck. This pillow is made with real memory foam that doesn't sag or flatten.",
   "construction_layers": [
-    {"position": 1, "name": "Pillow Fill", "material": "Perforated Real Memory Foam", "foam_type": "Perforated Memory Foam", "notes": "Doesn't sag or break. Cervical contour shape with dual loft options."}
+    {
+      "position": 1,
+      "name": "Pillow Fill",
+      "material": "Perforated Real Memory Foam",
+      "foam_type": "Perforated Memory Foam",
+      "notes": "Doesn't sag or break. Cervical contour shape with dual loft options."
+    }
   ],
-  "cover_fabric": {"composition": "Premium Hypoallergenic Fabric", "removable": true, "washable": true, "wash_instructions": "Machine Washable Zipper Cover"},
+  "cover_fabric": {
+    "composition": "Premium Hypoallergenic Fabric",
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine Washable Zipper Cover"
+  },
   "dimensions_by_size": [
-    {"size_name": "Full Size", "length_mm": 635, "width_mm": 406.4, "height_mm": 76.2, "weight_kg": 0.85}
+    {
+      "size_name": "Full Size",
+      "length_mm": 635,
+      "width_mm": 406.4,
+      "height_mm": 76.2,
+      "weight_kg": 0.85
+    }
   ],
-  "firmness": {"rating_1_10": 6, "label": "Medium Firm", "feel_descriptors": ["Soft", "Supportive", "Cervical"]},
+  "firmness": {
+    "rating_1_10": 6,
+    "label": "Medium Firm",
+    "feel_descriptors": [
+      "Soft",
+      "Supportive",
+      "Cervical"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "Dual Loft Design", "description": "Higher loft for side sleepers, lower loft for back sleepers."}
+    {
+      "name": "Dual Loft Design",
+      "description": "Higher loft for side sleepers, lower loft for back sleepers."
+    }
   ],
   "certifications": [],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1, "weight_capacity_kg": 100},
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1,
+    "weight_capacity_kg": 100
+  },
   "pricing": [
-    {"size_name": "Full Size", "mrp": 1989, "selling_price": 999, "currency": "INR"}
+    {
+      "size_name": "Full Size",
+      "mrp": 1989,
+      "selling_price": 999,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What are the benefits of the dual loft options?", "answer": "The Contour Pillow is crafted in a way to have dual loft options, so you can choose your comfort. The higher loft keeps the neck and spine aligned for side sleepers while the lower loft perfectly cradles the shoulders and the neck for back sleepers."},
-    {"question": "What do you mean by hyperextension?", "answer": "The Contour Pillow is made to hyperextend your neck. What this means is it enables your neck muscles to stretch, and provides relief so you can fully relax."},
-    {"question": "What do you mean by neutral spine position?", "answer": "The neutral spine position is your spine's favourite position. It's the position where your head and neck are aligned, and where they're both under the least amount of stress."}
+    {
+      "question": "What are the benefits of the dual loft options?",
+      "answer": "The Contour Pillow is crafted in a way to have dual loft options, so you can choose your comfort. The higher loft keeps the neck and spine aligned for side sleepers while the lower loft perfectly cradles the shoulders and the neck for back sleepers."
+    },
+    {
+      "question": "What do you mean by hyperextension?",
+      "answer": "The Contour Pillow is made to hyperextend your neck. What this means is it enables your neck muscles to stretch, and provides relief so you can fully relax."
+    },
+    {
+      "question": "What do you mean by neutral spine position?",
+      "answer": "The neutral spine position is your spine's favourite position. It's the position where your head and neck are aligned, and where they're both under the least amount of stress."
+    }
   ]
 }

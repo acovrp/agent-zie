@@ -7,20 +7,58 @@
   "sub_category": "Seat Cushion (Slim)",
   "description_short": "A sleek, ergonomic seat cushion made for everyday comfort & support without the bulk. Perfect for office chairs, car seats, and compact spaces.",
   "construction_layers": [
-    {"position": 1, "name": "Memory Foam Core", "material": "Memory Foam", "foam_type": "Premium Memory Foam", "thickness_mm": 64, "thickness_inches": 2.5, "notes": "Slim profile to avoid raising seat height."}
+    {
+      "position": 1,
+      "name": "Memory Foam Core",
+      "material": "Memory Foam",
+      "foam_type": "Premium Memory Foam",
+      "thickness_mm": 64,
+      "thickness_inches": 2.5,
+      "notes": "Slim profile to avoid raising seat height."
+    }
   ],
-  "cover_fabric": {"composition": "Breathable Dual Layer Nylon Cover", "removable": true, "washable": true, "wash_instructions": "Machine washable."},
+  "cover_fabric": {
+    "composition": "Breathable Dual Layer Nylon Cover",
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine washable."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 457, "width_mm": 432, "height_mm": 64, "weight_kg": 0.5}
+    {
+      "size_name": "Standard",
+      "length_mm": 457,
+      "width_mm": 432,
+      "height_mm": 64,
+      "weight_kg": 0.5
+    }
   ],
-  "firmness": {"rating_1_10": 7, "label": "Medium Firm", "feel_descriptors": ["Contouring", "Supportive", "Comfortable"]},
+  "firmness": {
+    "rating_1_10": 7,
+    "label": "Medium Firm",
+    "feel_descriptors": [
+      "Contouring",
+      "Supportive",
+      "Comfortable"
+    ]
+  },
   "proprietary_tech": [],
   "certifications": [],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 1999, "selling_price": 1499, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 1999,
+      "selling_price": 1499,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Is it only for car seats?", "answer": "No. While it's perfect as a car driver seat cushion, it's equally useful for office and home chairs."}
+    {
+      "question": "Is it only for car seats?",
+      "answer": "No. While it's perfect as a car driver seat cushion, it's equally useful for office and home chairs."
+    }
   ]
 }

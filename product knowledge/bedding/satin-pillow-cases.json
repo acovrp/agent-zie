@@ -6,23 +6,77 @@
   "category": "Bedding",
   "sub_category": "Pillow Case (Satin / Beauty)",
   "description_short": "Luxuriously soft pillow cases to ensure your beauty sleep while protecting your hair and skin.",
-  "cover_fabric": {"composition": "Satin (polyester satin weave)", "weave": "Satin", "thread_count": 300, "gsm": 90, "washable": true, "wash_instructions": "Machine wash cold, tumble dry low, iron on low."},
+  "cover_fabric": {
+    "composition": "Satin (polyester satin weave)",
+    "weave": "Satin",
+    "thread_count": 300,
+    "gsm": 90,
+    "washable": true,
+    "wash_instructions": "Machine wash cold, tumble dry low, iron on low."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 711, "width_mm": 457, "pieces": 2},
-    {"size_name": "King", "length_mm": 864, "width_mm": 508, "pieces": 2},
-    {"size_name": "Cuddle", "length_mm": 1016, "width_mm": 914, "pieces": 2}
+    {
+      "size_name": "Standard",
+      "length_mm": 711,
+      "width_mm": 457,
+      "pieces": 2
+    },
+    {
+      "size_name": "King",
+      "length_mm": 864,
+      "width_mm": 508,
+      "pieces": 2
+    },
+    {
+      "size_name": "Cuddle",
+      "length_mm": 1016,
+      "width_mm": 914,
+      "pieces": 2
+    }
   ],
-  "colors_available": ["Daisy White", "Opera Mauve", "Steel Grey", "Dusk Pearl", "Sapphire Blue"],
-  "certifications": ["Hypoallergenic"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "colors_available": [
+    "Daisy White",
+    "Opera Mauve",
+    "Steel Grey",
+    "Dusk Pearl",
+    "Sapphire Blue"
+  ],
+  "certifications": [
+    "Hypoallergenic"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 899, "selling_price": 749, "currency": "INR"},
-    {"size_name": "King", "mrp": 999, "selling_price": 899, "currency": "INR"},
-    {"size_name": "Cuddle", "mrp": 1099, "selling_price": 999, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 899,
+      "selling_price": 749,
+      "currency": "INR"
+    },
+    {
+      "size_name": "King",
+      "mrp": 999,
+      "selling_price": 899,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Cuddle",
+      "mrp": 1099,
+      "selling_price": 999,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Is the fabric hypoallergenic?", "answer": "Yes, our satin pillow cases are made from hypoallergenic material."},
-    {"question": "Can I buy just one pillow case?", "answer": "Currently, they are available in packs of two."}
+    {
+      "question": "Is the fabric hypoallergenic?",
+      "answer": "Yes, our satin pillow cases are made from hypoallergenic material."
+    },
+    {
+      "question": "Can I buy just one pillow case?",
+      "answer": "Currently, they are available in packs of two."
+    }
   ],
-  "notes_observed": "Beauty-positioned: 'protect hair and skin, reduce wrinkles, frizz-free hair'. Distinct from satin-weave 300TC sateen — this is polyester satin not cotton."
+  "notes_observed": "Beauty-positioned: 'protect hair and skin, reduce wrinkles, frizz-free hair'. Distinct from satin-weave 300TC sateen \u2014 this is polyester satin not cotton."
 }

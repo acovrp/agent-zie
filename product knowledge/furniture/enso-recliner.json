@@ -6,21 +6,50 @@
   "category": "Furniture",
   "sub_category": "Motorised Recliner",
   "description_short": "A stylish motorised recliner with smooth one-touch motion, built-in charging, and ergonomic support in a compact frame.",
-  "features": ["One-touch motorised recline", "Compact frame", "USB-C charging port", "Side pocket"],
+  "features": [
+    "One-touch motorised recline",
+    "Compact frame",
+    "USB-C charging port",
+    "Side pocket"
+  ],
   "frame_material": "Ply + Solid Wood",
   "upholstery": "Leatherette 540 GSM (50K Rub Count)",
   "recliner_mechanism": "Branded Motorised R3 Mechanism",
   "recliner_positions": "One-Touch Recline",
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 1028, "width_mm": 1085, "height_mm": 923, "weight_kg": 40.5}
+    {
+      "size_name": "Standard",
+      "length_mm": 1028,
+      "width_mm": 1085,
+      "height_mm": 923,
+      "weight_kg": 40.5
+    }
   ],
-  "colors_available": ["Amber Yellow", "Sand Beige"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1, "weight_capacity_kg": 125},
+  "colors_available": [
+    "Amber Yellow",
+    "Sand Beige"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1,
+    "weight_capacity_kg": 125
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 43999, "selling_price": 37399, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 43999,
+      "selling_price": 37399,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Does the recliner have a charging port?", "answer": "Yes, it features a built-in USB-C port, so you can conveniently charge your phone or devices while you relax."},
-    {"question": "How does the one-touch recline function work?", "answer": "The Enso Recliner comes with a motorised mechanism that lets you adjust your position smoothly with just the push of a button."}
+    {
+      "question": "Does the recliner have a charging port?",
+      "answer": "Yes, it features a built-in USB-C port, so you can conveniently charge your phone or devices while you relax."
+    },
+    {
+      "question": "How does the one-touch recline function work?",
+      "answer": "The Enso Recliner comes with a motorised mechanism that lets you adjust your position smoothly with just the push of a button."
+    }
   ]
 }

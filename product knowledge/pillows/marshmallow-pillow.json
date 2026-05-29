@@ -7,22 +7,62 @@
   "sub_category": "Soft Foam Pillow",
   "description_short": "Enjoy the squishy soft support of this pillow that feels exactly like its name.",
   "construction_layers": [
-    {"position": 1, "name": "Pillow Fill", "material": "Premium Soft Foam", "foam_type": "Soft Foam", "notes": "Extremely spongy feel with jelly-like bounce."}
+    {
+      "position": 1,
+      "name": "Pillow Fill",
+      "material": "Premium Soft Foam",
+      "foam_type": "Soft Foam",
+      "notes": "Extremely spongy feel with jelly-like bounce."
+    }
   ],
-  "cover_fabric": {"composition": "Premium Hypoallergenic Fabric", "removable": true, "washable": true, "wash_instructions": "Cover machine wash on delicate cycle with cold water. Foam inside not washable."},
+  "cover_fabric": {
+    "composition": "Premium Hypoallergenic Fabric",
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Cover machine wash on delicate cycle with cold water. Foam inside not washable."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 635, "width_mm": 406}
+    {
+      "size_name": "Standard",
+      "length_mm": 635,
+      "width_mm": 406
+    }
   ],
-  "firmness": {"rating_1_10": 5, "label": "Medium", "feel_descriptors": ["Soft", "Plush", "Bouncy"]},
+  "firmness": {
+    "rating_1_10": 5,
+    "label": "Medium",
+    "feel_descriptors": [
+      "Soft",
+      "Plush",
+      "Bouncy"
+    ]
+  },
   "proprietary_tech": [],
   "certifications": [],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 1989, "selling_price": 1599, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 1989,
+      "selling_price": 1599,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What is the pillow made of?", "answer": "The pillow is made of premium soft foam and has a cover of hypoallergenic fabric."},
-    {"question": "What is the recommended care for the foam?", "answer": "The foam inside is not washable and should be kept away from water."},
-    {"question": "What dimensions does the pillow come in?", "answer": "The dimensions are 25 x 16 inches (63.5 x 40.64 cm)."}
+    {
+      "question": "What is the pillow made of?",
+      "answer": "The pillow is made of premium soft foam and has a cover of hypoallergenic fabric."
+    },
+    {
+      "question": "What is the recommended care for the foam?",
+      "answer": "The foam inside is not washable and should be kept away from water."
+    },
+    {
+      "question": "What dimensions does the pillow come in?",
+      "answer": "The dimensions are 25 x 16 inches (63.5 x 40.64 cm)."
+    }
   ]
 }

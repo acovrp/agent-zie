@@ -7,23 +7,69 @@
   "sub_category": "Seat Cushion (U-cutout)",
   "description_short": "Designed for long hours of sitting, this seat cushion offers pressure relief, posture support, and a contoured shape that keeps you aligned.",
   "construction_layers": [
-    {"position": 1, "name": "Premium Memory Foam", "material": "Memory Foam", "foam_type": "Perforated Memory Foam", "thickness_mm": 50, "thickness_inches": 2, "density_kgm3": 50, "notes": "Contours to body shape; U-cutout for tailbone pressure relief."}
+    {
+      "position": 1,
+      "name": "Premium Memory Foam",
+      "material": "Memory Foam",
+      "foam_type": "Perforated Memory Foam",
+      "thickness_mm": 50,
+      "thickness_inches": 2,
+      "notes": "Contours to body shape; U-cutout for tailbone pressure relief."
+    }
   ],
-  "cover_fabric": {"composition": "Dual Layer Nylon", "gsm": 200, "removable": true, "washable": true, "wash_instructions": "Machine washable, gentle cycle."},
+  "cover_fabric": {
+    "composition": "Dual Layer Nylon",
+    "gsm": 200,
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine washable, gentle cycle."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 482, "width_mm": 449, "height_mm": 127, "weight_kg": 1.2}
+    {
+      "size_name": "Standard",
+      "length_mm": 482,
+      "width_mm": 449,
+      "height_mm": 127,
+      "weight_kg": 1.2
+    }
   ],
-  "firmness": {"rating_1_10": 7, "label": "Medium", "feel_descriptors": ["Contouring", "Supportive", "Comfortable"]},
+  "firmness": {
+    "rating_1_10": 7,
+    "label": "Medium",
+    "feel_descriptors": [
+      "Contouring",
+      "Supportive",
+      "Comfortable"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "U-Cutout Design", "description": "Eases tailbone/coccyx pressure during long sits."}
+    {
+      "name": "U-Cutout Design",
+      "description": "Eases tailbone/coccyx pressure during long sits."
+    }
   ],
-  "certifications": ["GOLS Certified", "ISO Certified Manufacturing"],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1, "weight_capacity_kg": 120},
+  "certifications": [
+    "GOLS Certified",
+    "ISO Certified Manufacturing"
+  ],
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1,
+    "weight_capacity_kg": 120
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 2499, "selling_price": 1874, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 2499,
+      "selling_price": 1874,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Can these seat cushions improve posture?", "answer": "Yes, the ergonomic design supports your tailbone and hips for better sitting posture."}
+    {
+      "question": "Can these seat cushions improve posture?",
+      "answer": "Yes, the ergonomic design supports your tailbone and hips for better sitting posture."
+    }
   ],
-  "notes_observed": "Height 127mm — schema may have mis-reported. Foam layer is 50mm/2in; total cushion likely closer to 75mm. Verify on compare page."
+  "notes_observed": "Height 127mm \u2014 schema may have mis-reported. Foam layer is 50mm/2in; total cushion likely closer to 75mm. Verify on compare page."
 }

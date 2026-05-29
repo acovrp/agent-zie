@@ -7,20 +7,59 @@
   "sub_category": "Wedge Pillow (Acid Reflux / Back Pain)",
   "description_short": "Ergonomic wedge pillow with premium memory foam, angled support design, and smart utility features for everyday ease.",
   "construction_layers": [
-    {"position": 1, "name": "Memory Foam Wedge", "material": "Memory Foam", "foam_type": "Premium Memory Foam", "notes": "High-density memory foam that holds its shape. Angled wedge form."}
+    {
+      "position": 1,
+      "name": "Memory Foam Wedge",
+      "material": "Memory Foam",
+      "foam_type": "Premium Memory Foam",
+      "notes": "High-density memory foam that holds its shape. Angled wedge form."
+    }
   ],
-  "cover_fabric": {"composition": "Breathable Dual Layer Nylon Cover", "removable": true, "washable": true, "wash_instructions": "Cover machine washable with mild detergent. Foam core not washable."},
+  "cover_fabric": {
+    "composition": "Breathable Dual Layer Nylon Cover",
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Cover machine washable with mild detergent. Foam core not washable."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard 20x7x21in", "length_mm": 508, "width_mm": 178, "height_mm": 533, "incline_degrees": 30}
+    {
+      "size_name": "Standard 20x7x21in",
+      "length_mm": 508,
+      "width_mm": 178,
+      "height_mm": 533,
+      "incline_degrees": 30
+    }
   ],
-  "firmness": {"rating_1_10": 8, "label": "Firm & Contouring", "feel_descriptors": ["Firm", "Contouring", "Supportive"]},
+  "firmness": {
+    "rating_1_10": 8,
+    "label": "Firm & Contouring",
+    "feel_descriptors": [
+      "Firm",
+      "Contouring",
+      "Supportive"
+    ]
+  },
   "proprietary_tech": [],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 2499, "selling_price": 1874, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 2499,
+      "selling_price": 1874,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What is a wedge pillow used for?", "answer": "A wedge pillow supports the head, back, or legs at an incline. It improves posture, eases acid reflux, and relieves back pain."},
-    {"question": "Can it help with snoring?", "answer": "Yes. Sleeping elevated keeps airways open, therefore reducing snoring and helping with mild sleep apnea."}
+    {
+      "question": "What is a wedge pillow used for?",
+      "answer": "A wedge pillow supports the head, back, or legs at an incline. It improves posture, eases acid reflux, and relieves back pain."
+    },
+    {
+      "question": "Can it help with snoring?",
+      "answer": "Yes. Sleeping elevated keeps airways open, therefore reducing snoring and helping with mild sleep apnea."
+    }
   ]
 }

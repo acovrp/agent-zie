@@ -1,15 +1,18 @@
 {
   "source_url": "https://sleepycat.in/pages/compare-pillow",
   "scraped_at": "2026-05-13",
-  "notes_observed": "Page only compares 3 memory-foam pillows (CoolTEC, Contour CoolTEC, SoftTouch). Doesn't include Latex, Microfiber, Fiber Lite, etc. — those aren't on the compare page.",
+  "notes_observed": "Page only compares 3 memory-foam pillows (CoolTEC, Contour CoolTEC, SoftTouch). Doesn't include Latex, Microfiber, Fiber Lite, etc. \u2014 those aren't on the compare page.",
   "comparison_table": [
     {
       "pillow_name": "CoolTEC Memory Foam Pillow",
       "slug": "cooltec-memory-foam-pillow",
       "fill_material": "Perforated Memory Foam",
       "firmness": "Medium Firm",
-      "cover": "Removable CoolTEC™ Fabric Cover",
-      "sizes_available": ["Full Size", "King"],
+      "cover": "Removable CoolTEC\u2122 Fabric Cover",
+      "sizes_available": [
+        "Full Size",
+        "King"
+      ],
       "best_for": "All sleepers (warm sleepers)",
       "starting_price_inr": 2199
     },
@@ -19,7 +22,9 @@
       "fill_material": "Perforated Memory Foam",
       "firmness": "Medium Firm",
       "cover": "Removable washable zipper cover (CoolTEC)",
-      "sizes_available": ["Full Size"],
+      "sizes_available": [
+        "Full Size"
+      ],
       "best_for": "Back & side sleepers who sleep warm and need orthopedic support",
       "starting_price_inr": 1899
     },
@@ -29,7 +34,11 @@
       "fill_material": "Perforated Memory Foam",
       "firmness": "Medium Firm",
       "cover": "Premium Hypoallergenic Fabric",
-      "sizes_available": ["Regular", "Full Size", "King"],
+      "sizes_available": [
+        "Regular",
+        "Full Size",
+        "King"
+      ],
       "best_for": "Back and side sleepers",
       "starting_price_inr": 949
     }

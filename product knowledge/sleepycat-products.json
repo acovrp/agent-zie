@@ -20,8 +20,6 @@
           "foam_type": "HD Foam",
           "thickness_mm": 102,
           "thickness_inches": 4,
-          "density_kgm3": 25,
-          "ild": 20,
           "gsm": 180,
           "notes": "Provides proper support during developmental years."
         }
@@ -257,11 +255,11 @@
       "product_name": "The Founder's Mattress",
       "category": "Mattresses",
       "sub_category": "Hybrid Luxury Mattress",
-      "description_short": "India's 1st and only mattress with Patented SmartCell™ Memory Foam. It adapts to your body, provides targeted support, and helps you sleep up to 6°C cooler.",
+      "description_short": "India's 1st and only mattress with Patented SmartCell\u2122 Memory Foam. It adapts to your body, provides targeted support, and helps you sleep up to 6\u00b0C cooler.",
       "construction_layers": [
         {
           "position": 1,
-          "name": "HyperXD™ Foam",
+          "name": "HyperXD\u2122 Foam",
           "material": "Foam",
           "foam_type": "Standard",
           "thickness_mm": 40,
@@ -270,7 +268,7 @@
         },
         {
           "position": 2,
-          "name": "Patented SmartCell™ Memory Foam",
+          "name": "Patented SmartCell\u2122 Memory Foam",
           "material": "Foam",
           "foam_type": "Memory",
           "thickness_mm": 25,
@@ -297,7 +295,7 @@
         }
       ],
       "cover_fabric": {
-        "composition": "CoolTec™ 600 GSM Cooling Fabric",
+        "composition": "CoolTec\u2122 600 GSM Cooling Fabric",
         "weave": "Zipper Cover",
         "gsm": 600,
         "removable": true,
@@ -341,15 +339,15 @@
       },
       "proprietary_tech": [
         {
-          "name": "SmartCell™ Technology",
+          "name": "SmartCell\u2122 Technology",
           "description": "Patented technology for airflow and pressure relief."
         },
         {
-          "name": "CoolTec™ Fabric",
-          "description": "Keeps mattress cool up to 6°C."
+          "name": "CoolTec\u2122 Fabric",
+          "description": "Keeps mattress cool up to 6\u00b0C."
         },
         {
-          "name": "HyperXD™ Foam",
+          "name": "HyperXD\u2122 Foam",
           "description": "Adaptive foam that cradles without sinking."
         }
       ],
@@ -376,29 +374,29 @@
         },
         {
           "question": "What materials are used in the Founder's mattress?",
-          "answer": "The Founder's mattress is a combination of GOLS-certified natural latex, HyperXD™ foam, and SmartCell™ memory foam."
+          "answer": "The Founder's mattress is a combination of GOLS-certified natural latex, HyperXD\u2122 foam, and SmartCell\u2122 memory foam."
         },
         {
           "question": "Will this mattress stay cool in hot weather?",
-          "answer": "Yes, the mattress uses CoolTec™ cooling fabric and integrated SmartCell™ airflow channels to keep you cool."
+          "answer": "Yes, the mattress uses CoolTec\u2122 cooling fabric and integrated SmartCell\u2122 airflow channels to keep you cool."
         },
         {
           "question": "What makes the Founder's Mattress different from other luxury mattresses in India?",
           "answer": "The Founder's Mattress offers a four-layer hybrid design engineered specifically for Indian sleepers."
         }
       ],
-      "notes_observed": "Densities/ILDs not on page (returned 0). Total height per FAQ = 9 inches (~228mm) confirms layers sum. Only Single price extracted — Double/Queen/King MRP/SP not visible without variant selection. Weight_kg not on page.",
+      "notes_observed": " Total height per FAQ = 9 inches (~228mm) confirms layers sum. Only Single price extracted \u2014 Double/Queen/King MRP/SP not visible without variant selection. Weight_kg not on page.",
       "_category_folder": "mattresses"
     },
     {
       "slug": "latex-mattress",
       "source_url": "https://sleepycat.in/products/latex-mattress",
       "scraped_at": "2026-05-13",
-      "scrape_method": "raw markdown salvage (not JSON schema — see notes)",
+      "scrape_method": "raw markdown salvage (not JSON schema \u2014 see notes)",
       "product_name": "Hybrid Latex Mattress",
       "category": "Mattresses",
       "sub_category": "Hybrid Latex Mattress",
-      "description_short": "Built with Pinhole Tech Latex & AirGen™ Memory Foam, this mattress gives 5-zone body support & promotes overnight recovery.",
+      "description_short": "Built with Pinhole Tech Latex & AirGen\u2122 Memory Foam, this mattress gives 5-zone body support & promotes overnight recovery.",
       "construction_layers": [
         {
           "position": 1,
@@ -411,7 +409,7 @@
         },
         {
           "position": 2,
-          "name": "AirGen™ Memory Foam",
+          "name": "AirGen\u2122 Memory Foam",
           "material": "Memory Foam",
           "foam_type": "AirGen Open-Cell Memory Foam",
           "thickness_mm": 25.4,
@@ -492,7 +490,7 @@
           "description": "Latex with pinholes for breathability."
         },
         {
-          "name": "AirGen™ Memory Foam",
+          "name": "AirGen\u2122 Memory Foam",
           "description": "Open-cell memory foam for cooling."
         },
         {
@@ -513,7 +511,7 @@
           "mrp": 11499,
           "selling_price": 9199,
           "currency": "INR",
-          "notes": "From compare page also reported ₹8799 starting — pricing fluctuates by promotion."
+          "notes": "From compare page also reported \u20b98799 starting \u2014 pricing fluctuates by promotion."
         }
       ],
       "faq_specs": [
@@ -526,7 +524,7 @@
           "answer": "Make sure the mattress is placed on a solid foundation to prevent uneven weight distribution."
         }
       ],
-      "notes_observed": "Salvaged from earlier session's raw markdown dump (58KB). Density/ILD values not in raw; sized variants extracted from listing table but full price grid not available without variant select. Use compare-mattresses.json + product page as cross-reference.",
+      "notes_observed": "Salvaged from earlier session's raw markdown dump (58KB).  sized variants extracted from listing table but full price grid not available without variant select. Use compare-mattresses.json + product page as cross-reference.",
       "_category_folder": "mattresses"
     },
     {
@@ -594,7 +592,7 @@
           "answer": "Sleepycat mattresses are made with certified safe and non-toxic foams, making them suitable for children and infants."
         }
       ],
-      "notes_observed": "Same size as foam baby mattress (4'x2'x4\") but 3x the price for GOLS natural latex. Density/ILD not on page.",
+      "notes_observed": "Same size as foam baby mattress (4'x2'x4\") but 3x the price for GOLS natural latex. ",
       "_category_folder": "mattresses"
     },
     {
@@ -604,17 +602,15 @@
       "product_name": "Original Mattress",
       "category": "Mattresses",
       "sub_category": "Foam Mattress",
-      "description_short": "Made with AirGen™ Memory Foam, the Original Mattress gives you the perfect balance of comfort & support. Not too soft, not too firm, it's just right.",
+      "description_short": "Made with AirGen\u2122 Memory Foam, the Original Mattress gives you the perfect balance of comfort & support. Not too soft, not too firm, it's just right.",
       "construction_layers": [
         {
           "position": 1,
-          "name": "AirGen™ Memory Foam",
+          "name": "AirGen\u2122 Memory Foam",
           "material": "Memory Foam",
           "foam_type": "Open-cell",
           "thickness_mm": 25.4,
           "thickness_inches": 1,
-          "density_kgm3": 50,
-          "ild": 15,
           "notes": "Adaptive comfort"
         },
         {
@@ -624,8 +620,6 @@
           "foam_type": "Transition Foam",
           "thickness_mm": 25.4,
           "thickness_inches": 1,
-          "density_kgm3": 40,
-          "ild": 20,
           "notes": "Responsive support"
         },
         {
@@ -635,8 +629,6 @@
           "foam_type": "High Density Foam",
           "thickness_mm": 127,
           "thickness_inches": 5,
-          "density_kgm3": 30,
-          "ild": 30,
           "notes": "Durable base"
         }
       ],
@@ -689,7 +681,7 @@
       },
       "proprietary_tech": [
         {
-          "name": "AirGen™ Memory Foam",
+          "name": "AirGen\u2122 Memory Foam",
           "description": "Enhanced breathability and heat reduction"
         }
       ],
@@ -730,8 +722,8 @@
       ],
       "faq_specs": [
         {
-          "question": "What is the AirGen™ Memory Foam?",
-          "answer": "AirGen™ is a 100% open-cell memory foam with enhanced breathability. The open-cell structure keeps air circulating through the foam, reducing heat buildup."
+          "question": "What is the AirGen\u2122 Memory Foam?",
+          "answer": "AirGen\u2122 is a 100% open-cell memory foam with enhanced breathability. The open-cell structure keeps air circulating through the foam, reducing heat buildup."
         },
         {
           "question": "What feel is the Original Mattress?",
@@ -746,7 +738,7 @@
           "answer": "The Original takes about 48-hours to expand fully."
         }
       ],
-      "notes_observed": "Page mentions 6, 8 and 10-inch options. Dimensions extracted are 152mm (6\") only — 8\"/10\" SKUs may have different pricing. FAQ confirms 8\"/10\" exist.",
+      "notes_observed": "Page mentions 6, 8 and 10-inch options. Dimensions extracted are 152mm (6\") only \u2014 8\"/10\" SKUs may have different pricing. FAQ confirms 8\"/10\" exist.",
       "_category_folder": "mattresses"
     },
     {
@@ -756,11 +748,11 @@
       "product_name": "Ultima Memory Foam Mattress",
       "category": "Mattresses",
       "sub_category": "Memory Foam",
-      "description_short": "Made with AirGen™ Memory Foam, this mattress gives 7-zone body support for uninterrupted rest & keeps you up to 4°C cooler.",
+      "description_short": "Made with AirGen\u2122 Memory Foam, this mattress gives 7-zone body support for uninterrupted rest & keeps you up to 4\u00b0C cooler.",
       "construction_layers": [
         {
           "position": 1,
-          "name": "AirGen™ Memory Foam",
+          "name": "AirGen\u2122 Memory Foam",
           "material": "Memory Foam",
           "foam_type": "Open-cell",
           "thickness_mm": 38.1,
@@ -778,7 +770,7 @@
         },
         {
           "position": 3,
-          "name": "High Density Foam with DeepTouch™ Pressure",
+          "name": "High Density Foam with DeepTouch\u2122 Pressure",
           "material": "Foam",
           "foam_type": "High Density",
           "thickness_mm": 101.6,
@@ -796,7 +788,7 @@
         }
       ],
       "cover_fabric": {
-        "composition": "CoolTEC™",
+        "composition": "CoolTEC\u2122",
         "weave": "Ezie Zipper Cover",
         "removable": true,
         "washable": true,
@@ -1025,15 +1017,15 @@
       },
       "proprietary_tech": [
         {
-          "name": "AirGen™ Memory Foam",
+          "name": "AirGen\u2122 Memory Foam",
           "description": "100% open-cell memory foam that enhances breathability ensuring airflow & heat reduction."
         },
         {
-          "name": "CoolTEC™ Fabric",
-          "description": "Draws heat away to keep you approximately 4°C cooler."
+          "name": "CoolTEC\u2122 Fabric",
+          "description": "Draws heat away to keep you approximately 4\u00b0C cooler."
         },
         {
-          "name": "DeepTouch™ Pressure Technology",
+          "name": "DeepTouch\u2122 Pressure Technology",
           "description": "Contouring support for different body parts to maintain a neutral spine position."
         }
       ],
@@ -1057,7 +1049,7 @@
       "faq_specs": [
         {
           "question": "What foam technology is used in the mattress?",
-          "answer": "The mattress features AirGen™ Memory Foam, which uses 100% open-cell technology for enhanced breathability."
+          "answer": "The mattress features AirGen\u2122 Memory Foam, which uses 100% open-cell technology for enhanced breathability."
         },
         {
           "question": "How thick is the mattress?",
@@ -1069,14 +1061,14 @@
         },
         {
           "question": "What is the cooling technology used?",
-          "answer": "The mattress uses CoolTEC™ fabric that keeps the surface up to 4°C cooler."
+          "answer": "The mattress uses CoolTEC\u2122 fabric that keeps the surface up to 4\u00b0C cooler."
         },
         {
           "question": "How does the 7-zone support work?",
-          "answer": "The mattress provides targeted support through its DeepTouch™ Pressure Technology, contouring to the body's shape."
+          "answer": "The mattress provides targeted support through its DeepTouch\u2122 Pressure Technology, contouring to the body's shape."
         }
       ],
-      "notes_observed": "Largest SKU range of any mattress — 35 size variants across 8\"/10\" heights. Pricing returned as flat 10779 for all sizes; likely starting price only (variant-specific pricing not visible without selection). Densities/ILDs/weight not on page. Total height range 6\"-10\" per other pages.",
+      "notes_observed": "Largest SKU range of any mattress \u2014 35 size variants across 8\"/10\" heights. Pricing returned as flat 10779 for all sizes; likely starting price only (variant-specific pricing not visible without selection).  Total height range 6\"-10\" per other pages.",
       "_category_folder": "mattresses"
     },
     {
@@ -1095,8 +1087,6 @@
           "foam_type": "Latex foam",
           "thickness_mm": 25.4,
           "thickness_inches": 1,
-          "density_kgm3": 70,
-          "ild": 30,
           "notes": "Provides firm and responsive support."
         },
         {
@@ -1106,8 +1096,6 @@
           "foam_type": "Transition foam",
           "thickness_mm": 25.4,
           "thickness_inches": 1,
-          "density_kgm3": 30,
-          "ild": 20,
           "notes": "Adds breathability and comfort."
         },
         {
@@ -1117,8 +1105,6 @@
           "foam_type": "Base foam",
           "thickness_mm": 127,
           "thickness_inches": 5,
-          "density_kgm3": 35,
-          "ild": 40,
           "notes": "Provides structural firmness."
         }
       ],
@@ -1205,7 +1191,7 @@
           "answer": "The mattress comes with a 10-year warranty."
         }
       ],
-      "notes_observed": "FAQ mentions 6\" and 8\" height options but dimensions_by_size on page only showed 152mm (6\"). 8\" SKU may exist as variant — confirm in compare page.",
+      "notes_observed": "FAQ mentions 6\" and 8\" height options but dimensions_by_size on page only showed 152mm (6\"). 8\" SKU may exist as variant \u2014 confirm in compare page.",
       "_category_folder": "mattresses"
     },
     {
@@ -1224,7 +1210,6 @@
           "foam_type": "HR Foam",
           "thickness_mm": 100,
           "thickness_inches": 4,
-          "density_kgm3": 28,
           "notes": "Provides balanced support without the bulk."
         }
       ],
@@ -1322,8 +1307,6 @@
           "foam_type": "Natural Latex",
           "thickness_mm": 38.1,
           "thickness_inches": 1.5,
-          "density_kgm3": 70,
-          "ild": 20,
           "gsm": 100,
           "notes": "GOLS Certified with Pinhole Tech for breathability."
         },
@@ -1334,8 +1317,6 @@
           "foam_type": "Transition Foam",
           "thickness_mm": 25.4,
           "thickness_inches": 1,
-          "density_kgm3": 50,
-          "ild": 25,
           "gsm": 100,
           "notes": "Provides comfort and support."
         },
@@ -1346,14 +1327,12 @@
           "foam_type": "Support Foam",
           "thickness_mm": 38.1,
           "thickness_inches": 1.5,
-          "density_kgm3": 70,
-          "ild": 30,
           "gsm": 200,
           "notes": "Ensures long-lasting support."
         }
       ],
       "cover_fabric": {
-        "composition": "CoolTEC™ Fabric",
+        "composition": "CoolTEC\u2122 Fabric",
         "weave": "Knitted",
         "gsm": 200,
         "removable": true,
@@ -1406,11 +1385,11 @@
           "description": "Enhances airflow and reduces heat retention."
         },
         {
-          "name": "CoolTEC™ Fabric",
-          "description": "Keeps the mattress up to 4°C cooler."
+          "name": "CoolTEC\u2122 Fabric",
+          "description": "Keeps the mattress up to 4\u00b0C cooler."
         },
         {
-          "name": "7-Zone DeepTouch™ Pressure Tech",
+          "name": "7-Zone DeepTouch\u2122 Pressure Tech",
           "description": "Provides targeted support for different body parts."
         }
       ],
@@ -1467,7 +1446,7 @@
           "answer": "It comes with a 10-year warranty."
         }
       ],
-      "notes_observed": "8\" SKU dimensions only — 10\" SKU exists per FAQ but not extracted.",
+      "notes_observed": "8\" SKU dimensions only \u2014 10\" SKU exists per FAQ but not extracted.",
       "_category_folder": "mattresses"
     },
     {
@@ -1587,7 +1566,7 @@
         }
       ],
       "cover_fabric": {
-        "composition": "CoolTEC™ Fabric",
+        "composition": "CoolTEC\u2122 Fabric",
         "removable": true,
         "washable": true,
         "wash_instructions": "Machine washable zipper cover."
@@ -1611,8 +1590,8 @@
       },
       "proprietary_tech": [
         {
-          "name": "CoolTEC™ Fabric",
-          "description": "Improves airflow and keeps you up to 4° cooler."
+          "name": "CoolTEC\u2122 Fabric",
+          "description": "Improves airflow and keeps you up to 4\u00b0 cooler."
         },
         {
           "name": "Perforated Memory Foam",
@@ -1668,8 +1647,6 @@
           "foam_type": "Natural Latex",
           "thickness_mm": 100,
           "thickness_inches": 3.9,
-          "density_kgm3": 60,
-          "ild": 20,
           "notes": "GOLS certified 100% natural latex. Cervical contour shape."
         }
       ],
@@ -1815,7 +1792,7 @@
       "product_name": "CoolTEC Memory Foam Pillow",
       "category": "Pillow",
       "sub_category": "Memory Foam Pillow",
-      "description_short": "Sleep cool and supported with the CoolTEC Memory Foam Pillow made of perforated memory foam, designed to keep you up to 4° cooler throughout the night.",
+      "description_short": "Sleep cool and supported with the CoolTEC Memory Foam Pillow made of perforated memory foam, designed to keep you up to 4\u00b0 cooler throughout the night.",
       "construction_layers": [
         {
           "position": 1,
@@ -1824,13 +1801,11 @@
           "foam_type": "Memory Foam",
           "thickness_mm": 100,
           "thickness_inches": 3.9,
-          "density_kgm3": 60,
-          "ild": 46,
           "notes": "Supports the head and neck, does not sag or break."
         }
       ],
       "cover_fabric": {
-        "composition": "CoolTEC™ Fabric",
+        "composition": "CoolTEC\u2122 Fabric",
         "weave": "Polyester",
         "gsm": 150,
         "removable": true,
@@ -1865,8 +1840,8 @@
       },
       "proprietary_tech": [
         {
-          "name": "CoolTEC™",
-          "description": "Keeps the pillow temperature regulated by drawing heat away from the sleeper. Up to 4°C cooler."
+          "name": "CoolTEC\u2122",
+          "description": "Keeps the pillow temperature regulated by drawing heat away from the sleeper. Up to 4\u00b0C cooler."
         }
       ],
       "certifications": [
@@ -1915,14 +1890,14 @@
       "construction_layers": [
         {
           "position": 1,
-          "name": "Side A — Memory Foam",
+          "name": "Side A \u2014 Memory Foam",
           "material": "Memory Foam",
           "foam_type": "Memory Foam",
           "notes": "Provides contouring support (firm side)."
         },
         {
           "position": 2,
-          "name": "Side B — Marshmallow Foam",
+          "name": "Side B \u2014 Marshmallow Foam",
           "material": "Marshmallow Foam",
           "foam_type": "Soft Foam",
           "notes": "Offers plush, airy comfort (soft side)."
@@ -1954,7 +1929,7 @@
       "proprietary_tech": [
         {
           "name": "Dual-Side Design",
-          "description": "Memory foam on one side, marshmallow foam on the other — flippable."
+          "description": "Memory foam on one side, marshmallow foam on the other \u2014 flippable."
         }
       ],
       "certifications": [
@@ -1982,7 +1957,7 @@
           "answer": "One side is made of memory foam and the other is made of marshmallow foam for different comfort levels."
         }
       ],
-      "notes_observed": "Thickness extracted as 127mm/5\" per layer but that's likely the total — confirm; dual-foam pillow is single physical block split A/B.",
+      "notes_observed": "Thickness extracted as 127mm/5\" per layer but that's likely the total \u2014 confirm; dual-foam pillow is single physical block split A/B.",
       "_category_folder": "pillows"
     },
     {
@@ -2079,14 +2054,14 @@
           "name": "Memory Foam Insert (removable)",
           "material": "Memory Foam",
           "foam_type": "Memory Foam",
-          "notes": "Customizable height and firmness — can be removed."
+          "notes": "Customizable height and firmness \u2014 can be removed."
         },
         {
           "position": 3,
           "name": "High Density Foam Insert (removable)",
           "material": "High Density Foam",
           "foam_type": "High Density Foam",
-          "notes": "Adds extra support — can be removed."
+          "notes": "Adds extra support \u2014 can be removed."
         }
       ],
       "cover_fabric": {
@@ -2229,8 +2204,6 @@
           "foam_type": "Perforated Memory Foam",
           "thickness_mm": 100,
           "thickness_inches": 4,
-          "density_kgm3": 50,
-          "ild": 9,
           "notes": "Breathable design to enhance airflow."
         }
       ],
@@ -2340,9 +2313,7 @@
           "material": "GOLS Certified 100% Natural Latex Foam",
           "foam_type": "Natural Latex",
           "thickness_mm": 102,
-          "thickness_inches": 4,
-          "density_kgm3": 60,
-          "ild": 19
+          "thickness_inches": 4
         }
       ],
       "cover_fabric": {
@@ -2488,8 +2459,6 @@
           "foam_type": "Memory Foam",
           "thickness_mm": 25,
           "thickness_inches": 1,
-          "density_kgm3": 40,
-          "ild": 20,
           "notes": "Soft cushioning for neck support."
         }
       ],
@@ -2565,8 +2534,6 @@
           "foam_type": "AirGen",
           "thickness_mm": 51,
           "thickness_inches": 2,
-          "density_kgm3": 48,
-          "ild": 12,
           "gsm": 100,
           "notes": "Adaptive support and soft feel."
         }
@@ -2666,7 +2633,7 @@
           "answer": "The best thickness for a mattress topper usually ranges between 2 to 4 inches."
         }
       ],
-      "notes_observed": "Duplicate of memory-foam-mattress-topper but with full spec table (density/ILD/GSM/cover fabric, CertiPUR/ISO/OEKO-TEX certs). Two SKUs for the same product line — likely the 2\" version is the premium-spec'd variant.",
+      "notes_observed": "Duplicate of memory-foam-mattress-topper but with full spec table (cover fabric, CertiPUR/ISO/OEKO-TEX certs). Two SKUs for the same product line \u2014 likely the 2\" version is the premium-spec'd variant.",
       "_category_folder": "toppers"
     },
     {
@@ -2790,8 +2757,6 @@
           "foam_type": "Natural Latex",
           "thickness_mm": 38.1,
           "thickness_inches": 1.5,
-          "density_kgm3": 80,
-          "ild": 20,
           "notes": "Naturally responsive with pinhole design for airflow."
         }
       ],
@@ -2945,7 +2910,7 @@
       },
       "proprietary_tech": [
         {
-          "name": "CoolTEC™",
+          "name": "CoolTEC\u2122",
           "description": "Provides cooling sensation on contact, enhancing sleep comfort."
         }
       ],
@@ -3098,7 +3063,7 @@
           "answer": "No, the top fabric is soft and breathable, designed to feel like a regular bedsheet while the waterproof layer sits underneath."
         }
       ],
-      "notes_observed": "Flat pricing across all sizes (₹710). 10-year warranty (longest in lineup).",
+      "notes_observed": "Flat pricing across all sizes (\u20b9710). 10-year warranty (longest in lineup).",
       "_category_folder": "toppers"
     },
     {
@@ -3112,7 +3077,7 @@
       "construction_layers": [
         {
           "position": 1,
-          "name": "AirGen™ Memory Foam",
+          "name": "AirGen\u2122 Memory Foam",
           "material": "Memory Foam",
           "foam_type": "Memory Foam",
           "thickness_mm": 51,
@@ -3167,7 +3132,7 @@
       },
       "proprietary_tech": [
         {
-          "name": "AirGen™",
+          "name": "AirGen\u2122",
           "description": "Memory Foam for adaptive comfort."
         }
       ],
@@ -3492,7 +3457,7 @@
           "answer": "The duvet cover has a thread count of 200."
         }
       ],
-      "notes_observed": "Same 6 colors as percale fitted bedsheet — matching set. Note: schema reported dims in cm (228.6/152.4) — corrected to mm here.",
+      "notes_observed": "Same 6 colors as percale fitted bedsheet \u2014 matching set. Note: schema reported dims in cm (228.6/152.4) \u2014 corrected to mm here.",
       "_category_folder": "bedding"
     },
     {
@@ -3641,7 +3606,7 @@
           "answer": "Jersey sheets are versatile, offering comfort in warmer months with breathability and warmth in cooler weather due to their insulating properties."
         }
       ],
-      "notes_observed": "Page only fully extracted Single dimensions — Double/Queen/King not visible without variant select. Knit doesn't have thread count (TC=0).",
+      "notes_observed": "Page only fully extracted Single dimensions \u2014 Double/Queen/King not visible without variant select. Knit doesn't have thread count (TC=0).",
       "_category_folder": "bedding"
     },
     {
@@ -3723,7 +3688,7 @@
           "answer": "Yes, jersey pillow covers come in various sizes, including Standard, King, and Cuddle, accommodating different pillow dimensions for a proper fit."
         }
       ],
-      "notes_observed": "Schema returned weave='Percale' which is wrong — this is a knit jersey. Cheapest pillowcase in lineup (₹250 for Cuddle).",
+      "notes_observed": "Schema returned weave='Percale' which is wrong \u2014 this is a knit jersey. Cheapest pillowcase in lineup (\u20b9250 for Cuddle).",
       "_category_folder": "bedding"
     },
     {
@@ -3775,7 +3740,7 @@
           "answer": "Our Knitted Throws are made of 100% premium cotton yarns that are free of any harmful substances. These throws do not shrink after wash and are highly durable."
         }
       ],
-      "notes_observed": "Smaller than muslin (49x59 vs 85x59), but heavier (1.2kg vs 0.52kg) — thicker knit for cooler weather. Sofa decor positioning.",
+      "notes_observed": "Smaller than muslin (49x59 vs 85x59), but heavier (1.2kg vs 0.52kg) \u2014 thicker knit for cooler weather. Sofa decor positioning.",
       "_category_folder": "bedding"
     },
     {
@@ -3852,7 +3817,7 @@
           "answer": "The summer variant is lighter and designed for breathable comfort in warmer conditions, while the winter variant has a higher GSM fill for added warmth."
         }
       ],
-      "notes_observed": "Luxe range: Summer 150 → Winter 300 GSM. Standard line: Summer 120 → All-Season 200 → Winter 400 GSM.",
+      "notes_observed": "Luxe range: Summer 150 \u2192 Winter 300 GSM. Standard line: Summer 120 \u2192 All-Season 200 \u2192 Winter 400 GSM.",
       "_category_folder": "bedding"
     },
     {
@@ -3906,7 +3871,7 @@
           "answer": "Yes, the cotton muslin fabric is designed to get softer with every wash."
         }
       ],
-      "notes_observed": "Throw size (85x59in) ~ Single bedsheet size but lighter weight. 520 GSM noted in fabric — likely refers to total weight not GSM; double-check.",
+      "notes_observed": "Throw size (85x59in) ~ Single bedsheet size but lighter weight. 520 GSM noted in fabric \u2014 likely refers to total weight not GSM; double-check.",
       "_category_folder": "bedding"
     },
     {
@@ -4092,7 +4057,7 @@
           "answer": "Available in King, Standard, and Cuddle sizes."
         }
       ],
-      "notes_observed": "URL says 'king' but page covers Standard/King/Cuddle. Same colorway as percale bedsheet — matching set.",
+      "notes_observed": "URL says 'king' but page covers Standard/King/Cuddle. Same colorway as percale bedsheet \u2014 matching set.",
       "_category_folder": "bedding"
     },
     {
@@ -4256,7 +4221,7 @@
           "answer": "The zipper closure keeps your duvet securely enclosed, while the corner ties hold it in place, preventing shifting or bunching inside the cover."
         }
       ],
-      "notes_observed": "Only Single price visible (₹2294). Available in Single/Double only — no Queen/King for duvet covers.",
+      "notes_observed": "Only Single price visible (\u20b92294). Available in Single/Double only \u2014 no Queen/King for duvet covers.",
       "_category_folder": "bedding"
     },
     {
@@ -4317,8 +4282,8 @@
       ],
       "proprietary_tech": [
         {
-          "name": "360° Elastic",
-          "description": "Elastic runs all around the sheet, grips mattresses up to 10–13 inches thick."
+          "name": "360\u00b0 Elastic",
+          "description": "Elastic runs all around the sheet, grips mattresses up to 10\u201313 inches thick."
         }
       ],
       "certifications": [],
@@ -4359,14 +4324,14 @@
         },
         {
           "question": "Is this fitted bedsheet suitable for thick mattresses?",
-          "answer": "Yes, it is designed with a deep pocket and can comfortably fit mattresses up to 10–13 inches thick, depending on the size."
+          "answer": "Yes, it is designed with a deep pocket and can comfortably fit mattresses up to 10\u201313 inches thick, depending on the size."
         },
         {
           "question": "Does this bedsheet come with pillowcases?",
           "answer": "Yes. Single and Double sizes come with 1 pillowcase, while Queen and King sizes come with 2 pillowcases."
         }
       ],
-      "notes_observed": "Flat ₹1599 across all sizes. Pocket depth (height_mm) = 330mm = ~13\".",
+      "notes_observed": "Flat \u20b91599 across all sizes. Pocket depth (height_mm) = 330mm = ~13\".",
       "_category_folder": "bedding"
     },
     {
@@ -4375,7 +4340,7 @@
       "scraped_at": "2026-05-13",
       "product_name": "300 TC Sateen Pillow Cases (Cuddle)",
       "category": "Bedding",
-      "sub_category": "Pillow Case — Cuddle/Body Pillow",
+      "sub_category": "Pillow Case \u2014 Cuddle/Body Pillow",
       "description_short": "Combining the buttery smoothness of sateen fabric with a refined, seamless design, these pillow covers offer a luxurious look free from visible zippers or buttons.",
       "cover_fabric": {
         "composition": "100% Cotton",
@@ -4505,7 +4470,7 @@
           "answer": "Currently, they are available in packs of two."
         }
       ],
-      "notes_observed": "Beauty-positioned: 'protect hair and skin, reduce wrinkles, frizz-free hair'. Distinct from satin-weave 300TC sateen — this is polyester satin not cotton.",
+      "notes_observed": "Beauty-positioned: 'protect hair and skin, reduce wrinkles, frizz-free hair'. Distinct from satin-weave 300TC sateen \u2014 this is polyester satin not cotton.",
       "_category_folder": "bedding"
     },
     {
@@ -4587,7 +4552,7 @@
           "answer": "Absolutely, it's ideal for AC environments where light layering is needed. It provides just the right amount of coziness without overheating."
         }
       ],
-      "notes_observed": "Comforter ladder by GSM: Summer 120 → All-Season 200 → Winter 400. Same dual-color reversible cover style across all three.",
+      "notes_observed": "Comforter ladder by GSM: Summer 120 \u2192 All-Season 200 \u2192 Winter 400. Same dual-color reversible cover style across all three.",
       "_category_folder": "bedding"
     },
     {
@@ -4659,7 +4624,7 @@
           "answer": "The fill of the Weighted Blanket is why the Weighted Blanket is not machine washable. In case of any spills, just use a damp cloth and wipe it off gently."
         }
       ],
-      "notes_observed": "Only Single size; 4kg weight. Not washable (key constraint). Therapeutic positioning — pairs with [[pregnancy-body-pillow]] in stress-relief category.",
+      "notes_observed": "Only Single size; 4kg weight. Not washable (key constraint). Therapeutic positioning \u2014 pairs with [[pregnancy-body-pillow]] in stress-relief category.",
       "_category_folder": "bedding"
     },
     {
@@ -4765,7 +4730,7 @@
           "name": "Fill",
           "material": "Virgin Microfiber",
           "gsm": 400,
-          "notes": "Warm and cozy fill — heavier than all-season (200 GSM)."
+          "notes": "Warm and cozy fill \u2014 heavier than all-season (200 GSM)."
         }
       ],
       "cover_fabric": {
@@ -4826,7 +4791,7 @@
       "scraped_at": "2026-05-13",
       "product_name": "Car Bundle",
       "category": "Ergo",
-      "sub_category": "Bundle (Car — Slim 3-piece)",
+      "sub_category": "Bundle (Car \u2014 Slim 3-piece)",
       "description_short": "Three compact cushions that support your neck, back, and hips, ensuring comfort during long drives.",
       "bundle_components": [
         "Car Neck Pillow",
@@ -4858,7 +4823,7 @@
           "answer": "The bundle includes Car Neck Cushion, Car Back Cushion, Car Seat Cushion, designed to provide complete comfort and ergonomic support while driving."
         }
       ],
-      "notes_observed": "Lighter/compact alternative to [[ergo-car-bundle]] (Pro Car Bundle). Uses Slim variants (Slim Back + Slim Seat + Car Neck) instead of Pro variants. 0.8kg vs 2.5kg. Similar price (₹3478 vs ₹3442) — Slim bundle priced slightly higher despite less foam, likely due to compact appeal.",
+      "notes_observed": "Lighter/compact alternative to [[ergo-car-bundle]] (Pro Car Bundle). Uses Slim variants (Slim Back + Slim Seat + Car Neck) instead of Pro variants. 0.8kg vs 2.5kg. Similar price (\u20b93478 vs \u20b93442) \u2014 Slim bundle priced slightly higher despite less foam, likely due to compact appeal.",
       "_category_folder": "ergo"
     },
     {
@@ -4877,7 +4842,6 @@
           "foam_type": "Premium Memory Foam",
           "thickness_mm": 76.2,
           "thickness_inches": 3,
-          "density_kgm3": 50,
           "notes": "Adaptive and contouring."
         }
       ],
@@ -4929,7 +4893,7 @@
           "answer": "Unzip the outer cover and machine wash it. The foam core stays protected and fresh."
         }
       ],
-      "notes_observed": "Smaller and cheaper than Pro Neck — no side pocket, narrower profile (76mm wide vs 406mm).",
+      "notes_observed": "Smaller and cheaper than Pro Neck \u2014 no side pocket, narrower profile (76mm wide vs 406mm).",
       "_category_folder": "ergo"
     },
     {
@@ -4938,7 +4902,7 @@
       "scraped_at": "2026-05-13",
       "product_name": "Pro Car Bundle",
       "category": "Ergo",
-      "sub_category": "Bundle (Car — 3-piece)",
+      "sub_category": "Bundle (Car \u2014 3-piece)",
       "description_short": "A three-piece ergonomic system for your car, designed to keep your body aligned and comfortable during every drive.",
       "bundle_components": [
         "Pro Neck Pillow",
@@ -4979,7 +4943,7 @@
           "answer": "The bundle includes Car Neck Cushion, Car Back Cushion, Car Seat Cushion, designed to provide complete comfort and ergonomic support while driving."
         }
       ],
-      "notes_observed": "URL slug = ergo-car-bundle, product name = Pro Car Bundle (rebrand). 3-piece bundle (neck+back+seat) at ₹3442 vs Ergo Chair Bundle (2-piece) at ₹3448. Same components likely just different naming.",
+      "notes_observed": "URL slug = ergo-car-bundle, product name = Pro Car Bundle (rebrand). 3-piece bundle (neck+back+seat) at \u20b93442 vs Ergo Chair Bundle (2-piece) at \u20b93448. Same components likely just different naming.",
       "_category_folder": "ergo"
     },
     {
@@ -5032,7 +4996,7 @@
           "answer": "Yes, it is compatible with most office chairs, dining chairs, and even car seats."
         }
       ],
-      "notes_observed": "Bundle = [[pro-back-cushion]] (₹1499) + [[pro-seat-cushion]] (₹1874) = ₹3373 individual vs ₹3448 bundle. Bundle saves nothing on actual purchase — slightly more expensive than individual sum but listed at 40% off MRP. 10-year warranty on bundle (vs 1yr individual) is the real value-add.",
+      "notes_observed": "Bundle = [[pro-back-cushion]] (\u20b91499) + [[pro-seat-cushion]] (\u20b91874) = \u20b93373 individual vs \u20b93448 bundle. Bundle saves nothing on actual purchase \u2014 slightly more expensive than individual sum but listed at 40% off MRP. 10-year warranty on bundle (vs 1yr individual) is the real value-add.",
       "_category_folder": "ergo"
     },
     {
@@ -5051,7 +5015,6 @@
           "foam_type": "Breathable Memory Foam",
           "thickness_mm": 127,
           "thickness_inches": 5,
-          "density_kgm3": 50,
           "notes": "Contours to lumbar curve. Roll shape fills lower-back gap."
         }
       ],
@@ -5097,7 +5060,7 @@
           "answer": "It fills the gap between your lower back and the chair, encouraging healthier posture."
         }
       ],
-      "notes_observed": "Smaller and more affordable than Pro/Slim back cushions — narrow roll form (only 203mm wide). Different use case: targets lumbar gap specifically vs full back.",
+      "notes_observed": "Smaller and more affordable than Pro/Slim back cushions \u2014 narrow roll form (only 203mm wide). Different use case: targets lumbar gap specifically vs full back.",
       "_category_folder": "ergo"
     },
     {
@@ -5116,7 +5079,6 @@
           "foam_type": "Perforated Memory Foam",
           "thickness_mm": 100,
           "thickness_inches": 4,
-          "density_kgm3": 50,
           "notes": "Breathable, contours to spine."
         }
       ],
@@ -5201,7 +5163,6 @@
           "foam_type": "Memory Foam",
           "thickness_mm": 50,
           "thickness_inches": 2,
-          "density_kgm3": 50,
           "notes": "Contouring support."
         }
       ],
@@ -5283,7 +5244,6 @@
           "foam_type": "Perforated Memory Foam",
           "thickness_mm": 50,
           "thickness_inches": 2,
-          "density_kgm3": 50,
           "notes": "Contours to body shape; U-cutout for tailbone pressure relief."
         }
       ],
@@ -5341,7 +5301,7 @@
           "answer": "Yes, the ergonomic design supports your tailbone and hips for better sitting posture."
         }
       ],
-      "notes_observed": "Height 127mm — schema may have mis-reported. Foam layer is 50mm/2in; total cushion likely closer to 75mm. Verify on compare page.",
+      "notes_observed": "Height 127mm \u2014 schema may have mis-reported. Foam layer is 50mm/2in; total cushion likely closer to 75mm. Verify on compare page.",
       "_category_folder": "ergo"
     },
     {
@@ -5360,7 +5320,6 @@
           "foam_type": "Premium Perforated Memory Foam",
           "thickness_mm": 63.5,
           "thickness_inches": 2.5,
-          "density_kgm3": 50,
           "notes": "Perforated design for enhanced airflow."
         }
       ],
@@ -5414,7 +5373,7 @@
           "answer": "The dimensions are 17.5 x 16 inches."
         }
       ],
-      "notes_observed": "Same face dimensions as Pro (17.5x16in) but 2.5\" thick vs 4\" — for users who want less seat-height impact.",
+      "notes_observed": "Same face dimensions as Pro (17.5x16in) but 2.5\" thick vs 4\" \u2014 for users who want less seat-height impact.",
       "_category_folder": "ergo"
     },
     {
@@ -5753,7 +5712,7 @@
           "answer": "Yes, this orthopedic dog bed cover is water-resistant, helping guard against minor spills, drool, and accidents."
         }
       ],
-      "notes_observed": "Replacement cover for [[orthopedic-dog-bed]]. Only Large + XL (no Medium) — Medium ortho bed users would use original-style cover sized similarly. Water-resistant differentiates from non-ortho cover.",
+      "notes_observed": "Replacement cover for [[orthopedic-dog-bed]]. Only Large + XL (no Medium) \u2014 Medium ortho bed users would use original-style cover sized similarly. Water-resistant differentiates from non-ortho cover.",
       "_category_folder": "dogs"
     },
     {
@@ -5976,7 +5935,7 @@
       "product_name": "Ohayo Bed",
       "category": "Furniture",
       "sub_category": "Wooden Bed",
-      "description_short": "A 100% Solid Mango Wood Bed — durable and withstands whatever pressure you put on it.",
+      "description_short": "A 100% Solid Mango Wood Bed \u2014 durable and withstands whatever pressure you put on it.",
       "features": [
         "100% Mango Solid Wood",
         "Termite Resistant",
@@ -6062,7 +6021,7 @@
           "answer": "You receive complimentary bed installation with your purchase or can use the provided instruction manual for easy assembly."
         }
       ],
-      "notes_observed": "All-wood (no fabric headboard) vs [[katachi-bed]] which has Molfino headboard. Cheaper (₹18.7k vs ₹24.6k).",
+      "notes_observed": "All-wood (no fabric headboard) vs [[katachi-bed]] which has Molfino headboard. Cheaper (\u20b918.7k vs \u20b924.6k).",
       "_category_folder": "furniture"
     },
     {
@@ -6118,7 +6077,7 @@
           "answer": "Yes, this recliner chair comes with a DIY assembly setup that's simple and quick to put together."
         }
       ],
-      "notes_observed": "Manual mechanism vs [[enso-recliner]]'s motorised. ₹22,312 vs ₹37,399 (Enso). Half the weight (20kg vs 40.5kg) — smaller frame.",
+      "notes_observed": "Manual mechanism vs [[enso-recliner]]'s motorised. \u20b922,312 vs \u20b937,399 (Enso). Half the weight (20kg vs 40.5kg) \u2014 smaller frame.",
       "_category_folder": "furniture"
     },
     {
@@ -6204,7 +6163,7 @@
           "answer": "The bed can support up to 300 kg, depending on the size."
         }
       ],
-      "notes_observed": "Most expensive product in the catalog. Includes 2 USB ports + zero-gravity + anti-snore. Note: og:price showed ₹55,249 but schema returned ₹72,249 — possibly base/current price differ from variant pricing.",
+      "notes_observed": "Most expensive product in the catalog. Includes 2 USB ports + zero-gravity + anti-snore. Note: og:price showed \u20b955,249 but schema returned \u20b972,249 \u2014 possibly base/current price differ from variant pricing.",
       "_category_folder": "furniture"
     }
   ]

@@ -7,24 +7,74 @@
   "sub_category": "Car/Office Neck Pillow",
   "description_short": "Ergonomic support for long drives and longer days. With anti-skid base, and handy side pocket, this neck cushion keeps your neck & shoulders supported.",
   "construction_layers": [
-    {"position": 1, "name": "Memory Foam Core", "material": "Premium Memory Foam", "foam_type": "Memory Foam", "thickness_mm": 50, "thickness_inches": 2, "density_kgm3": 50, "notes": "Contouring support."}
+    {
+      "position": 1,
+      "name": "Memory Foam Core",
+      "material": "Premium Memory Foam",
+      "foam_type": "Memory Foam",
+      "thickness_mm": 50,
+      "thickness_inches": 2,
+      "notes": "Contouring support."
+    }
   ],
-  "cover_fabric": {"composition": "Nylon (breathable, cool-to-touch)", "removable": true, "washable": true, "wash_instructions": "Unzip cover, machine wash on gentle cycle."},
+  "cover_fabric": {
+    "composition": "Nylon (breathable, cool-to-touch)",
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Unzip cover, machine wash on gentle cycle."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 444, "width_mm": 406, "height_mm": 127, "weight_kg": 0.68}
+    {
+      "size_name": "Standard",
+      "length_mm": 444,
+      "width_mm": 406,
+      "height_mm": 127,
+      "weight_kg": 0.68
+    }
   ],
-  "firmness": {"rating_1_10": 7, "label": "Medium", "feel_descriptors": ["Soft", "Supportive", "Contouring"]},
+  "firmness": {
+    "rating_1_10": 7,
+    "label": "Medium",
+    "feel_descriptors": [
+      "Soft",
+      "Supportive",
+      "Contouring"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "Adjustable Straps", "description": "Attaches to headrest of any car/office chair."},
-    {"name": "Side Pocket", "description": "Built-in storage pocket on pillow."},
-    {"name": "Anti-Skid Base", "description": "Prevents shifting during use."}
+    {
+      "name": "Adjustable Straps",
+      "description": "Attaches to headrest of any car/office chair."
+    },
+    {
+      "name": "Side Pocket",
+      "description": "Built-in storage pocket on pillow."
+    },
+    {
+      "name": "Anti-Skid Base",
+      "description": "Prevents shifting during use."
+    }
   ],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 1869, "selling_price": 1402, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 1869,
+      "selling_price": 1402,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Does this car neck pillow fit all vehicles?", "answer": "Yes. The adjustable straps fit compact cars, SUVs, and larger vehicles with ease."},
-    {"question": "Is this neck support pillow for car drivers only?", "answer": "No. Passengers benefit just as much from proper cervical support on long journeys."}
+    {
+      "question": "Does this car neck pillow fit all vehicles?",
+      "answer": "Yes. The adjustable straps fit compact cars, SUVs, and larger vehicles with ease."
+    },
+    {
+      "question": "Is this neck support pillow for car drivers only?",
+      "answer": "No. Passengers benefit just as much from proper cervical support on long journeys."
+    }
   ]
 }

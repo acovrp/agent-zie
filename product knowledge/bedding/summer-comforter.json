@@ -7,27 +7,75 @@
   "sub_category": "Comforter (Summer / AC)",
   "description_short": "Soft, breathable, and effortlessly light, our 120 GSM Virgin Microfiber Comforter is made for everyday comfort. Designed as a dual-colour summer AC comforter.",
   "construction_layers": [
-    {"position": 1, "name": "Cover", "material": "Peached Microfibre", "gsm": 120},
-    {"position": 2, "name": "Fill", "material": "Virgin Microfiber", "gsm": 120, "notes": "Lightweight for warm weather / AC rooms."}
+    {
+      "position": 1,
+      "name": "Cover",
+      "material": "Peached Microfibre",
+      "gsm": 120
+    },
+    {
+      "position": 2,
+      "name": "Fill",
+      "material": "Virgin Microfiber",
+      "gsm": 120,
+      "notes": "Lightweight for warm weather / AC rooms."
+    }
   ],
-  "cover_fabric": {"composition": "Peached Microfibre", "gsm": 120, "washable": true, "wash_instructions": "Machine washable. Single fits 5-7kg machine, Double fits 8-10kg machine."},
+  "cover_fabric": {
+    "composition": "Peached Microfibre",
+    "gsm": 120,
+    "washable": true,
+    "wash_instructions": "Machine washable. Single fits 5-7kg machine, Double fits 8-10kg machine."
+  },
   "fill_gsm": 120,
   "dimensions_by_size": [
-    {"size_name": "Single", "length_mm": 2286, "width_mm": 1524},
-    {"size_name": "Double", "length_mm": 2286, "width_mm": 2540}
+    {
+      "size_name": "Single",
+      "length_mm": 2286,
+      "width_mm": 1524
+    },
+    {
+      "size_name": "Double",
+      "length_mm": 2286,
+      "width_mm": 2540
+    }
   ],
-  "colors_available": ["Rhino Grey & Coconut White", "Acid Lime & Rhino Grey", "Coffee & Cream", "Nude Pink & Seafoam White"],
+  "colors_available": [
+    "Rhino Grey & Coconut White",
+    "Acid Lime & Rhino Grey",
+    "Coffee & Cream",
+    "Nude Pink & Seafoam White"
+  ],
   "proprietary_tech": [
-    {"name": "Reversible Design", "description": "Dual-color sides."}
+    {
+      "name": "Reversible Design",
+      "description": "Dual-color sides."
+    }
   ],
   "certifications": [],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Single", "mrp": 1689, "selling_price": 1436, "currency": "INR"},
-    {"size_name": "Double", "mrp": 1689, "selling_price": 1436, "currency": "INR"}
+    {
+      "size_name": "Single",
+      "mrp": 1689,
+      "selling_price": 1436,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Double",
+      "mrp": 1689,
+      "selling_price": 1436,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Can I use this comforter in AC rooms during summer?", "answer": "Absolutely, it's ideal for AC environments where light layering is needed. It provides just the right amount of coziness without overheating."}
+    {
+      "question": "Can I use this comforter in AC rooms during summer?",
+      "answer": "Absolutely, it's ideal for AC environments where light layering is needed. It provides just the right amount of coziness without overheating."
+    }
   ],
-  "notes_observed": "Comforter ladder by GSM: Summer 120 → All-Season 200 → Winter 400. Same dual-color reversible cover style across all three."
+  "notes_observed": "Comforter ladder by GSM: Summer 120 \u2192 All-Season 200 \u2192 Winter 400. Same dual-color reversible cover style across all three."
 }

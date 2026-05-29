@@ -6,22 +6,50 @@
   "category": "Furniture",
   "sub_category": "Manual Recliner",
   "description_short": "A stylish manual recliner built for everyday lounging. Space-efficient and upholstered in easy-clean premium leatherette.",
-  "features": ["Compact & Modern", "Premium Leatherette", "Ergonomic Back/Neck Support"],
+  "features": [
+    "Compact & Modern",
+    "Premium Leatherette",
+    "Ergonomic Back/Neck Support"
+  ],
   "frame_material": "Ply + Solid Wood",
   "upholstery": "Premium Leatherette",
   "recliner_mechanism": "Branded Manual R1 Mechanism",
   "recliner_positions": "Manual recline",
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 1020, "width_mm": 990, "height_mm": 760, "weight_kg": 20}
+    {
+      "size_name": "Standard",
+      "length_mm": 1020,
+      "width_mm": 990,
+      "height_mm": 760,
+      "weight_kg": 20
+    }
   ],
-  "colors_available": ["Jade Green", "Pebble Grey"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1, "weight_capacity_kg": 125},
+  "colors_available": [
+    "Jade Green",
+    "Pebble Grey"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1,
+    "weight_capacity_kg": 125
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 26249, "selling_price": 22312, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 26249,
+      "selling_price": 22312,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Is the Seika Recliner manual or motorized?", "answer": "This is a manual recliner, designed for smooth and easy operation without the need for power or wiring."},
-    {"question": "Does the recliner require assembly after delivery?", "answer": "Yes, this recliner chair comes with a DIY assembly setup that's simple and quick to put together."}
+    {
+      "question": "Is the Seika Recliner manual or motorized?",
+      "answer": "This is a manual recliner, designed for smooth and easy operation without the need for power or wiring."
+    },
+    {
+      "question": "Does the recliner require assembly after delivery?",
+      "answer": "Yes, this recliner chair comes with a DIY assembly setup that's simple and quick to put together."
+    }
   ],
-  "notes_observed": "Manual mechanism vs [[enso-recliner]]'s motorised. ₹22,312 vs ₹37,399 (Enso). Half the weight (20kg vs 40.5kg) — smaller frame."
+  "notes_observed": "Manual mechanism vs [[enso-recliner]]'s motorised. \u20b922,312 vs \u20b937,399 (Enso). Half the weight (20kg vs 40.5kg) \u2014 smaller frame."
 }

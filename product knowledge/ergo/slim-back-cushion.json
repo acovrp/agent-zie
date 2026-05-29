@@ -7,22 +7,65 @@
   "sub_category": "Back Cushion (Slim)",
   "description_short": "A slim, supportive back cushion designed to improve posture without adding bulk.",
   "construction_layers": [
-    {"position": 1, "name": "Memory Foam Core", "material": "Memory Foam", "foam_type": "Premium Perforated Memory Foam", "thickness_mm": 63.5, "thickness_inches": 2.5, "density_kgm3": 50, "notes": "Perforated design for enhanced airflow."}
+    {
+      "position": 1,
+      "name": "Memory Foam Core",
+      "material": "Memory Foam",
+      "foam_type": "Premium Perforated Memory Foam",
+      "thickness_mm": 63.5,
+      "thickness_inches": 2.5,
+      "notes": "Perforated design for enhanced airflow."
+    }
   ],
-  "cover_fabric": {"composition": "Breathable Dual Layer Nylon", "gsm": 200, "removable": true, "washable": true, "wash_instructions": "Machine washable."},
+  "cover_fabric": {
+    "composition": "Breathable Dual Layer Nylon",
+    "gsm": 200,
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine washable."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 444.5, "width_mm": 406.4, "height_mm": 63.5, "weight_kg": 0.5}
+    {
+      "size_name": "Standard",
+      "length_mm": 444.5,
+      "width_mm": 406.4,
+      "height_mm": 63.5,
+      "weight_kg": 0.5
+    }
   ],
-  "firmness": {"rating_1_10": 7, "label": "Contouring", "feel_descriptors": ["Soft", "Supportive", "Cushiony"]},
+  "firmness": {
+    "rating_1_10": 7,
+    "label": "Contouring",
+    "feel_descriptors": [
+      "Soft",
+      "Supportive",
+      "Cushiony"
+    ]
+  },
   "proprietary_tech": [],
   "certifications": [],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1, "weight_capacity_kg": 120},
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1,
+    "weight_capacity_kg": 120
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 1869, "selling_price": 1402, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 1869,
+      "selling_price": 1402,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What material is the Slim Back Cushion made of?", "answer": "The Slim Back Cushion is made of premium memory foam."},
-    {"question": "What are the dimensions of the cushion?", "answer": "The dimensions are 17.5 x 16 inches."}
+    {
+      "question": "What material is the Slim Back Cushion made of?",
+      "answer": "The Slim Back Cushion is made of premium memory foam."
+    },
+    {
+      "question": "What are the dimensions of the cushion?",
+      "answer": "The dimensions are 17.5 x 16 inches."
+    }
   ],
-  "notes_observed": "Same face dimensions as Pro (17.5x16in) but 2.5\" thick vs 4\" — for users who want less seat-height impact."
+  "notes_observed": "Same face dimensions as Pro (17.5x16in) but 2.5\" thick vs 4\" \u2014 for users who want less seat-height impact."
 }

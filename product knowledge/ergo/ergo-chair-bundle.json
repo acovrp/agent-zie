@@ -6,21 +6,47 @@
   "category": "Ergo",
   "sub_category": "Bundle (Office/Home Chair)",
   "description_short": "An ergonomic duo designed to support your posture and keep you comfortable through long sitting hours.",
-  "bundle_components": ["Pro Seat Cushion", "Pro Back Cushion"],
+  "bundle_components": [
+    "Pro Seat Cushion",
+    "Pro Back Cushion"
+  ],
   "dimensions_by_size": [
-    {"size_name": "Standard", "weight_kg": 0.75}
+    {
+      "size_name": "Standard",
+      "weight_kg": 0.75
+    }
   ],
   "proprietary_tech": [
-    {"name": "Anti-Skid Base", "description": "Prevents cushions from sliding off your chair."},
-    {"name": "Adjustable Straps", "description": "Keeps cushions secure during use."}
+    {
+      "name": "Anti-Skid Base",
+      "description": "Prevents cushions from sliding off your chair."
+    },
+    {
+      "name": "Adjustable Straps",
+      "description": "Keeps cushions secure during use."
+    }
   ],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 10},
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 10
+  },
   "pricing": [
-    {"size_name": "Standard Bundle", "mrp": 5747, "selling_price": 3448, "currency": "INR"}
+    {
+      "size_name": "Standard Bundle",
+      "mrp": 5747,
+      "selling_price": 3448,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What is included in the SleepyCat Ergo Chair Bundle?", "answer": "The bundle includes chair seat cushion and chair back cushion designed to provide complete ergonomic support while sitting."},
-    {"question": "Can I use this cushion bundle on any chair?", "answer": "Yes, it is compatible with most office chairs, dining chairs, and even car seats."}
+    {
+      "question": "What is included in the SleepyCat Ergo Chair Bundle?",
+      "answer": "The bundle includes chair seat cushion and chair back cushion designed to provide complete ergonomic support while sitting."
+    },
+    {
+      "question": "Can I use this cushion bundle on any chair?",
+      "answer": "Yes, it is compatible with most office chairs, dining chairs, and even car seats."
+    }
   ],
-  "notes_observed": "Bundle = [[pro-back-cushion]] (₹1499) + [[pro-seat-cushion]] (₹1874) = ₹3373 individual vs ₹3448 bundle. Bundle saves nothing on actual purchase — slightly more expensive than individual sum but listed at 40% off MRP. 10-year warranty on bundle (vs 1yr individual) is the real value-add."
+  "notes_observed": "Bundle = [[pro-back-cushion]] (\u20b91499) + [[pro-seat-cushion]] (\u20b91874) = \u20b93373 individual vs \u20b93448 bundle. Bundle saves nothing on actual purchase \u2014 slightly more expensive than individual sum but listed at 40% off MRP. 10-year warranty on bundle (vs 1yr individual) is the real value-add."
 }

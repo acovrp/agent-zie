@@ -7,26 +7,70 @@
   "sub_category": "Comforter (Summer Luxe)",
   "description_short": "Luxurious sleep made with the finest virgin microfiber fill and the softest cotton modal fabric for comfort and coziness.",
   "construction_layers": [
-    {"position": 1, "name": "Cover Fabric", "material": "Cotton Modal (Luxe Modal)", "gsm": 150, "notes": "Ultra-smooth modal fabric."},
-    {"position": 2, "name": "Fill", "material": "Virgin Microfiber Fill", "gsm": 150, "notes": "Light fill for summer / AC use."}
+    {
+      "position": 1,
+      "name": "Cover Fabric",
+      "material": "Cotton Modal (Luxe Modal)",
+      "gsm": 150,
+      "notes": "Ultra-smooth modal fabric."
+    },
+    {
+      "position": 2,
+      "name": "Fill",
+      "material": "Virgin Microfiber Fill",
+      "gsm": 150,
+      "notes": "Light fill for summer / AC use."
+    }
   ],
-  "cover_fabric": {"composition": "Cotton Modal", "gsm": 150, "washable": true, "wash_instructions": "Machine washable on delicate cycle with cold water and mild detergents."},
+  "cover_fabric": {
+    "composition": "Cotton Modal",
+    "gsm": 150,
+    "washable": true,
+    "wash_instructions": "Machine washable on delicate cycle with cold water and mild detergents."
+  },
   "fill_gsm": 150,
   "dimensions_by_size": [
-    {"size_name": "Single", "length_mm": 2286, "width_mm": 1524, "weight_kg": 5},
-    {"size_name": "Double", "length_mm": 2286, "width_mm": 2540, "weight_kg": 8}
+    {
+      "size_name": "Single",
+      "length_mm": 2286,
+      "width_mm": 1524,
+      "weight_kg": 5
+    },
+    {
+      "size_name": "Double",
+      "length_mm": 2286,
+      "width_mm": 2540,
+      "weight_kg": 8
+    }
   ],
-  "colors_available": ["Rhino Grey", "Coconut White"],
+  "colors_available": [
+    "Rhino Grey",
+    "Coconut White"
+  ],
   "proprietary_tech": [
-    {"name": "Quilted Box Design", "description": "Keeps filling evenly distributed."}
+    {
+      "name": "Quilted Box Design",
+      "description": "Keeps filling evenly distributed."
+    }
   ],
   "certifications": [],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Single", "mrp": 3599, "selling_price": 3059, "currency": "INR"}
+    {
+      "size_name": "Single",
+      "mrp": 3599,
+      "selling_price": 3059,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What is the difference between the summer and winter Luxe Comforter variants?", "answer": "The summer variant is lighter and designed for breathable comfort in warmer conditions, while the winter variant has a higher GSM fill for added warmth."}
+    {
+      "question": "What is the difference between the summer and winter Luxe Comforter variants?",
+      "answer": "The summer variant is lighter and designed for breathable comfort in warmer conditions, while the winter variant has a higher GSM fill for added warmth."
+    }
   ],
-  "notes_observed": "Luxe range: Summer 150 → Winter 300 GSM. Standard line: Summer 120 → All-Season 200 → Winter 400 GSM."
+  "notes_observed": "Luxe range: Summer 150 \u2192 Winter 300 GSM. Standard line: Summer 120 \u2192 All-Season 200 \u2192 Winter 400 GSM."
 }

@@ -7,22 +7,63 @@
   "sub_category": "Car Neck Pillow (Compact)",
   "description_short": "This compact ergonomic pillow is filled with premium memory foam that supports your neck, prevents muscle tension, and promotes better posture.",
   "construction_layers": [
-    {"position": 1, "name": "Memory Foam Core", "material": "Memory Foam", "foam_type": "Premium Memory Foam", "thickness_mm": 76.2, "thickness_inches": 3, "density_kgm3": 50, "notes": "Adaptive and contouring."}
+    {
+      "position": 1,
+      "name": "Memory Foam Core",
+      "material": "Memory Foam",
+      "foam_type": "Premium Memory Foam",
+      "thickness_mm": 76.2,
+      "thickness_inches": 3,
+      "notes": "Adaptive and contouring."
+    }
   ],
-  "cover_fabric": {"composition": "Breathable Dual Layer Nylon Cover", "removable": true, "washable": true, "wash_instructions": "Remove cover and machine wash."},
+  "cover_fabric": {
+    "composition": "Breathable Dual Layer Nylon Cover",
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Remove cover and machine wash."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 279.4, "width_mm": 76.2, "height_mm": 203.2, "weight_kg": 0.5}
+    {
+      "size_name": "Standard",
+      "length_mm": 279.4,
+      "width_mm": 76.2,
+      "height_mm": 203.2,
+      "weight_kg": 0.5
+    }
   ],
-  "firmness": {"rating_1_10": 8, "label": "Firm", "feel_descriptors": ["Supportive", "Adaptive", "Contour"]},
+  "firmness": {
+    "rating_1_10": 8,
+    "label": "Firm",
+    "feel_descriptors": [
+      "Supportive",
+      "Adaptive",
+      "Contour"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "Adjustable Straps", "description": "Attach to headrest of any vehicle."}
+    {
+      "name": "Adjustable Straps",
+      "description": "Attach to headrest of any vehicle."
+    }
   ],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 1299, "selling_price": 974, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 1299,
+      "selling_price": 974,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "How do I clean my car neck pillow?", "answer": "Unzip the outer cover and machine wash it. The foam core stays protected and fresh."}
+    {
+      "question": "How do I clean my car neck pillow?",
+      "answer": "Unzip the outer cover and machine wash it. The foam core stays protected and fresh."
+    }
   ],
-  "notes_observed": "Smaller and cheaper than Pro Neck — no side pocket, narrower profile (76mm wide vs 406mm)."
+  "notes_observed": "Smaller and cheaper than Pro Neck \u2014 no side pocket, narrower profile (76mm wide vs 406mm)."
 }

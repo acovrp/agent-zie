@@ -4,19 +4,37 @@
   "scraped_at": "2026-05-13",
   "product_name": "Car Bundle",
   "category": "Ergo",
-  "sub_category": "Bundle (Car — Slim 3-piece)",
+  "sub_category": "Bundle (Car \u2014 Slim 3-piece)",
   "description_short": "Three compact cushions that support your neck, back, and hips, ensuring comfort during long drives.",
-  "bundle_components": ["Car Neck Pillow", "Slim Back Cushion", "Slim Seat Cushion"],
+  "bundle_components": [
+    "Car Neck Pillow",
+    "Slim Back Cushion",
+    "Slim Seat Cushion"
+  ],
   "dimensions_by_size": [
-    {"size_name": "Standard", "weight_kg": 0.8}
+    {
+      "size_name": "Standard",
+      "weight_kg": 0.8
+    }
   ],
   "proprietary_tech": [],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Standard Bundle", "mrp": 5797, "selling_price": 3478, "currency": "INR"}
+    {
+      "size_name": "Standard Bundle",
+      "mrp": 5797,
+      "selling_price": 3478,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What is included in the SleepyCat Ergo Car Bundle?", "answer": "The bundle includes Car Neck Cushion, Car Back Cushion, Car Seat Cushion, designed to provide complete comfort and ergonomic support while driving."}
+    {
+      "question": "What is included in the SleepyCat Ergo Car Bundle?",
+      "answer": "The bundle includes Car Neck Cushion, Car Back Cushion, Car Seat Cushion, designed to provide complete comfort and ergonomic support while driving."
+    }
   ],
-  "notes_observed": "Lighter/compact alternative to [[ergo-car-bundle]] (Pro Car Bundle). Uses Slim variants (Slim Back + Slim Seat + Car Neck) instead of Pro variants. 0.8kg vs 2.5kg. Similar price (₹3478 vs ₹3442) — Slim bundle priced slightly higher despite less foam, likely due to compact appeal."
+  "notes_observed": "Lighter/compact alternative to [[ergo-car-bundle]] (Pro Car Bundle). Uses Slim variants (Slim Back + Slim Seat + Car Neck) instead of Pro variants. 0.8kg vs 2.5kg. Similar price (\u20b93478 vs \u20b93442) \u2014 Slim bundle priced slightly higher despite less foam, likely due to compact appeal."
 }

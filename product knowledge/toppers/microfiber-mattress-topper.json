@@ -7,27 +7,95 @@
   "sub_category": "Microfiber Topper",
   "description_short": "Designed to instantly add plush softness and smooth out firmness without changing your mattress.",
   "construction_layers": [
-    {"position": 1, "name": "Virgin Microfiber Filling", "material": "100% Virgin Microfiber", "foam_type": "Fiber Fill", "thickness_mm": 50.8, "thickness_inches": 2, "notes": "Soft & plush feel."}
+    {
+      "position": 1,
+      "name": "Virgin Microfiber Filling",
+      "material": "100% Virgin Microfiber",
+      "foam_type": "Fiber Fill",
+      "thickness_mm": 50.8,
+      "thickness_inches": 2,
+      "notes": "Soft & plush feel."
+    }
   ],
-  "cover_fabric": {"removable": true, "washable": false, "wash_instructions": "Dry clean only."},
+  "cover_fabric": {
+    "removable": true,
+    "washable": false,
+    "wash_instructions": "Dry clean only."
+  },
   "dimensions_by_size": [
-    {"size_name": "Single", "length_mm": 1829, "width_mm": 914, "height_mm": 50.8},
-    {"size_name": "Double", "length_mm": 1880, "width_mm": 1372, "height_mm": 50.8},
-    {"size_name": "Queen", "length_mm": 1981, "width_mm": 1524, "height_mm": 50.8},
-    {"size_name": "King", "length_mm": 2032, "width_mm": 1981, "height_mm": 50.8}
+    {
+      "size_name": "Single",
+      "length_mm": 1829,
+      "width_mm": 914,
+      "height_mm": 50.8
+    },
+    {
+      "size_name": "Double",
+      "length_mm": 1880,
+      "width_mm": 1372,
+      "height_mm": 50.8
+    },
+    {
+      "size_name": "Queen",
+      "length_mm": 1981,
+      "width_mm": 1524,
+      "height_mm": 50.8
+    },
+    {
+      "size_name": "King",
+      "length_mm": 2032,
+      "width_mm": 1981,
+      "height_mm": 50.8
+    }
   ],
-  "firmness": {"rating_1_10": 4, "label": "Soft & Cushioned", "feel_descriptors": ["Plush", "Comfortable"]},
+  "firmness": {
+    "rating_1_10": 4,
+    "label": "Soft & Cushioned",
+    "feel_descriptors": [
+      "Plush",
+      "Comfortable"
+    ]
+  },
   "proprietary_tech": [],
   "certifications": [],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Single", "mrp": 4499, "selling_price": 3374, "currency": "INR"},
-    {"size_name": "Double", "mrp": 4999, "selling_price": 3899, "currency": "INR"},
-    {"size_name": "Queen", "mrp": 5499, "selling_price": 4399, "currency": "INR"},
-    {"size_name": "King", "mrp": 5999, "selling_price": 4799, "currency": "INR"}
+    {
+      "size_name": "Single",
+      "mrp": 4499,
+      "selling_price": 3374,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Double",
+      "mrp": 4999,
+      "selling_price": 3899,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Queen",
+      "mrp": 5499,
+      "selling_price": 4399,
+      "currency": "INR"
+    },
+    {
+      "size_name": "King",
+      "mrp": 5999,
+      "selling_price": 4799,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Can I wash a microfiber mattress topper?", "answer": "Most microfiber mattress toppers are not machine washable and are best dry cleaned to maintain their softness and structure."},
-    {"question": "Is microfiber the same as memory foam?", "answer": "No, microfiber and memory foam are very different. Microfiber is soft and cushiony, while a Memory Foam Mattress Topper adapts to your body to provide support and pressure relief."}
+    {
+      "question": "Can I wash a microfiber mattress topper?",
+      "answer": "Most microfiber mattress toppers are not machine washable and are best dry cleaned to maintain their softness and structure."
+    },
+    {
+      "question": "Is microfiber the same as memory foam?",
+      "answer": "No, microfiber and memory foam are very different. Microfiber is soft and cushiony, while a Memory Foam Mattress Topper adapts to your body to provide support and pressure relief."
+    }
   ]
 }

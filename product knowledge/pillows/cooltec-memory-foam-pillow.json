@@ -5,27 +5,89 @@
   "product_name": "CoolTEC Memory Foam Pillow",
   "category": "Pillow",
   "sub_category": "Memory Foam Pillow",
-  "description_short": "Sleep cool and supported with the CoolTEC Memory Foam Pillow made of perforated memory foam, designed to keep you up to 4° cooler throughout the night.",
+  "description_short": "Sleep cool and supported with the CoolTEC Memory Foam Pillow made of perforated memory foam, designed to keep you up to 4\u00b0 cooler throughout the night.",
   "construction_layers": [
-    {"position": 1, "name": "Foam Layer", "material": "Perforated Memory Foam", "foam_type": "Memory Foam", "thickness_mm": 100, "thickness_inches": 3.9, "density_kgm3": 60, "ild": 46, "notes": "Supports the head and neck, does not sag or break."}
+    {
+      "position": 1,
+      "name": "Foam Layer",
+      "material": "Perforated Memory Foam",
+      "foam_type": "Memory Foam",
+      "thickness_mm": 100,
+      "thickness_inches": 3.9,
+      "notes": "Supports the head and neck, does not sag or break."
+    }
   ],
-  "cover_fabric": {"composition": "CoolTEC™ Fabric", "weave": "Polyester", "gsm": 150, "removable": true, "washable": true, "wash_instructions": "Machine wash on delicate cycle with cold water."},
+  "cover_fabric": {
+    "composition": "CoolTEC\u2122 Fabric",
+    "weave": "Polyester",
+    "gsm": 150,
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine wash on delicate cycle with cold water."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 635, "width_mm": 406, "height_mm": 102, "weight_kg": 1.2},
-    {"size_name": "King", "length_mm": 711, "width_mm": 457, "height_mm": 102, "weight_kg": 1.5}
+    {
+      "size_name": "Standard",
+      "length_mm": 635,
+      "width_mm": 406,
+      "height_mm": 102,
+      "weight_kg": 1.2
+    },
+    {
+      "size_name": "King",
+      "length_mm": 711,
+      "width_mm": 457,
+      "height_mm": 102,
+      "weight_kg": 1.5
+    }
   ],
-  "firmness": {"rating_1_10": 7, "label": "Medium Firm", "feel_descriptors": ["adaptive support", "doesn't sag", "breathable", "cooling"]},
+  "firmness": {
+    "rating_1_10": 7,
+    "label": "Medium Firm",
+    "feel_descriptors": [
+      "adaptive support",
+      "doesn't sag",
+      "breathable",
+      "cooling"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "CoolTEC™", "description": "Keeps the pillow temperature regulated by drawing heat away from the sleeper. Up to 4°C cooler."}
+    {
+      "name": "CoolTEC\u2122",
+      "description": "Keeps the pillow temperature regulated by drawing heat away from the sleeper. Up to 4\u00b0C cooler."
+    }
   ],
-  "certifications": ["Oeko-Tex Standard 100", "CertiPUR-US Certified"],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1, "weight_capacity_kg": 120},
+  "certifications": [
+    "Oeko-Tex Standard 100",
+    "CertiPUR-US Certified"
+  ],
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1,
+    "weight_capacity_kg": 120
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 2989, "selling_price": 2199, "currency": "INR"},
-    {"size_name": "King", "mrp": 3599, "selling_price": 2499, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 2989,
+      "selling_price": 2199,
+      "currency": "INR"
+    },
+    {
+      "size_name": "King",
+      "mrp": 3599,
+      "selling_price": 2499,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Is memory foam good as a pillow?", "answer": "Yes, memory foam provides excellent support by conforming to the head's shape, ensuring neck alignment and comfort."},
-    {"question": "What do you mean by neutral spine position?", "answer": "It refers to the alignment of the head and neck with minimal stress, helping to prevent morning aches."}
+    {
+      "question": "Is memory foam good as a pillow?",
+      "answer": "Yes, memory foam provides excellent support by conforming to the head's shape, ensuring neck alignment and comfort."
+    },
+    {
+      "question": "What do you mean by neutral spine position?",
+      "answer": "It refers to the alignment of the head and neck with minimal stress, helping to prevent morning aches."
+    }
   ]
 }

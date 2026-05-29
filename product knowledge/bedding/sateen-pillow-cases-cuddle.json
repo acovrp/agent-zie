@@ -4,21 +4,52 @@
   "scraped_at": "2026-05-13",
   "product_name": "300 TC Sateen Pillow Cases (Cuddle)",
   "category": "Bedding",
-  "sub_category": "Pillow Case — Cuddle/Body Pillow",
+  "sub_category": "Pillow Case \u2014 Cuddle/Body Pillow",
   "description_short": "Combining the buttery smoothness of sateen fabric with a refined, seamless design, these pillow covers offer a luxurious look free from visible zippers or buttons.",
-  "cover_fabric": {"composition": "100% Cotton", "weave": "Sateen", "thread_count": 300, "washable": true, "wash_instructions": "Machine washable.", "closure": "Seamless (no zippers or buttons)"},
+  "cover_fabric": {
+    "composition": "100% Cotton",
+    "weave": "Sateen",
+    "thread_count": 300,
+    "washable": true,
+    "wash_instructions": "Machine washable.",
+    "closure": "Seamless (no zippers or buttons)"
+  },
   "dimensions_by_size": [
-    {"size_name": "Cuddle 52x20in", "length_mm": 1320, "width_mm": 510, "pieces": 1}
+    {
+      "size_name": "Cuddle 52x20in",
+      "length_mm": 1320,
+      "width_mm": 510,
+      "pieces": 1
+    }
   ],
-  "colors_available": ["Ivory", "Pebble", "Mineral", "Denim"],
+  "colors_available": [
+    "Ivory",
+    "Pebble",
+    "Mineral",
+    "Denim"
+  ],
   "certifications": [],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Cuddle Standard", "mrp": 799, "selling_price": 679, "currency": "INR"}
+    {
+      "size_name": "Cuddle Standard",
+      "mrp": 799,
+      "selling_price": 679,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What sizes are available?", "answer": "The pillowcases are available in standard size of 52 x 20 inches."},
-    {"question": "Can I return the pillowcases?", "answer": "These pillowcases are not eligible for return."}
+    {
+      "question": "What sizes are available?",
+      "answer": "The pillowcases are available in standard size of 52 x 20 inches."
+    },
+    {
+      "question": "Can I return the pillowcases?",
+      "answer": "These pillowcases are not eligible for return."
+    }
   ],
   "notes_observed": "Cuddle = body pillow case (52x20\"). Matches sateen bedsheet colorway."
 }

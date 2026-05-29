@@ -7,26 +7,76 @@
   "sub_category": "Memory Foam Pillow / Cervical Contour",
   "description_short": "A cooling orthopedic pillow with dual height options, designed to reduce pressure on your neck and head. Made with real perforated memory foam, this pillow provides consistent support without sagging, breaking or flattening.",
   "construction_layers": [
-    {"position": 1, "name": "Pillow Fill", "material": "Perforated Memory Foam", "foam_type": "Memory Foam", "notes": "Doesn't sag or break. Cervical contour shape with dual loft options."}
+    {
+      "position": 1,
+      "name": "Pillow Fill",
+      "material": "Perforated Memory Foam",
+      "foam_type": "Memory Foam",
+      "notes": "Doesn't sag or break. Cervical contour shape with dual loft options."
+    }
   ],
-  "cover_fabric": {"composition": "CoolTEC™ Fabric", "removable": true, "washable": true, "wash_instructions": "Machine washable zipper cover."},
+  "cover_fabric": {
+    "composition": "CoolTEC\u2122 Fabric",
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine washable zipper cover."
+  },
   "dimensions_by_size": [
-    {"size_name": "Full Size", "length_mm": 635, "width_mm": 406.4, "height_mm": 76.2, "weight_kg": 0.9}
+    {
+      "size_name": "Full Size",
+      "length_mm": 635,
+      "width_mm": 406.4,
+      "height_mm": 76.2,
+      "weight_kg": 0.9
+    }
   ],
-  "firmness": {"rating_1_10": 7, "label": "Medium Firm", "feel_descriptors": ["Firm", "Supportive"]},
+  "firmness": {
+    "rating_1_10": 7,
+    "label": "Medium Firm",
+    "feel_descriptors": [
+      "Firm",
+      "Supportive"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "CoolTEC™ Fabric", "description": "Improves airflow and keeps you up to 4° cooler."},
-    {"name": "Perforated Memory Foam", "description": "Provides consistent support without sagging."},
-    {"name": "Dual Loft Design", "description": "Higher loft for side sleepers, lower loft for back sleepers."}
+    {
+      "name": "CoolTEC\u2122 Fabric",
+      "description": "Improves airflow and keeps you up to 4\u00b0 cooler."
+    },
+    {
+      "name": "Perforated Memory Foam",
+      "description": "Provides consistent support without sagging."
+    },
+    {
+      "name": "Dual Loft Design",
+      "description": "Higher loft for side sleepers, lower loft for back sleepers."
+    }
   ],
   "certifications": [],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Contour", "mrp": 2989, "selling_price": 1899, "currency": "INR"}
+    {
+      "size_name": "Contour",
+      "mrp": 2989,
+      "selling_price": 1899,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What are the benefits of the dual loft options?", "answer": "The higher loft supports side sleepers while the lower loft cradles back sleepers."},
-    {"question": "What do you mean by hyperextension?", "answer": "It enables your neck muscles to stretch and provides relief."},
-    {"question": "What do you mean by neutral spine position?", "answer": "It's where your head and neck are aligned under the least stress."}
+    {
+      "question": "What are the benefits of the dual loft options?",
+      "answer": "The higher loft supports side sleepers while the lower loft cradles back sleepers."
+    },
+    {
+      "question": "What do you mean by hyperextension?",
+      "answer": "It enables your neck muscles to stretch and provides relief."
+    },
+    {
+      "question": "What do you mean by neutral spine position?",
+      "answer": "It's where your head and neck are aligned under the least stress."
+    }
   ]
 }

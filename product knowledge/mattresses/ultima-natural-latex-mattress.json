@@ -7,36 +7,151 @@
   "sub_category": "Latex Mattress",
   "description_short": "Made with GOLS Certified 100% Natural Latex, this luxurious mattress gives breathable & responsive comfort with 7-zone body support.",
   "construction_layers": [
-    {"position": 1, "name": "Top Layer", "material": "100% Natural Latex", "foam_type": "Natural Latex", "thickness_mm": 38.1, "thickness_inches": 1.5, "density_kgm3": 70, "ild": 20, "gsm": 100, "notes": "GOLS Certified with Pinhole Tech for breathability."},
-    {"position": 2, "name": "Middle Layer", "material": "Aeroflow Transition Foam", "foam_type": "Transition Foam", "thickness_mm": 25.4, "thickness_inches": 1, "density_kgm3": 50, "ild": 25, "gsm": 100, "notes": "Provides comfort and support."},
-    {"position": 3, "name": "Bottom Layer", "material": "Super High Density Foam", "foam_type": "Support Foam", "thickness_mm": 38.1, "thickness_inches": 1.5, "density_kgm3": 70, "ild": 30, "gsm": 200, "notes": "Ensures long-lasting support."}
+    {
+      "position": 1,
+      "name": "Top Layer",
+      "material": "100% Natural Latex",
+      "foam_type": "Natural Latex",
+      "thickness_mm": 38.1,
+      "thickness_inches": 1.5,
+      "gsm": 100,
+      "notes": "GOLS Certified with Pinhole Tech for breathability."
+    },
+    {
+      "position": 2,
+      "name": "Middle Layer",
+      "material": "Aeroflow Transition Foam",
+      "foam_type": "Transition Foam",
+      "thickness_mm": 25.4,
+      "thickness_inches": 1,
+      "gsm": 100,
+      "notes": "Provides comfort and support."
+    },
+    {
+      "position": 3,
+      "name": "Bottom Layer",
+      "material": "Super High Density Foam",
+      "foam_type": "Support Foam",
+      "thickness_mm": 38.1,
+      "thickness_inches": 1.5,
+      "gsm": 200,
+      "notes": "Ensures long-lasting support."
+    }
   ],
-  "cover_fabric": {"composition": "CoolTEC™ Fabric", "weave": "Knitted", "gsm": 200, "removable": true, "washable": true, "wash_instructions": "Machine wash cold on gentle cycle, tumble dry low."},
+  "cover_fabric": {
+    "composition": "CoolTEC\u2122 Fabric",
+    "weave": "Knitted",
+    "gsm": 200,
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine wash cold on gentle cycle, tumble dry low."
+  },
   "dimensions_by_size": [
-    {"size_name": "Single", "length_mm": 1830, "width_mm": 762, "height_mm": 203, "weight_kg": 7},
-    {"size_name": "Double", "length_mm": 1830, "width_mm": 1372, "height_mm": 203, "weight_kg": 12},
-    {"size_name": "Queen", "length_mm": 1981, "width_mm": 1524, "height_mm": 203, "weight_kg": 14},
-    {"size_name": "King", "length_mm": 2134, "width_mm": 1829, "height_mm": 203, "weight_kg": 16}
+    {
+      "size_name": "Single",
+      "length_mm": 1830,
+      "width_mm": 762,
+      "height_mm": 203,
+      "weight_kg": 7
+    },
+    {
+      "size_name": "Double",
+      "length_mm": 1830,
+      "width_mm": 1372,
+      "height_mm": 203,
+      "weight_kg": 12
+    },
+    {
+      "size_name": "Queen",
+      "length_mm": 1981,
+      "width_mm": 1524,
+      "height_mm": 203,
+      "weight_kg": 14
+    },
+    {
+      "size_name": "King",
+      "length_mm": 2134,
+      "width_mm": 1829,
+      "height_mm": 203,
+      "weight_kg": 16
+    }
   ],
-  "firmness": {"rating_1_10": 5, "label": "Medium-Soft", "feel_descriptors": ["Responsive", "Breathable", "Comfortable", "Supportive"]},
+  "firmness": {
+    "rating_1_10": 5,
+    "label": "Medium-Soft",
+    "feel_descriptors": [
+      "Responsive",
+      "Breathable",
+      "Comfortable",
+      "Supportive"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "Pinhole Technology", "description": "Enhances airflow and reduces heat retention."},
-    {"name": "CoolTEC™ Fabric", "description": "Keeps the mattress up to 4°C cooler."},
-    {"name": "7-Zone DeepTouch™ Pressure Tech", "description": "Provides targeted support for different body parts."}
+    {
+      "name": "Pinhole Technology",
+      "description": "Enhances airflow and reduces heat retention."
+    },
+    {
+      "name": "CoolTEC\u2122 Fabric",
+      "description": "Keeps the mattress up to 4\u00b0C cooler."
+    },
+    {
+      "name": "7-Zone DeepTouch\u2122 Pressure Tech",
+      "description": "Provides targeted support for different body parts."
+    }
   ],
-  "certifications": ["GOLS Certified", "Eco Friendly"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 10, "weight_capacity_kg": 250},
+  "certifications": [
+    "GOLS Certified",
+    "Eco Friendly"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 10,
+    "weight_capacity_kg": 250
+  },
   "pricing": [
-    {"size_name": "Single", "mrp": 12999, "selling_price": 10999, "currency": "INR"},
-    {"size_name": "Double", "mrp": 15999, "selling_price": 13999, "currency": "INR"},
-    {"size_name": "Queen", "mrp": 17999, "selling_price": 15999, "currency": "INR"},
-    {"size_name": "King", "mrp": 19999, "selling_price": 17999, "currency": "INR"}
+    {
+      "size_name": "Single",
+      "mrp": 12999,
+      "selling_price": 10999,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Double",
+      "mrp": 15999,
+      "selling_price": 13999,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Queen",
+      "mrp": 17999,
+      "selling_price": 15999,
+      "currency": "INR"
+    },
+    {
+      "size_name": "King",
+      "mrp": 19999,
+      "selling_price": 17999,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What materials are used in this mattress?", "answer": "Made with GOLS Certified 100% Natural Latex and high-density foam."},
-    {"question": "What is the thickness of the Ultima Natural Latex Mattress?", "answer": "Available in two thickness options: 20.32 cm (8 inches) and 25.4 cm (10 inches)."},
-    {"question": "What is the weight capacity of this mattress?", "answer": "The mattress can support a weight capacity of up to 250 kg."},
-    {"question": "How long is the warranty on the Ultima Natural Latex Mattress?", "answer": "It comes with a 10-year warranty."}
+    {
+      "question": "What materials are used in this mattress?",
+      "answer": "Made with GOLS Certified 100% Natural Latex and high-density foam."
+    },
+    {
+      "question": "What is the thickness of the Ultima Natural Latex Mattress?",
+      "answer": "Available in two thickness options: 20.32 cm (8 inches) and 25.4 cm (10 inches)."
+    },
+    {
+      "question": "What is the weight capacity of this mattress?",
+      "answer": "The mattress can support a weight capacity of up to 250 kg."
+    },
+    {
+      "question": "How long is the warranty on the Ultima Natural Latex Mattress?",
+      "answer": "It comes with a 10-year warranty."
+    }
   ],
-  "notes_observed": "8\" SKU dimensions only — 10\" SKU exists per FAQ but not extracted."
+  "notes_observed": "8\" SKU dimensions only \u2014 10\" SKU exists per FAQ but not extracted."
 }

@@ -5,68 +5,325 @@
   "product_name": "Ultima Memory Foam Mattress",
   "category": "Mattresses",
   "sub_category": "Memory Foam",
-  "description_short": "Made with AirGen™ Memory Foam, this mattress gives 7-zone body support for uninterrupted rest & keeps you up to 4°C cooler.",
+  "description_short": "Made with AirGen\u2122 Memory Foam, this mattress gives 7-zone body support for uninterrupted rest & keeps you up to 4\u00b0C cooler.",
   "construction_layers": [
-    {"position": 1, "name": "AirGen™ Memory Foam", "material": "Memory Foam", "foam_type": "Open-cell", "thickness_mm": 38.1, "thickness_inches": 1.5, "notes": "Adaptive comfort with enhanced breathability."},
-    {"position": 2, "name": "Aeroflow Transition Foam", "material": "Foam", "foam_type": "High Density", "thickness_mm": 25.4, "thickness_inches": 1, "notes": "Cushions different body parts."},
-    {"position": 3, "name": "High Density Foam with DeepTouch™ Pressure", "material": "Foam", "foam_type": "High Density", "thickness_mm": 101.6, "thickness_inches": 4, "notes": "7-zone contouring support."},
-    {"position": 4, "name": "Super High Density Foam", "material": "Foam", "foam_type": "Super High Density", "thickness_mm": 38.1, "thickness_inches": 1.5, "notes": "Durable base layer."}
+    {
+      "position": 1,
+      "name": "AirGen\u2122 Memory Foam",
+      "material": "Memory Foam",
+      "foam_type": "Open-cell",
+      "thickness_mm": 38.1,
+      "thickness_inches": 1.5,
+      "notes": "Adaptive comfort with enhanced breathability."
+    },
+    {
+      "position": 2,
+      "name": "Aeroflow Transition Foam",
+      "material": "Foam",
+      "foam_type": "High Density",
+      "thickness_mm": 25.4,
+      "thickness_inches": 1,
+      "notes": "Cushions different body parts."
+    },
+    {
+      "position": 3,
+      "name": "High Density Foam with DeepTouch\u2122 Pressure",
+      "material": "Foam",
+      "foam_type": "High Density",
+      "thickness_mm": 101.6,
+      "thickness_inches": 4,
+      "notes": "7-zone contouring support."
+    },
+    {
+      "position": 4,
+      "name": "Super High Density Foam",
+      "material": "Foam",
+      "foam_type": "Super High Density",
+      "thickness_mm": 38.1,
+      "thickness_inches": 1.5,
+      "notes": "Durable base layer."
+    }
   ],
-  "cover_fabric": {"composition": "CoolTEC™", "weave": "Ezie Zipper Cover", "removable": true, "washable": true, "wash_instructions": "Machine washable."},
+  "cover_fabric": {
+    "composition": "CoolTEC\u2122",
+    "weave": "Ezie Zipper Cover",
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine washable."
+  },
   "dimensions_by_size": [
-    {"size_name": "Single 6'x2'6\" 8in", "length_mm": 1828.8, "width_mm": 762, "height_mm": 203.2},
-    {"size_name": "Single 6'6\"x2'6\" 8in", "length_mm": 1981.2, "width_mm": 762, "height_mm": 203.2},
-    {"size_name": "Single 6'x3' 8in", "length_mm": 1828.8, "width_mm": 914.4, "height_mm": 203.2},
-    {"size_name": "Single 6'3\"x3' 8in", "length_mm": 1905, "width_mm": 914.4, "height_mm": 203.2},
-    {"size_name": "Single 6'6\"x3' 8in", "length_mm": 1981.2, "width_mm": 914.4, "height_mm": 203.2},
-    {"size_name": "Single 6'x3' 10in", "length_mm": 1828.8, "width_mm": 914.4, "height_mm": 254},
-    {"size_name": "Single 6'3\"x3' 10in", "length_mm": 1905, "width_mm": 914.4, "height_mm": 254},
-    {"size_name": "Single 6'6\"x3' 10in", "length_mm": 1981.2, "width_mm": 914.4, "height_mm": 254},
-    {"size_name": "Double 6'x4' 8in", "length_mm": 1828.8, "width_mm": 1219.2, "height_mm": 203.2},
-    {"size_name": "Double 6'3\"x4' 8in", "length_mm": 1905, "width_mm": 1219.2, "height_mm": 203.2},
-    {"size_name": "Double 6'6\"x4' 8in", "length_mm": 1981.2, "width_mm": 1219.2, "height_mm": 203.2},
-    {"size_name": "Queen 6'x5' 8in", "length_mm": 1828.8, "width_mm": 1524, "height_mm": 203.2},
-    {"size_name": "Queen 6'3\"x5' 8in", "length_mm": 1905, "width_mm": 1524, "height_mm": 203.2},
-    {"size_name": "Queen 6'6\"x5' 8in", "length_mm": 1981.2, "width_mm": 1524, "height_mm": 203.2},
-    {"size_name": "Queen 6'x5' 10in", "length_mm": 1828.8, "width_mm": 1524, "height_mm": 254},
-    {"size_name": "Queen 6'3\"x5' 10in", "length_mm": 1905, "width_mm": 1524, "height_mm": 254},
-    {"size_name": "Queen 6'6\"x5' 10in", "length_mm": 1981.2, "width_mm": 1524, "height_mm": 254},
-    {"size_name": "Queen+ 6'x5'6\" 8in", "length_mm": 1828.8, "width_mm": 1676.4, "height_mm": 203.2},
-    {"size_name": "Queen+ 6'3\"x5'6\" 8in", "length_mm": 1905, "width_mm": 1676.4, "height_mm": 203.2},
-    {"size_name": "Queen+ 6'6\"x5'6\" 8in", "length_mm": 1981.2, "width_mm": 1676.4, "height_mm": 203.2},
-    {"size_name": "Queen+ 7'x5'6\" 8in", "length_mm": 2133.6, "width_mm": 1676.4, "height_mm": 203.2},
-    {"size_name": "Queen+ 6'x5'6\" 10in", "length_mm": 1828.8, "width_mm": 1676.4, "height_mm": 254},
-    {"size_name": "Queen+ 6'3\"x5'6\" 10in", "length_mm": 1905, "width_mm": 1676.4, "height_mm": 254},
-    {"size_name": "Queen+ 6'6\"x5'6\" 10in", "length_mm": 1981.2, "width_mm": 1676.4, "height_mm": 254},
-    {"size_name": "Queen+ 7'x5'6\" 10in", "length_mm": 2133.6, "width_mm": 1676.4, "height_mm": 254},
-    {"size_name": "King 6'x6' 8in", "length_mm": 1828.8, "width_mm": 1828.8, "height_mm": 203.2},
-    {"size_name": "King 6'3\"x6' 8in", "length_mm": 1905, "width_mm": 1828.8, "height_mm": 203.2},
-    {"size_name": "King 6'6\"x6' 8in", "length_mm": 1981.2, "width_mm": 1828.8, "height_mm": 203.2},
-    {"size_name": "King 7'x6' 8in", "length_mm": 2133.6, "width_mm": 1828.8, "height_mm": 203.2},
-    {"size_name": "King 7'x6'6\" 8in", "length_mm": 2133.6, "width_mm": 1981.2, "height_mm": 203.2},
-    {"size_name": "King 6'x6' 10in", "length_mm": 1828.8, "width_mm": 1828.8, "height_mm": 254},
-    {"size_name": "King 6'3\"x6' 10in", "length_mm": 1905, "width_mm": 1828.8, "height_mm": 254},
-    {"size_name": "King 6'6\"x6' 10in", "length_mm": 1981.2, "width_mm": 1828.8, "height_mm": 254},
-    {"size_name": "King 7'x6' 10in", "length_mm": 2133.6, "width_mm": 1828.8, "height_mm": 254},
-    {"size_name": "King 7'x6'6\" 10in", "length_mm": 2133.6, "width_mm": 1981.2, "height_mm": 254}
+    {
+      "size_name": "Single 6'x2'6\" 8in",
+      "length_mm": 1828.8,
+      "width_mm": 762,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Single 6'6\"x2'6\" 8in",
+      "length_mm": 1981.2,
+      "width_mm": 762,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Single 6'x3' 8in",
+      "length_mm": 1828.8,
+      "width_mm": 914.4,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Single 6'3\"x3' 8in",
+      "length_mm": 1905,
+      "width_mm": 914.4,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Single 6'6\"x3' 8in",
+      "length_mm": 1981.2,
+      "width_mm": 914.4,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Single 6'x3' 10in",
+      "length_mm": 1828.8,
+      "width_mm": 914.4,
+      "height_mm": 254
+    },
+    {
+      "size_name": "Single 6'3\"x3' 10in",
+      "length_mm": 1905,
+      "width_mm": 914.4,
+      "height_mm": 254
+    },
+    {
+      "size_name": "Single 6'6\"x3' 10in",
+      "length_mm": 1981.2,
+      "width_mm": 914.4,
+      "height_mm": 254
+    },
+    {
+      "size_name": "Double 6'x4' 8in",
+      "length_mm": 1828.8,
+      "width_mm": 1219.2,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Double 6'3\"x4' 8in",
+      "length_mm": 1905,
+      "width_mm": 1219.2,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Double 6'6\"x4' 8in",
+      "length_mm": 1981.2,
+      "width_mm": 1219.2,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Queen 6'x5' 8in",
+      "length_mm": 1828.8,
+      "width_mm": 1524,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Queen 6'3\"x5' 8in",
+      "length_mm": 1905,
+      "width_mm": 1524,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Queen 6'6\"x5' 8in",
+      "length_mm": 1981.2,
+      "width_mm": 1524,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Queen 6'x5' 10in",
+      "length_mm": 1828.8,
+      "width_mm": 1524,
+      "height_mm": 254
+    },
+    {
+      "size_name": "Queen 6'3\"x5' 10in",
+      "length_mm": 1905,
+      "width_mm": 1524,
+      "height_mm": 254
+    },
+    {
+      "size_name": "Queen 6'6\"x5' 10in",
+      "length_mm": 1981.2,
+      "width_mm": 1524,
+      "height_mm": 254
+    },
+    {
+      "size_name": "Queen+ 6'x5'6\" 8in",
+      "length_mm": 1828.8,
+      "width_mm": 1676.4,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Queen+ 6'3\"x5'6\" 8in",
+      "length_mm": 1905,
+      "width_mm": 1676.4,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Queen+ 6'6\"x5'6\" 8in",
+      "length_mm": 1981.2,
+      "width_mm": 1676.4,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Queen+ 7'x5'6\" 8in",
+      "length_mm": 2133.6,
+      "width_mm": 1676.4,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "Queen+ 6'x5'6\" 10in",
+      "length_mm": 1828.8,
+      "width_mm": 1676.4,
+      "height_mm": 254
+    },
+    {
+      "size_name": "Queen+ 6'3\"x5'6\" 10in",
+      "length_mm": 1905,
+      "width_mm": 1676.4,
+      "height_mm": 254
+    },
+    {
+      "size_name": "Queen+ 6'6\"x5'6\" 10in",
+      "length_mm": 1981.2,
+      "width_mm": 1676.4,
+      "height_mm": 254
+    },
+    {
+      "size_name": "Queen+ 7'x5'6\" 10in",
+      "length_mm": 2133.6,
+      "width_mm": 1676.4,
+      "height_mm": 254
+    },
+    {
+      "size_name": "King 6'x6' 8in",
+      "length_mm": 1828.8,
+      "width_mm": 1828.8,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "King 6'3\"x6' 8in",
+      "length_mm": 1905,
+      "width_mm": 1828.8,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "King 6'6\"x6' 8in",
+      "length_mm": 1981.2,
+      "width_mm": 1828.8,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "King 7'x6' 8in",
+      "length_mm": 2133.6,
+      "width_mm": 1828.8,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "King 7'x6'6\" 8in",
+      "length_mm": 2133.6,
+      "width_mm": 1981.2,
+      "height_mm": 203.2
+    },
+    {
+      "size_name": "King 6'x6' 10in",
+      "length_mm": 1828.8,
+      "width_mm": 1828.8,
+      "height_mm": 254
+    },
+    {
+      "size_name": "King 6'3\"x6' 10in",
+      "length_mm": 1905,
+      "width_mm": 1828.8,
+      "height_mm": 254
+    },
+    {
+      "size_name": "King 6'6\"x6' 10in",
+      "length_mm": 1981.2,
+      "width_mm": 1828.8,
+      "height_mm": 254
+    },
+    {
+      "size_name": "King 7'x6' 10in",
+      "length_mm": 2133.6,
+      "width_mm": 1828.8,
+      "height_mm": 254
+    },
+    {
+      "size_name": "King 7'x6'6\" 10in",
+      "length_mm": 2133.6,
+      "width_mm": 1981.2,
+      "height_mm": 254
+    }
   ],
-  "firmness": {"rating_1_10": 5, "label": "Medium Soft", "feel_descriptors": ["Soft", "Adaptive", "Comfortable"]},
+  "firmness": {
+    "rating_1_10": 5,
+    "label": "Medium Soft",
+    "feel_descriptors": [
+      "Soft",
+      "Adaptive",
+      "Comfortable"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "AirGen™ Memory Foam", "description": "100% open-cell memory foam that enhances breathability ensuring airflow & heat reduction."},
-    {"name": "CoolTEC™ Fabric", "description": "Draws heat away to keep you approximately 4°C cooler."},
-    {"name": "DeepTouch™ Pressure Technology", "description": "Contouring support for different body parts to maintain a neutral spine position."}
+    {
+      "name": "AirGen\u2122 Memory Foam",
+      "description": "100% open-cell memory foam that enhances breathability ensuring airflow & heat reduction."
+    },
+    {
+      "name": "CoolTEC\u2122 Fabric",
+      "description": "Draws heat away to keep you approximately 4\u00b0C cooler."
+    },
+    {
+      "name": "DeepTouch\u2122 Pressure Technology",
+      "description": "Contouring support for different body parts to maintain a neutral spine position."
+    }
   ],
-  "certifications": ["GOLS Certified", "Allergen-Free", "ISO Certified"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 10},
+  "certifications": [
+    "GOLS Certified",
+    "Allergen-Free",
+    "ISO Certified"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 10
+  },
   "pricing": [
-    {"size_name": "Single (starting)", "mrp": 13999, "selling_price": 10779, "currency": "INR"}
+    {
+      "size_name": "Single (starting)",
+      "mrp": 13999,
+      "selling_price": 10779,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What foam technology is used in the mattress?", "answer": "The mattress features AirGen™ Memory Foam, which uses 100% open-cell technology for enhanced breathability."},
-    {"question": "How thick is the mattress?", "answer": "The mattress comes in two height options: 8 inches (20.32 cm) and 10 inches (25.4 cm)."},
-    {"question": "What is the warranty period for the mattress?", "answer": "The mattress has a 10-year warranty."},
-    {"question": "What is the cooling technology used?", "answer": "The mattress uses CoolTEC™ fabric that keeps the surface up to 4°C cooler."},
-    {"question": "How does the 7-zone support work?", "answer": "The mattress provides targeted support through its DeepTouch™ Pressure Technology, contouring to the body's shape."}
+    {
+      "question": "What foam technology is used in the mattress?",
+      "answer": "The mattress features AirGen\u2122 Memory Foam, which uses 100% open-cell technology for enhanced breathability."
+    },
+    {
+      "question": "How thick is the mattress?",
+      "answer": "The mattress comes in two height options: 8 inches (20.32 cm) and 10 inches (25.4 cm)."
+    },
+    {
+      "question": "What is the warranty period for the mattress?",
+      "answer": "The mattress has a 10-year warranty."
+    },
+    {
+      "question": "What is the cooling technology used?",
+      "answer": "The mattress uses CoolTEC\u2122 fabric that keeps the surface up to 4\u00b0C cooler."
+    },
+    {
+      "question": "How does the 7-zone support work?",
+      "answer": "The mattress provides targeted support through its DeepTouch\u2122 Pressure Technology, contouring to the body's shape."
+    }
   ],
-  "notes_observed": "Largest SKU range of any mattress — 35 size variants across 8\"/10\" heights. Pricing returned as flat 10779 for all sizes; likely starting price only (variant-specific pricing not visible without selection). Densities/ILDs/weight not on page. Total height range 6\"-10\" per other pages."
+  "notes_observed": "Largest SKU range of any mattress \u2014 35 size variants across 8\"/10\" heights. Pricing returned as flat 10779 for all sizes; likely starting price only (variant-specific pricing not visible without selection).  Total height range 6\"-10\" per other pages."
 }

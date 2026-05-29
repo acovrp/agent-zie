@@ -7,29 +7,111 @@
   "sub_category": "Memory Foam Topper",
   "description_short": "Designed to add comfort and support to your existing mattress.",
   "construction_layers": [
-    {"position": 1, "name": "AirGen Memory Foam", "material": "Memory Foam", "foam_type": "AirGen", "thickness_mm": 51, "thickness_inches": 2, "density_kgm3": 48, "ild": 12, "gsm": 100, "notes": "Adaptive support and soft feel."}
+    {
+      "position": 1,
+      "name": "AirGen Memory Foam",
+      "material": "Memory Foam",
+      "foam_type": "AirGen",
+      "thickness_mm": 51,
+      "thickness_inches": 2,
+      "gsm": 100,
+      "notes": "Adaptive support and soft feel."
+    }
   ],
-  "cover_fabric": {"composition": "100% Cotton", "weave": "Knitted", "gsm": 200, "removable": true, "washable": true, "wash_instructions": "Machine washable, delicate cycle."},
+  "cover_fabric": {
+    "composition": "100% Cotton",
+    "weave": "Knitted",
+    "gsm": 200,
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine washable, delicate cycle."
+  },
   "dimensions_by_size": [
-    {"size_name": "Single", "length_mm": 1829, "width_mm": 914, "height_mm": 51, "weight_kg": 3.5},
-    {"size_name": "Double", "length_mm": 1981, "width_mm": 1372, "height_mm": 51, "weight_kg": 4.5},
-    {"size_name": "Queen", "length_mm": 1981, "width_mm": 1524, "height_mm": 51, "weight_kg": 5},
-    {"size_name": "King", "length_mm": 2134, "width_mm": 1829, "height_mm": 51, "weight_kg": 6}
+    {
+      "size_name": "Single",
+      "length_mm": 1829,
+      "width_mm": 914,
+      "height_mm": 51,
+      "weight_kg": 3.5
+    },
+    {
+      "size_name": "Double",
+      "length_mm": 1981,
+      "width_mm": 1372,
+      "height_mm": 51,
+      "weight_kg": 4.5
+    },
+    {
+      "size_name": "Queen",
+      "length_mm": 1981,
+      "width_mm": 1524,
+      "height_mm": 51,
+      "weight_kg": 5
+    },
+    {
+      "size_name": "King",
+      "length_mm": 2134,
+      "width_mm": 1829,
+      "height_mm": 51,
+      "weight_kg": 6
+    }
   ],
-  "firmness": {"rating_1_10": 6, "label": "Medium", "feel_descriptors": ["Soft", "Comfortable", "Supportive"]},
+  "firmness": {
+    "rating_1_10": 6,
+    "label": "Medium",
+    "feel_descriptors": [
+      "Soft",
+      "Comfortable",
+      "Supportive"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "AirGen Memory Foam", "description": "Provides adaptive cushioning for enhanced comfort."}
+    {
+      "name": "AirGen Memory Foam",
+      "description": "Provides adaptive cushioning for enhanced comfort."
+    }
   ],
-  "certifications": ["CertiPUR-US", "ISO 9001", "OEKO-TEX"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1, "weight_capacity_kg": 150},
+  "certifications": [
+    "CertiPUR-US",
+    "ISO 9001",
+    "OEKO-TEX"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1,
+    "weight_capacity_kg": 150
+  },
   "pricing": [
-    {"size_name": "Single", "mrp": 5299, "selling_price": 3709, "currency": "INR"},
-    {"size_name": "Double", "mrp": 6899, "selling_price": 4829, "currency": "INR"},
-    {"size_name": "Queen", "mrp": 7499, "selling_price": 5249, "currency": "INR"},
-    {"size_name": "King", "mrp": 8999, "selling_price": 6299, "currency": "INR"}
+    {
+      "size_name": "Single",
+      "mrp": 5299,
+      "selling_price": 3709,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Double",
+      "mrp": 6899,
+      "selling_price": 4829,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Queen",
+      "mrp": 7499,
+      "selling_price": 5249,
+      "currency": "INR"
+    },
+    {
+      "size_name": "King",
+      "mrp": 8999,
+      "selling_price": 6299,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What's the best thickness for a mattress topper?", "answer": "The best thickness for a mattress topper usually ranges between 2 to 4 inches."}
+    {
+      "question": "What's the best thickness for a mattress topper?",
+      "answer": "The best thickness for a mattress topper usually ranges between 2 to 4 inches."
+    }
   ],
-  "notes_observed": "Duplicate of memory-foam-mattress-topper but with full spec table (density/ILD/GSM/cover fabric, CertiPUR/ISO/OEKO-TEX certs). Two SKUs for the same product line — likely the 2\" version is the premium-spec'd variant."
+  "notes_observed": "Duplicate of memory-foam-mattress-topper but with full spec table (cover fabric, CertiPUR/ISO/OEKO-TEX certs). Two SKUs for the same product line \u2014 likely the 2\" version is the premium-spec'd variant."
 }

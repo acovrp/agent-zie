@@ -12,7 +12,7 @@
 - **Sub-category**: Baby Mattress
 - **Positioning**: Firm and super supportive baby mattress, guaranteed to give your baby the most peaceful sleep through the night.
 - **Construction (top -> bottom):**
-  1. Premium High Density Foam - [Foam] - 4 in - 25 kg/m3 - ILD 20 - 180 GSM
+  1. Premium High Density Foam - [Foam] - 4 in - 180 GSM
 - **Cover**: Terry Cotton, weave: Terry, 200 GSM, washable: True
 - **Sizes**: Single (1219x610x102 mm, 6kg)
 - **Firmness**: Firm Feel (8/10)
@@ -60,7 +60,7 @@
 - **Trial/Warranty**: 100-night trial, 10-yr warranty
 - **Pricing**: Single: INR 30200 (MRP 31789)
 - **Source**: https://sleepycat.in/products/founders-mattress
-- **Notes**: Densities/ILDs not on page (returned 0). Total height per FAQ = 9 inches (~228mm) confirms layers sum. Only Single price extracted — Double/Queen/King MRP/SP not visible without variant selection. Weight_kg not on page.
+- **Notes**:  Total height per FAQ = 9 inches (~228mm) confirms layers sum. Only Single price extracted — Double/Queen/King MRP/SP not visible without variant selection. Weight_kg not on page.
 
 ### Hybrid Latex Mattress
 - **Slug**: `latex-mattress`
@@ -78,7 +78,7 @@
 - **Trial/Warranty**: 100-night trial, 10-yr warranty
 - **Pricing**: Starting price (Single 6in): INR 9199 (MRP 11499)
 - **Source**: https://sleepycat.in/products/latex-mattress
-- **Notes**: Salvaged from earlier session's raw markdown dump (58KB). Density/ILD values not in raw; sized variants extracted from listing table but full price grid not available without variant select. Use compare-mattresses.json + product page as cross-reference.
+- **Notes**: Salvaged from earlier session's raw markdown dump (58KB).  sized variants extracted from listing table but full price grid not available without variant select. Use compare-mattresses.json + product page as cross-reference.
 
 ### Baby Natural Latex Mattress
 - **Slug**: `natural-latex-baby-mattress`
@@ -93,16 +93,16 @@
 - **Trial/Warranty**: 100-night trial, 1-yr warranty
 - **Pricing**: 48 x 24 x 4 inches: INR 6299 (MRP 6999)
 - **Source**: https://sleepycat.in/products/natural-latex-baby-mattress
-- **Notes**: Same size as foam baby mattress (4'x2'x4") but 3x the price for GOLS natural latex. Density/ILD not on page.
+- **Notes**: Same size as foam baby mattress (4'x2'x4") but 3x the price for GOLS natural latex. 
 
 ### Original Mattress
 - **Slug**: `original-mattress`
 - **Sub-category**: Foam Mattress
 - **Positioning**: Made with AirGen™ Memory Foam, the Original Mattress gives you the perfect balance of comfort & support. Not too soft, not too firm, it's just right.
 - **Construction (top -> bottom):**
-  1. AirGen™ Memory Foam - [Memory Foam] - 1 in - 50 kg/m3 - ILD 15
-  2. Aeroflow Transition Foam - [Foam] - 1 in - 40 kg/m3 - ILD 20
-  3. Super High Density Foam - [Foam] - 5 in - 30 kg/m3 - ILD 30
+  1. AirGen™ Memory Foam - [Memory Foam] - 1 in
+  2. Aeroflow Transition Foam - [Foam] - 1 in
+  3. Super High Density Foam - [Foam] - 5 in
 - **Cover**: Hypoallergenic fabric, weave: Quilted, 200 GSM, washable: True
 - **Sizes**: Single (1830x914x152 mm, 10kg); Double (1830x1372x152 mm, 12kg); Queen (1981x1524x152 mm, 14kg); King (2133x1981x152 mm, 16kg)
 - **Firmness**: Medium Feel (5/10)
@@ -130,16 +130,16 @@
 - **Trial/Warranty**: 100-night trial, 10-yr warranty
 - **Pricing**: Single (starting): INR 10779 (MRP 13999)
 - **Source**: https://sleepycat.in/products/plus-mattress
-- **Notes**: Largest SKU range of any mattress — 35 size variants across 8"/10" heights. Pricing returned as flat 10779 for all sizes; likely starting price only (variant-specific pricing not visible without selection). Densities/ILDs/weight not on page. Total height range 6"-10" per other pages.
+- **Notes**: Largest SKU range of any mattress — 35 size variants across 8"/10" heights. Pricing returned as flat 10779 for all sizes; likely starting price only (variant-specific pricing not visible without selection).  Total height range 6"-10" per other pages.
 
 ### The Latex Ortho
 - **Slug**: `the-latex-ortho-mattress`
 - **Sub-category**: Latex Mattresses
 - **Positioning**: Firm orthopedic mattress designed to support proper spinal alignment with breathable Pinhole Tech Latex and Aeroflow Transition Foam.
 - **Construction (top -> bottom):**
-  1. Pinhole Tech Latex Foam - [Latex] - 1 in - 70 kg/m3 - ILD 30
-  2. Aeroflow Transition Foam - [Foam] - 1 in - 30 kg/m3 - ILD 20
-  3. High Density Foam - [Foam] - 5 in - 35 kg/m3 - ILD 40
+  1. Pinhole Tech Latex Foam - [Latex] - 1 in
+  2. Aeroflow Transition Foam - [Foam] - 1 in
+  3. High Density Foam - [Foam] - 5 in
 - **Cover**: Hypoallergenic fabric, weave: Zipper cover, washable: True
 - **Sizes**: Single (1828x762x152 mm, 9.07kg); Double (1828x1219x152 mm, 11.34kg)
 - **Firmness**: Very Firm (9/10)
@@ -155,7 +155,7 @@
 - **Sub-category**: Foldable Mattresses
 - **Positioning**: Lightweight foldable mattress with high-resilience foam, smart portability features, and compact comfort.
 - **Construction (top -> bottom):**
-  1. High Resilience Foam - [Foam] - 4 in - 28 kg/m3
+  1. High Resilience Foam - [Foam] - 4 in
 - **Cover**: 280 GSM Grey Knitted Fabric, weave: Knitted, 280 GSM, washable: True
 - **Sizes**: Single 72 x 36 x 4 inches (1828.8x914.4x100 mm, 6kg); Double 72 x 48 x 4 inches (1828.8x1219.2x100 mm, 8.3kg)
 - **Firmness**: Medium-Firm (6/10)
@@ -170,9 +170,9 @@
 - **Sub-category**: Latex Mattress
 - **Positioning**: Made with GOLS Certified 100% Natural Latex, this luxurious mattress gives breathable & responsive comfort with 7-zone body support.
 - **Construction (top -> bottom):**
-  1. Top Layer - [100% Natural Latex] - 1.5 in - 70 kg/m3 - ILD 20 - 100 GSM
-  2. Middle Layer - [Aeroflow Transition Foam] - 1 in - 50 kg/m3 - ILD 25 - 100 GSM
-  3. Bottom Layer - [Super High Density Foam] - 1.5 in - 70 kg/m3 - ILD 30 - 200 GSM
+  1. Top Layer - [100% Natural Latex] - 1.5 in - 100 GSM
+  2. Middle Layer - [Aeroflow Transition Foam] - 1 in - 100 GSM
+  3. Bottom Layer - [Super High Density Foam] - 1.5 in - 200 GSM
 - **Cover**: CoolTEC™ Fabric, weave: Knitted, 200 GSM, washable: True
 - **Sizes**: Single (1830x762x203 mm, 7kg); Double (1830x1372x203 mm, 12kg); Queen (1981x1524x203 mm, 14kg); King (2134x1829x203 mm, 16kg)
 - **Firmness**: Medium-Soft (5/10)
@@ -220,7 +220,7 @@
 - **Sub-category**: Natural Latex Pillow / Cervical Contour
 - **Positioning**: GOLS certified 100% Natural Latex Contour Pillow with dual heights for personalized comfort, hypoallergenic and breathable.
 - **Construction (top -> bottom):**
-  1. Latex Foam - [Natural Latex] - 3.9 in - 60 kg/m3 - ILD 20
+  1. Latex Foam - [Natural Latex] - 3.9 in
 - **Cover**: Premium Hypoallergenic Fabric, weave: Mesh sides, washable: True
 - **Sizes**: Standard (609x406x100 mm, 0.5kg)
 - **Firmness**: Medium Soft (5/10)
@@ -249,7 +249,7 @@
 - **Sub-category**: Memory Foam Pillow
 - **Positioning**: Sleep cool and supported with the CoolTEC Memory Foam Pillow made of perforated memory foam, designed to keep you up to 4° cooler throughout the night.
 - **Construction (top -> bottom):**
-  1. Foam Layer - [Perforated Memory Foam] - 3.9 in - 60 kg/m3 - ILD 46
+  1. Foam Layer - [Perforated Memory Foam] - 3.9 in
 - **Cover**: CoolTEC™ Fabric, weave: Polyester, 150 GSM, washable: True
 - **Sizes**: Standard (635x406x102 mm, 1.2kg); King (711x457x102 mm, 1.5kg)
 - **Firmness**: Medium Firm (7/10)
@@ -324,7 +324,7 @@
 - **Sub-category**: Memory Foam Pillow
 - **Positioning**: Experience real memory foam comfort that doesn't sag, break or flatten. Perforated design for breathability & medium height support for proper neck alignment.
 - **Construction (top -> bottom):**
-  1. Memory Foam - [Real Memory Foam] - 4 in - 50 kg/m3 - ILD 9
+  1. Memory Foam - [Real Memory Foam] - 4 in
 - **Cover**: Premium Hypoallergenic Fabric, weave: Soft, breathable, washable: True
 - **Sizes**: Regular (560x360x100 mm, 0.8kg); Full (635x406x100 mm, 0.9kg); King (711x457x100 mm, 1kg)
 - **Firmness**: Medium Firm (7/10)
@@ -338,7 +338,7 @@
 - **Sub-category**: Natural Latex Pillow
 - **Positioning**: 100% Organic Latex pillow with GOLS certification, naturally cooling, hypoallergenic, and provides bouncy, responsive support.
 - **Construction (top -> bottom):**
-  1. Pillow Fill - [GOLS Certified 100% Natural Latex Foam] - 4 in - 60 kg/m3 - ILD 19
+  1. Pillow Fill - [GOLS Certified 100% Natural Latex Foam] - 4 in
 - **Cover**: Premium Hypoallergenic Fabric With Mesh Sides, washable: True
 - **Sizes**: Standard (610x406x102 mm, 0.5kg)
 - **Firmness**: Medium-Soft (6/10)
@@ -366,7 +366,7 @@
 - **Sub-category**: Travel
 - **Positioning**: Unroll, Snap, Sleep. Repeat! This neck pillow comfortably sits around your neck & its flex headrest offers the best support.
 - **Construction (top -> bottom):**
-  1. Pillow Fill - [Memory Foam] - 1 in - 40 kg/m3 - ILD 20
+  1. Pillow Fill - [Memory Foam] - 1 in
 - **Cover**: Lycra, weave: Soft, 200 GSM, washable: True
 - **Sizes**: Standard (254x228.6 mm, 0.5kg)
 - **Firmness**: Medium (5/10)
@@ -384,7 +384,7 @@
 - **Sub-category**: Memory Foam Topper
 - **Positioning**: Designed to add comfort and support to your existing mattress.
 - **Construction (top -> bottom):**
-  1. AirGen Memory Foam - [Memory Foam] - 2 in - 48 kg/m3 - ILD 12 - 100 GSM
+  1. AirGen Memory Foam - [Memory Foam] - 2 in - 100 GSM
 - **Cover**: 100% Cotton, weave: Knitted, 200 GSM, washable: True
 - **Sizes**: Single (1829x914x51 mm, 3.5kg); Double (1981x1372x51 mm, 4.5kg); Queen (1981x1524x51 mm, 5kg); King (2134x1829x51 mm, 6kg)
 - **Firmness**: Medium (6/10)
@@ -393,7 +393,7 @@
 - **Trial/Warranty**: 100-night trial, 1-yr warranty, weight cap 150kg
 - **Pricing**: Single: INR 3709 (MRP 5299); Double: INR 4829 (MRP 6899); Queen: INR 5249 (MRP 7499); King: INR 6299 (MRP 8999)
 - **Source**: https://sleepycat.in/products/2-inch-memory-foam-mattress-topper
-- **Notes**: Duplicate of memory-foam-mattress-topper but with full spec table (density/ILD/GSM/cover fabric, CertiPUR/ISO/OEKO-TEX certs). Two SKUs for the same product line — likely the 2" version is the premium-spec'd variant.
+- **Notes**: Duplicate of memory-foam-mattress-topper but with full spec table (cover fabric, CertiPUR/ISO/OEKO-TEX certs). Two SKUs for the same product line — likely the 2" version is the premium-spec'd variant.
 
 ### Aeroflow Foam Topper
 - **Slug**: `aeroflow-foam-mattress-topper`
@@ -414,7 +414,7 @@
 - **Sub-category**: Latex Topper
 - **Positioning**: Soft Feel - GOLS-certified 100% organic latex - Responsive Support
 - **Construction (top -> bottom):**
-  1. Latex Layer - [GOLS-certified organic latex] - 1.5 in - 80 kg/m3 - ILD 20
+  1. Latex Layer - [GOLS-certified organic latex] - 1.5 in
 - **Cover**: Cotton, weave: Percale, washable: True
 - **Sizes**: Single (1829x914x38.1 mm, 8kg); Double (1880x1370x38.1 mm, 10kg); Queen (1980x1520x38.1 mm, 12kg); King (1980x1830x38.1 mm, 14kg)
 - **Firmness**: Medium (6/10)
@@ -766,7 +766,7 @@
 - **Sub-category**: Car Neck Pillow (Compact)
 - **Positioning**: This compact ergonomic pillow is filled with premium memory foam that supports your neck, prevents muscle tension, and promotes better posture.
 - **Construction (top -> bottom):**
-  1. Memory Foam Core - [Memory Foam] - 3 in - 50 kg/m3
+  1. Memory Foam Core - [Memory Foam] - 3 in
 - **Cover**: Breathable Dual Layer Nylon Cover, washable: True
 - **Sizes**: Standard (279.4x76.2x203.2 mm, 0.5kg)
 - **Firmness**: Firm (8/10)
@@ -805,7 +805,7 @@
 - **Sub-category**: Lumbar Roll Cushion
 - **Positioning**: Ergonomic lumbar cushion with contoured support, breathable memory foam, and a compact design that fits wherever you sit.
 - **Construction (top -> bottom):**
-  1. Memory Foam Roll - [Memory Foam] - 5 in - 50 kg/m3
+  1. Memory Foam Roll - [Memory Foam] - 5 in
 - **Cover**: Nylon, washable: True
 - **Sizes**: Standard (394x203x127 mm, 0.5kg)
 - **Firmness**: Firm (7/10)
@@ -819,7 +819,7 @@
 - **Sub-category**: Back Cushion
 - **Positioning**: The SleepyCat Pro Back Cushion brings targeted, ergonomic lumbar support for superior comfort and posture whether at home, office, or on the move.
 - **Construction (top -> bottom):**
-  1. Memory Foam Core - [Memory Foam] - 4 in - 50 kg/m3
+  1. Memory Foam Core - [Memory Foam] - 4 in
 - **Cover**: Dual Layer Nylon Cover, weave: Breathable, 100 GSM, washable: True
 - **Sizes**: Standard (444.5x406.4x100 mm, 0.5kg)
 - **Firmness**: Medium (7/10)
@@ -834,7 +834,7 @@
 - **Sub-category**: Car/Office Neck Pillow
 - **Positioning**: Ergonomic support for long drives and longer days. With anti-skid base, and handy side pocket, this neck cushion keeps your neck & shoulders supported.
 - **Construction (top -> bottom):**
-  1. Memory Foam Core - [Premium Memory Foam] - 2 in - 50 kg/m3
+  1. Memory Foam Core - [Premium Memory Foam] - 2 in
 - **Cover**: Nylon (breathable, cool-to-touch), washable: True
 - **Sizes**: Standard (444x406x127 mm, 0.68kg)
 - **Firmness**: Medium (7/10)
@@ -848,7 +848,7 @@
 - **Sub-category**: Seat Cushion (U-cutout)
 - **Positioning**: Designed for long hours of sitting, this seat cushion offers pressure relief, posture support, and a contoured shape that keeps you aligned.
 - **Construction (top -> bottom):**
-  1. Premium Memory Foam - [Memory Foam] - 2 in - 50 kg/m3
+  1. Premium Memory Foam - [Memory Foam] - 2 in
 - **Cover**: Dual Layer Nylon, 200 GSM, washable: True
 - **Sizes**: Standard (482x449x127 mm, 1.2kg)
 - **Firmness**: Medium (7/10)
@@ -864,7 +864,7 @@
 - **Sub-category**: Back Cushion (Slim)
 - **Positioning**: A slim, supportive back cushion designed to improve posture without adding bulk.
 - **Construction (top -> bottom):**
-  1. Memory Foam Core - [Memory Foam] - 2.5 in - 50 kg/m3
+  1. Memory Foam Core - [Memory Foam] - 2.5 in
 - **Cover**: Breathable Dual Layer Nylon, 200 GSM, washable: True
 - **Sizes**: Standard (444.5x406.4x63.5 mm, 0.5kg)
 - **Firmness**: Contouring (7/10)

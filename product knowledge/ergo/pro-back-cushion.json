@@ -7,24 +7,77 @@
   "sub_category": "Back Cushion",
   "description_short": "The SleepyCat Pro Back Cushion brings targeted, ergonomic lumbar support for superior comfort and posture whether at home, office, or on the move.",
   "construction_layers": [
-    {"position": 1, "name": "Memory Foam Core", "material": "Memory Foam", "foam_type": "Perforated Memory Foam", "thickness_mm": 100, "thickness_inches": 4, "density_kgm3": 50, "notes": "Breathable, contours to spine."}
+    {
+      "position": 1,
+      "name": "Memory Foam Core",
+      "material": "Memory Foam",
+      "foam_type": "Perforated Memory Foam",
+      "thickness_mm": 100,
+      "thickness_inches": 4,
+      "notes": "Breathable, contours to spine."
+    }
   ],
-  "cover_fabric": {"composition": "Dual Layer Nylon Cover", "weave": "Breathable", "gsm": 100, "removable": true, "washable": true, "wash_instructions": "Unzip cover, machine wash."},
+  "cover_fabric": {
+    "composition": "Dual Layer Nylon Cover",
+    "weave": "Breathable",
+    "gsm": 100,
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Unzip cover, machine wash."
+  },
   "dimensions_by_size": [
-    {"size_name": "Standard", "length_mm": 444.5, "width_mm": 406.4, "height_mm": 100, "weight_kg": 0.5}
+    {
+      "size_name": "Standard",
+      "length_mm": 444.5,
+      "width_mm": 406.4,
+      "height_mm": 100,
+      "weight_kg": 0.5
+    }
   ],
-  "firmness": {"rating_1_10": 7, "label": "Medium", "feel_descriptors": ["Contouring", "Supportive", "Breathable"]},
+  "firmness": {
+    "rating_1_10": 7,
+    "label": "Medium",
+    "feel_descriptors": [
+      "Contouring",
+      "Supportive",
+      "Breathable"
+    ]
+  },
   "proprietary_tech": [
-    {"name": "Anti-Skid Base", "description": "Ensures stability on long drives."},
-    {"name": "Adjustable Straps", "description": "Fits most office and dining chairs."}
+    {
+      "name": "Anti-Skid Base",
+      "description": "Ensures stability on long drives."
+    },
+    {
+      "name": "Adjustable Straps",
+      "description": "Fits most office and dining chairs."
+    }
   ],
-  "certifications": ["ISO Certified", "REACH Compliant"],
-  "trial_warranty": {"trial_nights": 7, "warranty_years": 1, "weight_capacity_kg": 150},
+  "certifications": [
+    "ISO Certified",
+    "REACH Compliant"
+  ],
+  "trial_warranty": {
+    "trial_nights": 7,
+    "warranty_years": 1,
+    "weight_capacity_kg": 150
+  },
   "pricing": [
-    {"size_name": "Standard", "mrp": 1999, "selling_price": 1499, "currency": "INR"}
+    {
+      "size_name": "Standard",
+      "mrp": 1999,
+      "selling_price": 1499,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Will the Pro Back Cushion fit my chair?", "answer": "Yes, the adjustable strap fits most office chairs and dining chairs."},
-    {"question": "Does it feel bulky?", "answer": "No, the 4-inch profile supports your back without altering your seating height too much."}
+    {
+      "question": "Will the Pro Back Cushion fit my chair?",
+      "answer": "Yes, the adjustable strap fits most office chairs and dining chairs."
+    },
+    {
+      "question": "Does it feel bulky?",
+      "answer": "No, the 4-inch profile supports your back without altering your seating height too much."
+    }
   ]
 }

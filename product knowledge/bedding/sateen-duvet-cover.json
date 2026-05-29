@@ -6,23 +6,60 @@
   "category": "Bedding",
   "sub_category": "Duvet Cover",
   "description_short": "Experience the silky smoothness of our sateen duvet cover, designed with a sleek zipper closure.",
-  "cover_fabric": {"composition": "100% Long-staple Cotton", "weave": "Sateen", "thread_count": 300, "washable": true, "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach/softeners. Air-dry.", "closure": "Zipper closure with internal corner ties"},
+  "cover_fabric": {
+    "composition": "100% Long-staple Cotton",
+    "weave": "Sateen",
+    "thread_count": 300,
+    "washable": true,
+    "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach/softeners. Air-dry.",
+    "closure": "Zipper closure with internal corner ties"
+  },
   "dimensions_by_size": [
-    {"size_name": "Single", "length_mm": 2286, "width_mm": 1524},
-    {"size_name": "Double", "length_mm": 2286, "width_mm": 2540}
+    {
+      "size_name": "Single",
+      "length_mm": 2286,
+      "width_mm": 1524
+    },
+    {
+      "size_name": "Double",
+      "length_mm": 2286,
+      "width_mm": 2540
+    }
   ],
-  "colors_available": ["Ivory", "Pebble", "Mineral", "Denim"],
+  "colors_available": [
+    "Ivory",
+    "Pebble",
+    "Mineral",
+    "Denim"
+  ],
   "proprietary_tech": [
-    {"name": "Zipper + Corner Ties", "description": "Zipper secures duvet, internal ties prevent shifting/bunching."}
+    {
+      "name": "Zipper + Corner Ties",
+      "description": "Zipper secures duvet, internal ties prevent shifting/bunching."
+    }
   ],
   "certifications": [],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Single", "mrp": 2699, "selling_price": 2294, "currency": "INR"}
+    {
+      "size_name": "Single",
+      "mrp": 2699,
+      "selling_price": 2294,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What does 300 thread count mean in this duvet cover?", "answer": "A 300 thread count refers to the number of threads woven per square inch, offering an ideal balance of softness, strength, and breathability."},
-    {"question": "How does the zipper closure and corner ties help?", "answer": "The zipper closure keeps your duvet securely enclosed, while the corner ties hold it in place, preventing shifting or bunching inside the cover."}
+    {
+      "question": "What does 300 thread count mean in this duvet cover?",
+      "answer": "A 300 thread count refers to the number of threads woven per square inch, offering an ideal balance of softness, strength, and breathability."
+    },
+    {
+      "question": "How does the zipper closure and corner ties help?",
+      "answer": "The zipper closure keeps your duvet securely enclosed, while the corner ties hold it in place, preventing shifting or bunching inside the cover."
+    }
   ],
-  "notes_observed": "Only Single price visible (₹2294). Available in Single/Double only — no Queen/King for duvet covers."
+  "notes_observed": "Only Single price visible (\u20b92294). Available in Single/Double only \u2014 no Queen/King for duvet covers."
 }

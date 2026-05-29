@@ -7,28 +7,91 @@
   "sub_category": "Comforter (All Season)",
   "description_short": "Sleep comfortable and cozy all year round with our 200 GSM Virgin Microfiber All Season Reversible Comforter.",
   "construction_layers": [
-    {"position": 1, "name": "Cover Fabric", "material": "Virgin Microfiber", "gsm": 200, "notes": "Soft and breathable, both sides usable (reversible)."},
-    {"position": 2, "name": "Filling", "material": "Virgin Microfiber Fill", "gsm": 200, "notes": "Lightweight and warm. Total fill weight 200 GSM."}
+    {
+      "position": 1,
+      "name": "Cover Fabric",
+      "material": "Virgin Microfiber",
+      "gsm": 200,
+      "notes": "Soft and breathable, both sides usable (reversible)."
+    },
+    {
+      "position": 2,
+      "name": "Filling",
+      "material": "Virgin Microfiber Fill",
+      "gsm": 200,
+      "notes": "Lightweight and warm. Total fill weight 200 GSM."
+    }
   ],
-  "cover_fabric": {"composition": "Virgin Microfiber", "gsm": 200, "washable": true, "wash_instructions": "Machine wash in warm water with mild detergent."},
+  "cover_fabric": {
+    "composition": "Virgin Microfiber",
+    "gsm": 200,
+    "washable": true,
+    "wash_instructions": "Machine wash in warm water with mild detergent."
+  },
   "fill_gsm": 200,
   "dimensions_by_size": [
-    {"size_name": "Single", "length_mm": 2286, "width_mm": 1524, "weight_kg": 1.5},
-    {"size_name": "Double", "length_mm": 2286, "width_mm": 2540, "weight_kg": 2}
+    {
+      "size_name": "Single",
+      "length_mm": 2286,
+      "width_mm": 1524,
+      "weight_kg": 1.5
+    },
+    {
+      "size_name": "Double",
+      "length_mm": 2286,
+      "width_mm": 2540,
+      "weight_kg": 2
+    }
   ],
-  "colors_available": ["Rhino Grey & Coconut White", "Acid Lime & Rhino Grey", "Coffee & Cream", "Nude Pink & Seafoam White", "Navy Maze", "Mustard Mosaic", "Aqua Herringbone", "Green Petal"],
+  "colors_available": [
+    "Rhino Grey & Coconut White",
+    "Acid Lime & Rhino Grey",
+    "Coffee & Cream",
+    "Nude Pink & Seafoam White",
+    "Navy Maze",
+    "Mustard Mosaic",
+    "Aqua Herringbone",
+    "Green Petal"
+  ],
   "proprietary_tech": [
-    {"name": "Quilted Box Design", "description": "Keeps all filling in place."},
-    {"name": "Moisture Wicking", "description": "Fabric pulls moisture away to dry quickly."}
+    {
+      "name": "Quilted Box Design",
+      "description": "Keeps all filling in place."
+    },
+    {
+      "name": "Moisture Wicking",
+      "description": "Fabric pulls moisture away to dry quickly."
+    }
   ],
-  "certifications": ["Oeko-Tex Certified"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "certifications": [
+    "Oeko-Tex Certified"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Single", "mrp": 1879, "selling_price": 1597, "currency": "INR"},
-    {"size_name": "Double", "mrp": 1999, "selling_price": 1697, "currency": "INR"}
+    {
+      "size_name": "Single",
+      "mrp": 1879,
+      "selling_price": 1597,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Double",
+      "mrp": 1999,
+      "selling_price": 1697,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "Will the Reversible Comforter keep me warm?", "answer": "Yes, it's designed for all seasons; it keeps you warm without causing night sweats."},
-    {"question": "What does Moisture Wicking mean?", "answer": "Moisture wicking means the fabric dries quickly and pulls sweat away."}
+    {
+      "question": "Will the Reversible Comforter keep me warm?",
+      "answer": "Yes, it's designed for all seasons; it keeps you warm without causing night sweats."
+    },
+    {
+      "question": "What does Moisture Wicking mean?",
+      "answer": "Moisture wicking means the fabric dries quickly and pulls sweat away."
+    }
   ]
 }

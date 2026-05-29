@@ -1,20 +1,23 @@
 {
   "source_url": "https://sleepycat.in/pages/compare-mattresses",
   "scraped_at": "2026-05-13",
-  "notes_observed": "Page only compares 3 mattresses (Ultima Memory Foam / Original / Hybrid Latex) — not all 10. Useful for layer/height validation. Note: schema captured starting_price_inr but Original=5593 differs from product page (5714 Single); use product page as authoritative.",
+  "notes_observed": "Page only compares 3 mattresses (Ultima Memory Foam / Original / Hybrid Latex) \u2014 not all 10. Useful for layer/height validation. Note: schema captured starting_price_inr but Original=5593 differs from product page (5714 Single); use product page as authoritative.",
   "comparison_table": [
     {
       "mattress_name": "Ultima Memory Foam Mattress",
       "slug": "plus-mattress",
       "layers": [
-        "Top: AirGen™ Memory Foam (1.5 inches)",
+        "Top: AirGen\u2122 Memory Foam (1.5 inches)",
         "Middle 1: Aeroflow Transition Foam (1 inch)",
-        "Middle 2: High Density Foam with DeepTouch™ Pressure (4-6 inches)",
+        "Middle 2: High Density Foam with DeepTouch\u2122 Pressure (4-6 inches)",
         "Bottom: Super High Density Foam (1.5 inches)"
       ],
-      "total_height_options": ["8 inches (20.32 cm)", "10 inches (25.4 cm)"],
+      "total_height_options": [
+        "8 inches (20.32 cm)",
+        "10 inches (25.4 cm)"
+      ],
       "firmness": "Medium Soft",
-      "cover": "CoolTEC™ Ezie Zipper Cover",
+      "cover": "CoolTEC\u2122 Ezie Zipper Cover",
       "best_for": "All sleepers; specially side and stomach sleepers wanting cooler rest and pressure relief",
       "warranty_years": 10,
       "starting_price_inr": 10779
@@ -23,11 +26,17 @@
       "mattress_name": "Original Mattress",
       "slug": "original-mattress",
       "layers": [
-        "Top: AirGen™ Memory Foam (1 inch)",
+        "Top: AirGen\u2122 Memory Foam (1 inch)",
         "Middle: Aeroflow Transition Foam (1 inch)",
         "Bottom: Super High Density Foam (2-8 inches; varies by total height)"
       ],
-      "total_height_options": ["4 in", "5 in", "6 in", "8 in", "10 in"],
+      "total_height_options": [
+        "4 in",
+        "5 in",
+        "6 in",
+        "8 in",
+        "10 in"
+      ],
       "firmness": "Medium Firm",
       "cover": "Anti-Bacterial & Hypoallergenic Cover",
       "best_for": "All-purpose; all sleepers",
@@ -39,10 +48,13 @@
       "slug": "latex-mattress",
       "layers": [
         "Top: Pinhole Tech Latex Foam (1 inch)",
-        "Middle: AirGen™ Memory Foam (1 inch)",
+        "Middle: AirGen\u2122 Memory Foam (1 inch)",
         "Bottom: High Density Foam (4-6 inches)"
       ],
-      "total_height_options": ["6 in (15.24 cm)", "8 in (20.32 cm)"],
+      "total_height_options": [
+        "6 in (15.24 cm)",
+        "8 in (20.32 cm)"
+      ],
       "firmness": "Firm",
       "cover": "Hypoallergenic Fabric Ezie Zipper Cover",
       "best_for": "People with orthopedic needs",
@@ -51,7 +63,7 @@
     }
   ],
   "validation_findings": [
-    "Original Mattress comes in 5 height options (4/5/6/8/10 inch) — product page only showed 6\" SKUs. Bottom foam thickness varies 2-8\" to match total height.",
+    "Original Mattress comes in 5 height options (4/5/6/8/10 inch) \u2014 product page only showed 6\" SKUs. Bottom foam thickness varies 2-8\" to match total height.",
     "Ultima Memory Foam has 4 layers (not 3 as some pages suggest); 4-6\" HD foam layer changes by total height.",
     "Hybrid Latex 6\" SKU available (product page only showed 8\" as og:price)."
   ]

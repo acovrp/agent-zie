@@ -6,21 +6,65 @@
   "category": "Dog Bed",
   "sub_category": "Replacement Cover (Original)",
   "description_short": "Shield your dog's bed from dirt, pet hair, and everyday wear and tear with this velour knitted fabric. Offering the extra protective layer crafted with care!",
-  "cover_fabric": {"composition": "Knitted velour fabric with velvet finish", "removable": true, "washable": true, "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach/softeners. Air-dry."},
+  "cover_fabric": {
+    "composition": "Knitted velour fabric with velvet finish",
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach/softeners. Air-dry."
+  },
   "dimensions_by_size": [
-    {"size_name": "Medium", "length_mm": 914.4, "width_mm": 660.4, "for_dog_weight_kg": "up to 15"},
-    {"size_name": "Large", "length_mm": 1168.4, "width_mm": 812.8, "for_dog_weight_kg": "15-30"},
-    {"size_name": "Extra Large", "length_mm": 1371.6, "width_mm": 914.4, "for_dog_weight_kg": "30-45"}
+    {
+      "size_name": "Medium",
+      "length_mm": 914.4,
+      "width_mm": 660.4,
+      "for_dog_weight_kg": "up to 15"
+    },
+    {
+      "size_name": "Large",
+      "length_mm": 1168.4,
+      "width_mm": 812.8,
+      "for_dog_weight_kg": "15-30"
+    },
+    {
+      "size_name": "Extra Large",
+      "length_mm": 1371.6,
+      "width_mm": 914.4,
+      "for_dog_weight_kg": "30-45"
+    }
   ],
-  "colors_available": ["Mud Red", "Nautic Blue"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 10},
+  "colors_available": [
+    "Mud Red",
+    "Nautic Blue"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 10
+  },
   "pricing": [
-    {"size_name": "Medium", "mrp": 1099, "selling_price": 769, "currency": "INR"},
-    {"size_name": "Large", "mrp": 1299, "selling_price": 899, "currency": "INR"},
-    {"size_name": "Extra Large", "mrp": 1499, "selling_price": 999, "currency": "INR"}
+    {
+      "size_name": "Medium",
+      "mrp": 1099,
+      "selling_price": 769,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Large",
+      "mrp": 1299,
+      "selling_price": 899,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Extra Large",
+      "mrp": 1499,
+      "selling_price": 999,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What is the purpose of using a dog bed cover?", "answer": "A dog bed cover helps protect the inner bed from fur, dirt, spills, and everyday wear, keeping it cleaner and extending its life."}
+    {
+      "question": "What is the purpose of using a dog bed cover?",
+      "answer": "A dog bed cover helps protect the inner bed from fur, dirt, spills, and everyday wear, keeping it cleaner and extending its life."
+    }
   ],
   "notes_observed": "Replacement cover for [[dog-beds]] (Original). Dimensions match Original bed sizes."
 }

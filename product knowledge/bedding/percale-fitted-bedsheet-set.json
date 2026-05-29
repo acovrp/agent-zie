@@ -6,28 +6,104 @@
   "category": "Bedding",
   "sub_category": "Fitted Bedsheet",
   "description_short": "Crafted from 100% cotton with a classic percale weave, these fitted sheets deliver a crisp, cool feel with natural breathability.",
-  "cover_fabric": {"composition": "100% Cotton", "weave": "Percale (one-over-one)", "thread_count": 200, "gsm": 130, "washable": true, "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach. Iron OK."},
+  "cover_fabric": {
+    "composition": "100% Cotton",
+    "weave": "Percale (one-over-one)",
+    "thread_count": 200,
+    "gsm": 130,
+    "washable": true,
+    "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach. Iron OK."
+  },
   "dimensions_by_size": [
-    {"size_name": "Single", "length_mm": 1828.8, "width_mm": 914.4, "weight_kg": 1, "pillowcase_count": 1},
-    {"size_name": "Double", "length_mm": 1828.8, "width_mm": 1219.2, "weight_kg": 1, "pillowcase_count": 1},
-    {"size_name": "Queen", "length_mm": 1981.2, "width_mm": 1524, "weight_kg": 1, "pillowcase_count": 2},
-    {"size_name": "King", "length_mm": 2133.6, "width_mm": 1828.8, "weight_kg": 1, "pillowcase_count": 2}
+    {
+      "size_name": "Single",
+      "length_mm": 1828.8,
+      "width_mm": 914.4,
+      "weight_kg": 1,
+      "pillowcase_count": 1
+    },
+    {
+      "size_name": "Double",
+      "length_mm": 1828.8,
+      "width_mm": 1219.2,
+      "weight_kg": 1,
+      "pillowcase_count": 1
+    },
+    {
+      "size_name": "Queen",
+      "length_mm": 1981.2,
+      "width_mm": 1524,
+      "weight_kg": 1,
+      "pillowcase_count": 2
+    },
+    {
+      "size_name": "King",
+      "length_mm": 2133.6,
+      "width_mm": 1828.8,
+      "weight_kg": 1,
+      "pillowcase_count": 2
+    }
   ],
-  "colors_available": ["Purple Panther", "Sailor Stripes", "Overboard Checks", "Dolphin Grey", "Twilight Blue", "Evergreen"],
+  "colors_available": [
+    "Purple Panther",
+    "Sailor Stripes",
+    "Overboard Checks",
+    "Dolphin Grey",
+    "Twilight Blue",
+    "Evergreen"
+  ],
   "proprietary_tech": [
-    {"name": "Elastic Fitted Corners", "description": "Grips mattress edges so sheet stays smooth."}
+    {
+      "name": "Elastic Fitted Corners",
+      "description": "Grips mattress edges so sheet stays smooth."
+    }
   ],
-  "certifications": ["OEKO-Tex certified", "Coloured with AZO-free dyes"],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "certifications": [
+    "OEKO-Tex certified",
+    "Coloured with AZO-free dyes"
+  ],
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 1
+  },
   "pricing": [
-    {"size_name": "Single", "mrp": 1389, "selling_price": 1042, "currency": "INR"},
-    {"size_name": "Double", "mrp": 1389, "selling_price": 1042, "currency": "INR"},
-    {"size_name": "Queen", "mrp": 1389, "selling_price": 1042, "currency": "INR"},
-    {"size_name": "King", "mrp": 1389, "selling_price": 1042, "currency": "INR"}
+    {
+      "size_name": "Single",
+      "mrp": 1389,
+      "selling_price": 1042,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Double",
+      "mrp": 1389,
+      "selling_price": 1042,
+      "currency": "INR"
+    },
+    {
+      "size_name": "Queen",
+      "mrp": 1389,
+      "selling_price": 1042,
+      "currency": "INR"
+    },
+    {
+      "size_name": "King",
+      "mrp": 1389,
+      "selling_price": 1042,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What does 200 thread count mean in bedsheets?", "answer": "A 200 thread count means there are 200 threads woven per square inch, offering the ideal balance of breathability, durability, and comfort for percale sheets."},
-    {"question": "Is this bedsheet suitable for hot weather or summer?", "answer": "Yes, percale cotton is lightweight and highly breathable, making it perfect for warm weather and hot sleepers."},
-    {"question": "Is this fitted bedsheet wrinkle-free?", "answer": "Percale sheets have a natural crisp finish and may wrinkle slightly, which is part of their classic, hotel-like look."}
+    {
+      "question": "What does 200 thread count mean in bedsheets?",
+      "answer": "A 200 thread count means there are 200 threads woven per square inch, offering the ideal balance of breathability, durability, and comfort for percale sheets."
+    },
+    {
+      "question": "Is this bedsheet suitable for hot weather or summer?",
+      "answer": "Yes, percale cotton is lightweight and highly breathable, making it perfect for warm weather and hot sleepers."
+    },
+    {
+      "question": "Is this fitted bedsheet wrinkle-free?",
+      "answer": "Percale sheets have a natural crisp finish and may wrinkle slightly, which is part of their classic, hotel-like look."
+    }
   ]
 }

@@ -7,23 +7,71 @@
   "sub_category": "Original (Shredded Foam)",
   "description_short": "Our Original Dog Bed brings tail-wagging comfort for your fur baby. Filled with premium shredded foam, this plush bed is lightweight, durable & easy to clean.",
   "construction_layers": [
-    {"position": 1, "name": "Inner Fill", "material": "Premium Shredded Foam", "foam_type": "Shredded Foam", "thickness_mm": 50, "thickness_inches": 2, "notes": "Soft cushioned comfort."}
+    {
+      "position": 1,
+      "name": "Inner Fill",
+      "material": "Premium Shredded Foam",
+      "foam_type": "Shredded Foam",
+      "thickness_mm": 50,
+      "thickness_inches": 2,
+      "notes": "Soft cushioned comfort."
+    }
   ],
-  "cover_fabric": {"composition": "Knitted velour fabric with velvet finish (scratch resistant)", "removable": true, "washable": true, "wash_instructions": "Machine washable cover in cold water, air dry recommended."},
+  "cover_fabric": {
+    "composition": "Knitted velour fabric with velvet finish (scratch resistant)",
+    "removable": true,
+    "washable": true,
+    "wash_instructions": "Machine washable cover in cold water, air dry recommended."
+  },
   "dimensions_by_size": [
-    {"size_name": "Medium", "length_mm": 914, "width_mm": 660, "height_mm": 50, "for_dog_weight_kg": "1-3"},
-    {"size_name": "Large", "length_mm": 1168, "width_mm": 813, "height_mm": 50, "for_dog_weight_kg": "5-9"},
-    {"size_name": "Extra Large", "length_mm": 1372, "width_mm": 914, "height_mm": 50, "for_dog_weight_kg": "10-25"}
+    {
+      "size_name": "Medium",
+      "length_mm": 914,
+      "width_mm": 660,
+      "height_mm": 50,
+      "for_dog_weight_kg": "1-3"
+    },
+    {
+      "size_name": "Large",
+      "length_mm": 1168,
+      "width_mm": 813,
+      "height_mm": 50,
+      "for_dog_weight_kg": "5-9"
+    },
+    {
+      "size_name": "Extra Large",
+      "length_mm": 1372,
+      "width_mm": 914,
+      "height_mm": 50,
+      "for_dog_weight_kg": "10-25"
+    }
   ],
-  "firmness": {"rating_1_10": 5, "label": "Medium"},
+  "firmness": {
+    "rating_1_10": 5,
+    "label": "Medium"
+  },
   "proprietary_tech": [],
-  "trial_warranty": {"trial_nights": 100, "warranty_years": 10},
+  "trial_warranty": {
+    "trial_nights": 100,
+    "warranty_years": 10
+  },
   "pricing": [
-    {"size_name": "Medium", "mrp": 1989, "selling_price": 1392, "currency": "INR"}
+    {
+      "size_name": "Medium",
+      "mrp": 1989,
+      "selling_price": 1392,
+      "currency": "INR"
+    }
   ],
   "faq_specs": [
-    {"question": "What is the difference between the Original Dog Bed and the Orthopedic Dog Bed?", "answer": "The Original Dog Bed is more contouring, while the Orthopedic Dog Bed is more supportive."},
-    {"question": "How do I know which size of dog bed to buy?", "answer": "Medium for smaller dogs like Chihuahuas, Large for breeds like Huskies, Extra Large for larger breeds like Boxers."}
+    {
+      "question": "What is the difference between the Original Dog Bed and the Orthopedic Dog Bed?",
+      "answer": "The Original Dog Bed is more contouring, while the Orthopedic Dog Bed is more supportive."
+    },
+    {
+      "question": "How do I know which size of dog bed to buy?",
+      "answer": "Medium for smaller dogs like Chihuahuas, Large for breeds like Huskies, Extra Large for larger breeds like Boxers."
+    }
   ],
   "notes_observed": "Original = shredded foam fill (cushioning). Orthopedic version (see [[orthopedic-dog-bed]]) uses solid foam for support."
 }
