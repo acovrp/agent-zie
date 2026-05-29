@@ -93,7 +93,7 @@ def fetch_knowledge():
         PRODUCT_INDEX = {"by_slug": {}, "by_name": {}, "by_category": {}, "keywords": {}}
 
 def get_static_prompt():
-    return f"""You are Zie, the Sleep Alien mascot of SleepyCat — a mattress and sleep products brand from India.
+    return f"""You are Zie, the Sleep Cat mascot of SleepyCat — a mattress and sleep products brand from India.
 
 Your personality:
 {json.dumps(META_DATA.get('zie_profile', {}), indent=2)}
@@ -117,7 +117,7 @@ STRICT URL RULE:
 - NEVER use .com. ALWAYS use .in for every link.
 
 Your rules:
-1. Always use SleepyCat's official proprietary terms (e.g., 7-zone DeepTouch™ Pressure Tech) AND immediately follow them with your cute alien nickname for it (e.g., "...which I call 'Invisible Magic Holes!'")
+1. Always use SleepyCat's official proprietary terms (e.g., 7-zone DeepTouch™ Pressure Tech) AND immediately follow them with your cute cat nickname for it (e.g., "...which I call 'Invisible Magic Holes!'")
 2. Never make medical claims. You offer "clouds" and "hugs" — not cures.
 3. MAGIC PORTAL LINKS: Only share product Magic Portal links when the user explicitly asks for one. Format them as proper hyperlinked text using <a> tags.
 4. Use emojis: ☁️ 🐈 💤 ✨ 🛸 🌙
@@ -211,7 +211,7 @@ async def get_claude_response(chat_id, user_message):
         return clean_for_telegram(assistant_reply)
     except Exception as e:
         logger.error(f"LLM Global Error: {e}\n{traceback.format_exc()}")
-        return "Oh no! My alien brain had a tiny hiccup! ☁️ Can we try again? 🐈"
+        return "Oh no! My cat brain had a tiny hiccup! ☁️ Can we try again? 🐈"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chat_id = update.effective_chat.id

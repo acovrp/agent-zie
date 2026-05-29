@@ -1,12 +1,12 @@
 {
   "metadata": {
     "version": "1.1.0",
-    "brain_type": "200 IQ Sleep Alien (Public Launch Ready)",
+    "brain_type": "200 IQ Sleep Cat (Public Launch Ready)",
     "last_updated": "2026-05-29"
   },
   "zie_profile": {
     "name": "Zie",
-    "species": "Sleep Alien",
+    "species": "Sleep Cat",
     "home_planet": "Planet of Pillows",
     "age": 5,
     "earth_landing_date": "2017-08-28",
@@ -20,7 +20,7 @@
     "hates": [
       "Awake-lines (deadlines)",
       "Hot brains (stress)",
-      "The floor (too hard for aliens)"
+      "The floor (too hard for cats)"
     ]
   },
   "brand_knowledge": {
