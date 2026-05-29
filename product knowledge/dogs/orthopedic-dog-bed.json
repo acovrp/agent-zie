@@ -1,0 +1,29 @@
+{
+  "slug": "orthopedic-dog-bed",
+  "source_url": "https://sleepycat.in/products/orthopedic-dog-bed",
+  "scraped_at": "2026-05-13",
+  "product_name": "Dog Bed - Orthopedic",
+  "category": "Dog Bed",
+  "sub_category": "Orthopedic (HD Foam)",
+  "description_short": "Give your fur baby some tail-wagging comfort. Our Orthopedic Dog Bed provides superior joint & muscle support for aging pets, dogs with arthritis, or those recovering from injuries.",
+  "construction_layers": [
+    {"position": 1, "name": "HD Foam Core", "material": "Premium High Density Foam", "foam_type": "HD Foam", "thickness_mm": 102, "thickness_inches": 4, "notes": "Supportive feel, spreads weight evenly to reduce joint pressure."}
+  ],
+  "cover_fabric": {"composition": "Knitted velour fabric with velvet finish (scratch resistant)", "removable": true, "washable": true, "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach. Air dry."},
+  "dimensions_by_size": [
+    {"size_name": "Medium", "length_mm": 711, "width_mm": 660, "height_mm": 102, "for_dog_weight_kg": "4-10"},
+    {"size_name": "Large", "length_mm": 1219, "width_mm": 610, "height_mm": 102, "for_dog_weight_kg": "10-30"},
+    {"size_name": "Extra Large", "length_mm": 1321, "width_mm": 711, "height_mm": 102, "for_dog_weight_kg": "30-45"}
+  ],
+  "firmness": {"rating_1_10": 7, "label": "Supportive, Medium-Soft"},
+  "proprietary_tech": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 10},
+  "pricing": [
+    {"size_name": "Medium", "mrp": 2989, "selling_price": 2092, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "How does this dog bed help with joint pain and muscle support?", "answer": "The orthopedic dog bed uses high-density foam that evenly distributes weight, helping reduce pressure on joints and supporting muscles for more restful sleep."},
+    {"question": "Is the SleepyCat orthopedic dog bed suitable for senior dogs?", "answer": "Absolutely. Designed to provide enhanced support, especially comfortable for senior dogs or those with mobility concerns."}
+  ],
+  "notes_observed": "vs Original Dog Bed: 4\" HD foam (solid) instead of 2\" shredded foam. Targets senior/joint-issue dogs. Higher weight capacity (up to 45kg vs 25kg)."
+}

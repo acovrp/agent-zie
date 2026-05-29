@@ -1,0 +1,24 @@
+{
+  "slug": "jersey-duvet-cover",
+  "source_url": "https://sleepycat.in/products/jersey-duvet-cover",
+  "scraped_at": "2026-05-13",
+  "product_name": "Jersey Duvet Cover",
+  "category": "Bedding",
+  "sub_category": "Duvet Cover",
+  "description_short": "Comfier than your favourite t-shirt, this jersey duvet cover will feel so soft to your skin. It comes with a zipper so you can put them on as & when you please.",
+  "cover_fabric": {"composition": "Knitted Jersey Fabric (T-shirt knit)", "weave": "Knit (jersey)", "gsm": 140, "washable": true, "wash_instructions": "Machine washable.", "closure": "Zipper"},
+  "dimensions_by_size": [
+    {"size_name": "Single 90x60in", "length_mm": 2286, "width_mm": 1524},
+    {"size_name": "Double 90x100in", "length_mm": 2286, "width_mm": 2540}
+  ],
+  "colors_available": ["Bluewave Stripe", "Midnight Blue", "Walnut Brown", "Zebra Stripes"],
+  "proprietary_tech": [],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Single", "mrp": 2089, "selling_price": 1699, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is the GSM?", "answer": "The GSM is 140."}
+  ]
+}

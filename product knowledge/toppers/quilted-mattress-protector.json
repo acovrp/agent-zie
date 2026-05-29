@@ -1,0 +1,33 @@
+{
+  "slug": "quilted-mattress-protector",
+  "source_url": "https://sleepycat.in/products/quilted-mattress-protector",
+  "scraped_at": "2026-05-13",
+  "product_name": "Quilted Mattress Protector",
+  "category": "Mattress Protector",
+  "sub_category": "Quilted Waterproof Protector",
+  "description_short": "A quilted mattress protector with added comfort & waterproof protection.",
+  "construction_layers": [
+    {"position": 1, "name": "Quilted Top", "material": "Polyester fabric with quilted padding", "gsm": 200, "notes": "Soft, padded surface."},
+    {"position": 2, "name": "Waterproof Backing", "material": "TPU", "notes": "Prevents liquids from seeping through."}
+  ],
+  "cover_fabric": {"composition": "Polyester fabric with quilted padding", "weave": "Quilted", "gsm": 200, "removable": true, "washable": true, "wash_instructions": "Machine washable. Use mild detergent and avoid bleach. Tumble dry on low heat or air dry. Do not iron."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1830, "width_mm": 910, "weight_kg": 1.2},
+    {"size_name": "Double", "length_mm": 1981, "width_mm": 1372, "weight_kg": 1.5},
+    {"size_name": "Queen", "length_mm": 2032, "width_mm": 1524, "weight_kg": 1.8},
+    {"size_name": "King", "length_mm": 2134, "width_mm": 1829, "weight_kg": 2}
+  ],
+  "firmness": {"feel_descriptors": ["Soft quilted surface", "Waterproof backing", "Comfortable"]},
+  "proprietary_tech": [],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1, "weight_capacity_kg": 100},
+  "pricing": [
+    {"size_name": "Single", "mrp": 999, "selling_price": 899, "currency": "INR"},
+    {"size_name": "Double", "mrp": 1199, "selling_price": 1099, "currency": "INR"},
+    {"size_name": "Queen", "mrp": 1399, "selling_price": 1299, "currency": "INR"},
+    {"size_name": "King", "mrp": 1599, "selling_price": 1499, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What material is the mattress protector made of?", "answer": "The mattress protector is made from polyester fabric with quilted padding and waterproof TPU backing."}
+  ]
+}

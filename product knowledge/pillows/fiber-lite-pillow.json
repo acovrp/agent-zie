@@ -1,0 +1,28 @@
+{
+  "slug": "fiber-lite-pillow",
+  "source_url": "https://sleepycat.in/products/fiber-lite-pillow",
+  "scraped_at": "2026-05-13",
+  "product_name": "Fiber Lite Pillow",
+  "category": "Pillow",
+  "sub_category": "Fiber Pillows",
+  "description_short": "This full-size fiber-fill pillow is tailored to suit the needs of every type of sleeper at a price that's easy on the pocket.",
+  "construction_layers": [
+    {"position": 1, "name": "Pillow Fill", "material": "15 Denier Poly Fiber", "foam_type": "Fiber Fill", "notes": "Soft and breathable support."}
+  ],
+  "cover_fabric": {"composition": "Micro Peach Fabric", "removable": true, "washable": true, "wash_instructions": "Machine wash on delicate cycle with cold water and mild detergents."},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 686, "width_mm": 432, "height_mm": 150, "weight_kg": 0.5}
+  ],
+  "firmness": {"rating_1_10": 5, "label": "Medium Soft", "feel_descriptors": ["Soft", "Breathable", "Supportive"]},
+  "proprietary_tech": [],
+  "certifications": ["Hypoallergenic"],
+  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 999, "selling_price": 799, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "Are these pillows machine washable?", "answer": "Yes, the Fiber Lite Pillows are machine washable."},
+    {"question": "Are the Fiber Lite Pillows safe?", "answer": "Yes, these pillows are very safe as they are non-allergenic."},
+    {"question": "Why do people prefer polyfiber pillows?", "answer": "Polyfiber pillows do not flatten with time and are very budget friendly and durable."}
+  ]
+}

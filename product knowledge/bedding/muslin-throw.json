@@ -1,0 +1,24 @@
+{
+  "slug": "muslin-throw",
+  "source_url": "https://sleepycat.in/products/muslin-throw",
+  "scraped_at": "2026-05-13",
+  "product_name": "Muslin Throw",
+  "category": "Bedding",
+  "sub_category": "Throw Blanket",
+  "description_short": "The perfect snuggle partner for warm summer nights. This cool, soft & lightweight Muslin Throw doubles up as a travel companion too!",
+  "cover_fabric": {"composition": "100% Natural Cotton", "weave": "Muslin (2-layer)", "layers": 2, "washable": true, "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach or fabric softeners. Air dry."},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 2159.4, "width_mm": 1498.6, "weight_kg": 0.52}
+  ],
+  "colors_available": ["Maze", "Nova", "Aurora"],
+  "certifications": [],
+  "trial_warranty": {"warranty_years": 1, "notes": "Not eligible for return"},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 2999, "selling_price": 2549, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "How much does the Muslin Throw weigh?", "answer": "The Muslin Throw weighs approximately 520 grams without the bag, making it lightweight and easy to carry."},
+    {"question": "Will the fabric soften after every wash?", "answer": "Yes, the cotton muslin fabric is designed to get softer with every wash."}
+  ],
+  "notes_observed": "Throw size (85x59in) ~ Single bedsheet size but lighter weight. 520 GSM noted in fabric — likely refers to total weight not GSM; double-check."
+}

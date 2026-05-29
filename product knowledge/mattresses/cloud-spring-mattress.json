@@ -1,0 +1,41 @@
+{
+  "slug": "cloud-spring-mattress",
+  "source_url": "https://sleepycat.in/products/cloud-spring-mattress",
+  "scraped_at": "2026-05-13",
+  "product_name": "Cloud Mattress",
+  "category": "Mattresses",
+  "sub_category": "Pocket Spring Mattress",
+  "description_short": "Plush EuroTop For Adaptive Comfort with Pocket-Spring Base",
+  "construction_layers": [
+    {"position": 1, "name": "AirGen Memory Foam", "material": "Memory Foam", "foam_type": "AirGen", "thickness_mm": 31.75, "thickness_inches": 1.25, "notes": "Top layer for comfort."},
+    {"position": 2, "name": "Latex", "material": "Latex Foam", "foam_type": "Latex", "thickness_mm": 25.4, "thickness_inches": 1, "notes": "Added for support."},
+    {"position": 3, "name": "Aeroflow Transition Foam", "material": "Foam", "foam_type": "Aeroflow", "thickness_mm": 25.4, "thickness_inches": 1, "notes": "For breathability."},
+    {"position": 4, "name": "High Density Foam", "material": "High Density Foam", "foam_type": "HD Foam", "thickness_mm": 20.32, "thickness_inches": 0.8, "notes": "Supports the top layer."},
+    {"position": 5, "name": "Pocket Springs", "material": "Carbon Steel", "foam_type": "Pocket Spring", "thickness_mm": 101.6, "thickness_inches": 4, "notes": "Main support system."},
+    {"position": 6, "name": "High Density Bottom Layer", "material": "High Density Foam", "foam_type": "HD Foam", "thickness_mm": 20.32, "thickness_inches": 0.8, "notes": "Provides durability."}
+  ],
+  "cover_fabric": {"composition": "Bamboo Fabric", "weave": "Quilted", "removable": false, "washable": false, "wash_instructions": "Use a dry cloth or vacuum cleaner."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1981, "width_mm": 762, "height_mm": 203},
+    {"size_name": "Double", "length_mm": 1981, "width_mm": 914, "height_mm": 203},
+    {"size_name": "Queen", "length_mm": 1981, "width_mm": 1524, "height_mm": 203},
+    {"size_name": "King", "length_mm": 1981, "width_mm": 1930, "height_mm": 203}
+  ],
+  "firmness": {"rating_1_10": 5, "label": "Medium Soft", "feel_descriptors": ["Plush", "Comfortable", "Adaptive"]},
+  "proprietary_tech": [
+    {"name": "Zero Motion Transfer", "description": "Individually encased pocket springs for motion isolation."},
+    {"name": "Cooling Layer", "description": "Aeroflow Transition layer enhances breathability."}
+  ],
+  "certifications": ["GOLS Certified Natural Latex"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 10},
+  "pricing": [
+    {"size_name": "Single", "mrp": 19999, "selling_price": 15999, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is a pocket spring on a mattress?", "answer": "Pocket springs refer to springs that are encased in individual fabric pockets."},
+    {"question": "Is the Cloud Mattress comfortable?", "answer": "The Cloud Mattress is designed for exceptional comfort with a plush quilted surface and supportive layers."},
+    {"question": "What is the thickness of the Cloud Mattress?", "answer": "The Cloud Mattress is 20.32cm (8-inches) in height."},
+    {"question": "What materials are used in its construction?", "answer": "The mattress uses AirGen Memory Foam, Latex, and individually encased pocket springs among other components."}
+  ],
+  "notes_observed": "Only mattress in lineup with pocket springs (6 layers vs typical 3-4). Densities/weights not on page. Only Single pricing visible without variant select."
+}

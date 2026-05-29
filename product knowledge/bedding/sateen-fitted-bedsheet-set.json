@@ -1,0 +1,34 @@
+{
+  "slug": "sateen-fitted-bedsheet-set",
+  "source_url": "https://sleepycat.in/products/sateen-fitted-bedsheet-set",
+  "scraped_at": "2026-05-13",
+  "product_name": "300 TC Sateen Fitted BedSheet",
+  "category": "Bedding",
+  "sub_category": "Fitted Bedsheet",
+  "description_short": "Crafted from 100% long-staple cotton with a refined sateen weave, these fitted sheets deliver a buttery-soft feel, subtle luster, and breathable comfort.",
+  "cover_fabric": {"composition": "100% Long-staple Cotton", "weave": "Sateen", "thread_count": 300, "gsm": 135, "washable": true, "wash_instructions": "Machine wash in cold water with mild detergents. Do not bleach. Can be ironed."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1828, "width_mm": 914, "height_mm": 330, "weight_kg": 1.3, "pillowcase_count": 1},
+    {"size_name": "Double", "length_mm": 1828, "width_mm": 1372, "height_mm": 330, "weight_kg": 1.5, "pillowcase_count": 1},
+    {"size_name": "Queen", "length_mm": 1981, "width_mm": 1524, "height_mm": 330, "weight_kg": 1.7, "pillowcase_count": 2},
+    {"size_name": "King", "length_mm": 2134, "width_mm": 1981, "height_mm": 330, "weight_kg": 1.9, "pillowcase_count": 2}
+  ],
+  "colors_available": ["Ivory", "Pebble", "Mineral", "Denim"],
+  "proprietary_tech": [
+    {"name": "360° Elastic", "description": "Elastic runs all around the sheet, grips mattresses up to 10–13 inches thick."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Single", "mrp": 1999, "selling_price": 1599, "currency": "INR"},
+    {"size_name": "Double", "mrp": 1999, "selling_price": 1599, "currency": "INR"},
+    {"size_name": "Queen", "mrp": 1999, "selling_price": 1599, "currency": "INR"},
+    {"size_name": "King", "mrp": 1999, "selling_price": 1599, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "Why should I choose a sateen fitted bedsheet over other fabrics?", "answer": "Sateen offers a smoother, softer feel with a subtle sheen compared to percale's crisp texture or microfiber's synthetic feel."},
+    {"question": "Is this fitted bedsheet suitable for thick mattresses?", "answer": "Yes, it is designed with a deep pocket and can comfortably fit mattresses up to 10–13 inches thick, depending on the size."},
+    {"question": "Does this bedsheet come with pillowcases?", "answer": "Yes. Single and Double sizes come with 1 pillowcase, while Queen and King sizes come with 2 pillowcases."}
+  ],
+  "notes_observed": "Flat ₹1599 across all sizes. Pocket depth (height_mm) = 330mm = ~13\"."
+}

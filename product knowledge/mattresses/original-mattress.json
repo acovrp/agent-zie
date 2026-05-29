@@ -1,0 +1,40 @@
+{
+  "slug": "original-mattress",
+  "source_url": "https://sleepycat.in/products/original-mattress",
+  "scraped_at": "2026-05-13",
+  "product_name": "Original Mattress",
+  "category": "Mattresses",
+  "sub_category": "Foam Mattress",
+  "description_short": "Made with AirGen™ Memory Foam, the Original Mattress gives you the perfect balance of comfort & support. Not too soft, not too firm, it's just right.",
+  "construction_layers": [
+    {"position": 1, "name": "AirGen™ Memory Foam", "material": "Memory Foam", "foam_type": "Open-cell", "thickness_mm": 25.4, "thickness_inches": 1, "density_kgm3": 50, "ild": 15, "notes": "Adaptive comfort"},
+    {"position": 2, "name": "Aeroflow Transition Foam", "material": "Foam", "foam_type": "Transition Foam", "thickness_mm": 25.4, "thickness_inches": 1, "density_kgm3": 40, "ild": 20, "notes": "Responsive support"},
+    {"position": 3, "name": "Super High Density Foam", "material": "Foam", "foam_type": "High Density Foam", "thickness_mm": 127, "thickness_inches": 5, "density_kgm3": 30, "ild": 30, "notes": "Durable base"}
+  ],
+  "cover_fabric": {"composition": "Hypoallergenic fabric", "weave": "Quilted", "gsm": 200, "removable": true, "washable": true, "wash_instructions": "Machine wash in cold water"},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1830, "width_mm": 914, "height_mm": 152, "weight_kg": 10},
+    {"size_name": "Double", "length_mm": 1830, "width_mm": 1372, "height_mm": 152, "weight_kg": 12},
+    {"size_name": "Queen", "length_mm": 1981, "width_mm": 1524, "height_mm": 152, "weight_kg": 14},
+    {"size_name": "King", "length_mm": 2133, "width_mm": 1981, "height_mm": 152, "weight_kg": 16}
+  ],
+  "firmness": {"rating_1_10": 5, "label": "Medium Feel", "feel_descriptors": ["Balanced comfort", "Supportive", "Adaptive"]},
+  "proprietary_tech": [
+    {"name": "AirGen™ Memory Foam", "description": "Enhanced breathability and heat reduction"}
+  ],
+  "certifications": ["CertiPUR-US", "OEKO-TEX Standard 100"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 10, "weight_capacity_kg": 150},
+  "pricing": [
+    {"size_name": "Single", "mrp": 7399, "selling_price": 5714, "currency": "INR"},
+    {"size_name": "Double", "mrp": 8999, "selling_price": 6799, "currency": "INR"},
+    {"size_name": "Queen", "mrp": 9999, "selling_price": 7699, "currency": "INR"},
+    {"size_name": "King", "mrp": 12999, "selling_price": 9999, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is the AirGen™ Memory Foam?", "answer": "AirGen™ is a 100% open-cell memory foam with enhanced breathability. The open-cell structure keeps air circulating through the foam, reducing heat buildup."},
+    {"question": "What feel is the Original Mattress?", "answer": "Medium feel. The perfect balance between soft and firm."},
+    {"question": "How do I determine which height of the mattress is perfect for me?", "answer": "If you're 60-80 kg, an 8-inch mattress is recommended. For over 80 kg, opt for a 10-inch mattress."},
+    {"question": "How long does the Original take to expand?", "answer": "The Original takes about 48-hours to expand fully."}
+  ],
+  "notes_observed": "Page mentions 6, 8 and 10-inch options. Dimensions extracted are 152mm (6\") only — 8\"/10\" SKUs may have different pricing. FAQ confirms 8\"/10\" exist."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "dual-comfort-pillow",
+  "source_url": "https://sleepycat.in/products/dual-comfort-pillow",
+  "scraped_at": "2026-05-13",
+  "product_name": "Dual Comfort Pillow",
+  "category": "Pillow",
+  "sub_category": "Dual-sided Pillow",
+  "description_short": "This unique reversible pillow is plush on one side and firm on the other adapting to your sleeping position.",
+  "construction_layers": [
+    {"position": 1, "name": "Side A — Memory Foam", "material": "Memory Foam", "foam_type": "Memory Foam", "notes": "Provides contouring support (firm side)."},
+    {"position": 2, "name": "Side B — Marshmallow Foam", "material": "Marshmallow Foam", "foam_type": "Soft Foam", "notes": "Offers plush, airy comfort (soft side)."}
+  ],
+  "cover_fabric": {"composition": "Premium Hypoallergenic Fabric", "weave": "3D mesh for airflow", "removable": true, "washable": true, "wash_instructions": "Machine wash on delicate cycle."},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 635, "width_mm": 387, "height_mm": 127}
+  ],
+  "firmness": {"rating_1_10": 5, "label": "Medium-Soft & Firm (dual)", "feel_descriptors": ["Soft on one side", "Firm on the other side"]},
+  "proprietary_tech": [
+    {"name": "Dual-Side Design", "description": "Memory foam on one side, marshmallow foam on the other — flippable."}
+  ],
+  "certifications": ["Hypoallergenic"],
+  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 2499, "selling_price": 1999, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What makes this pillow stand out?", "answer": "This pillow has two unique flippable sides. It gives you the best of both worlds, offering appropriate head and neck support as well as plush comfort."},
+    {"question": "What are the two fills of the pillow?", "answer": "One side is made of memory foam and the other is made of marshmallow foam for different comfort levels."}
+  ],
+  "notes_observed": "Thickness extracted as 127mm/5\" per layer but that's likely the total — confirm; dual-foam pillow is single physical block split A/B."
+}

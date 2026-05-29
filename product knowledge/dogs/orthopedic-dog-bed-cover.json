@@ -1,0 +1,24 @@
+{
+  "slug": "orthopedic-dog-bed-cover",
+  "source_url": "https://sleepycat.in/products/orthopedic-dog-bed-cover",
+  "scraped_at": "2026-05-13",
+  "product_name": "Dog Bed Cover - Orthopedic",
+  "category": "Dog Bed",
+  "sub_category": "Replacement Cover (Orthopedic)",
+  "description_short": "Shield your dog bed from dirt, pet hair, and everyday wear and tear with this velvet knitted fabric. Offering the extra protective layer crafted with care!",
+  "cover_fabric": {"composition": "Knitted velour fabric with velvet finish (water-resistant)", "removable": true, "washable": true, "wash_instructions": "Machine wash delicate cycle, cold water. No bleach/softeners. Air-dry."},
+  "dimensions_by_size": [
+    {"size_name": "Large", "length_mm": 1219, "width_mm": 610, "for_dog_weight_kg": "15-25"},
+    {"size_name": "Extra Large", "length_mm": 1321, "width_mm": 711, "for_dog_weight_kg": "25-40"}
+  ],
+  "colors_available": ["Mud Red", "Nautic Blue"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 10},
+  "pricing": [
+    {"size_name": "Large", "mrp": 1399, "selling_price": 979, "currency": "INR"},
+    {"size_name": "Extra Large", "mrp": 1499, "selling_price": 979, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "Is the SleepyCat orthopedic dog bed cover water-resistant?", "answer": "Yes, this orthopedic dog bed cover is water-resistant, helping guard against minor spills, drool, and accidents."}
+  ],
+  "notes_observed": "Replacement cover for [[orthopedic-dog-bed]]. Only Large + XL (no Medium) — Medium ortho bed users would use original-style cover sized similarly. Water-resistant differentiates from non-ortho cover."
+}

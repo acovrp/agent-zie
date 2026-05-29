@@ -1,0 +1,28 @@
+{
+  "slug": "duvet-cover",
+  "source_url": "https://sleepycat.in/products/duvet-cover",
+  "scraped_at": "2026-05-13",
+  "product_name": "200 TC Percale Duvet Cover",
+  "category": "Bedding",
+  "sub_category": "Duvet Cover",
+  "description_short": "A soft, comfortable duvet cover made from 100% cotton with a percale weave for breathability.",
+  "cover_fabric": {"composition": "100% Cotton", "weave": "Percale", "thread_count": 200, "gsm": 120, "washable": true, "wash_instructions": "Wash in delicate cycle with cold water and mild detergent. No bleach/softeners. Air-dry.", "closure": "Button closure with 4 corner loops"},
+  "dimensions_by_size": [
+    {"size_name": "Single 90x60in", "length_mm": 2286, "width_mm": 1524},
+    {"size_name": "Double/Queen 90x100in", "length_mm": 2286, "width_mm": 2540}
+  ],
+  "colors_available": ["Purple Panther", "Sailor Stripes", "Overboard Checks", "Dolphin Grey", "Twilight Blue", "Evergreen"],
+  "proprietary_tech": [
+    {"name": "Corner Loops", "description": "4 corner loops for tying duvet in place."}
+  ],
+  "certifications": ["OEKO-Tex Certified", "Colored with AZO-free dyes"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Single", "mrp": 2089, "selling_price": 1671, "currency": "INR"},
+    {"size_name": "Double/Queen", "mrp": 2089, "selling_price": 1671, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is the thread count of the duvet cover?", "answer": "The duvet cover has a thread count of 200."}
+  ],
+  "notes_observed": "Same 6 colors as percale fitted bedsheet — matching set. Note: schema reported dims in cm (228.6/152.4) — corrected to mm here."
+}

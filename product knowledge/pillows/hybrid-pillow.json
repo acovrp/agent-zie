@@ -1,0 +1,31 @@
+{
+  "slug": "hybrid-pillow",
+  "source_url": "https://sleepycat.in/products/hybrid-pillow",
+  "scraped_at": "2026-05-13",
+  "product_name": "Hybrid Pillow",
+  "category": "Pillow",
+  "sub_category": "Hybrid Pillow",
+  "description_short": "Soft luxury meets firm support! A pillow that stays evenly filled and doesn't shed lint, now with memory foam and high-density foam inserts to customize height and firmness.",
+  "construction_layers": [
+    {"position": 1, "name": "Microfiber Fill", "material": "100% Virgin Microfiber", "foam_type": "Fiber Fill", "notes": "Doesn't get lumpy. Base fill of the pillow."},
+    {"position": 2, "name": "Memory Foam Insert (removable)", "material": "Memory Foam", "foam_type": "Memory Foam", "notes": "Customizable height and firmness — can be removed."},
+    {"position": 3, "name": "High Density Foam Insert (removable)", "material": "High Density Foam", "foam_type": "High Density Foam", "notes": "Adds extra support — can be removed."}
+  ],
+  "cover_fabric": {"composition": "250 TC Luxe Modal Fabric", "weave": "Modal", "removable": true, "washable": true, "wash_instructions": "Unzip, remove both inserts, then wash pillow. Cold water with mild detergents."},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 660, "width_mm": 406, "height_mm": 127}
+  ],
+  "firmness": {"rating_1_10": 6, "label": "Medium Soft", "feel_descriptors": ["Soft", "Supportive", "Balanced"]},
+  "proprietary_tech": [
+    {"name": "Removable Foam Inserts", "description": "Memory foam + HD foam inserts can be added/removed to customize height and firmness."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 1999, "selling_price": 1799, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "How do I wash the Hybrid Pillow?", "answer": "Caring for the Hybrid Pillow is incredibly easy. Simply unzip, remove both the inserts, and then throw the rest of the pillow for a wash."},
+    {"question": "Can the hybrid pillow be used with or without the memory foam and High Density foam inserts?", "answer": "Yes, it can be used with or without the inserts."}
+  ]
+}

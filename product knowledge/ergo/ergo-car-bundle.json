@@ -1,0 +1,25 @@
+{
+  "slug": "ergo-car-bundle",
+  "source_url": "https://sleepycat.in/products/ergo-car-bundle",
+  "scraped_at": "2026-05-13",
+  "product_name": "Pro Car Bundle",
+  "category": "Ergo",
+  "sub_category": "Bundle (Car — 3-piece)",
+  "description_short": "A three-piece ergonomic system for your car, designed to keep your body aligned and comfortable during every drive.",
+  "bundle_components": ["Pro Neck Pillow", "Pro Back Cushion", "Pro Seat Cushion"],
+  "dimensions_by_size": [
+    {"size_name": "Standard", "weight_kg": 2.5}
+  ],
+  "proprietary_tech": [
+    {"name": "Anti-Skid Base", "description": "Cushions stay secure."},
+    {"name": "Adjustable Straps", "description": "Provides additional stability."}
+  ],
+  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Standard Bundle", "mrp": 5737, "selling_price": 3442, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is included in the SleepyCat Ergo Car Bundle?", "answer": "The bundle includes Car Neck Cushion, Car Back Cushion, Car Seat Cushion, designed to provide complete comfort and ergonomic support while driving."}
+  ],
+  "notes_observed": "URL slug = ergo-car-bundle, product name = Pro Car Bundle (rebrand). 3-piece bundle (neck+back+seat) at ₹3442 vs Ergo Chair Bundle (2-piece) at ₹3448. Same components likely just different naming."
+}

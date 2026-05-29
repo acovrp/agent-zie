@@ -1,0 +1,28 @@
+{
+  "slug": "katachi-bed",
+  "source_url": "https://sleepycat.in/products/katachi-bed",
+  "scraped_at": "2026-05-13",
+  "product_name": "Katachi Bed",
+  "category": "Furniture",
+  "sub_category": "Wooden Bed (Japandi)",
+  "description_short": "This sleek and sturdy Mango wood bed with a plush headboard is the perfect blend of aesthetics, comfort, and durability.",
+  "features": ["Termite-Resistant Mango Wood", "Hand tufted Molfino fabric headboard", "Japandi Design"],
+  "frame_material": "Solid Mango Wood",
+  "headboard_material": "Molfino Fabric",
+  "storage_type": "None",
+  "dimensions_by_size": [
+    {"size_name": "Double", "length_mm": 1829, "width_mm": 1219, "height_mm": 406, "weight_kg": 69, "mattress_fits": "72 x 48 inches"},
+    {"size_name": "Queen", "length_mm": 2134, "width_mm": 1571, "height_mm": 406, "weight_kg": 78, "mattress_fits": "72 x 72 inches"},
+    {"size_name": "King", "length_mm": 2134, "width_mm": 1930, "height_mm": 406, "weight_kg": 88, "mattress_fits": "78 x 72 inches"}
+  ],
+  "colors_available": ["Brown", "Natural"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 2, "weight_capacity_kg": 420},
+  "pricing": [
+    {"size_name": "Double", "mrp": 28999, "selling_price": 24649, "currency": "INR"},
+    {"size_name": "Queen", "mrp": 28999, "selling_price": 24649, "currency": "INR"},
+    {"size_name": "King", "mrp": 28999, "selling_price": 24649, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What are the benefits of mango wood?", "answer": "Mango wood offers multiple premium benefits: exceptional durability, natural resistance to water and termites, beautiful grain patterns, and eco-friendly sustainability."}
+  ]
+}

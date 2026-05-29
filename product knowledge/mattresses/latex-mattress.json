@@ -1,0 +1,41 @@
+{
+  "slug": "latex-mattress",
+  "source_url": "https://sleepycat.in/products/latex-mattress",
+  "scraped_at": "2026-05-13",
+  "scrape_method": "raw markdown salvage (not JSON schema — see notes)",
+  "product_name": "Hybrid Latex Mattress",
+  "category": "Mattresses",
+  "sub_category": "Hybrid Latex Mattress",
+  "description_short": "Built with Pinhole Tech Latex & AirGen™ Memory Foam, this mattress gives 5-zone body support & promotes overnight recovery.",
+  "construction_layers": [
+    {"position": 1, "name": "Pinhole Tech Latex", "material": "Latex", "foam_type": "Natural Latex (pinhole tech)", "thickness_mm": 25.4, "thickness_inches": 1, "notes": "Tiny pinholes keep air flowing."},
+    {"position": 2, "name": "AirGen™ Memory Foam", "material": "Memory Foam", "foam_type": "AirGen Open-Cell Memory Foam", "thickness_mm": 25.4, "thickness_inches": 1, "notes": "Adaptive support, cushions pressure spots."},
+    {"position": 3, "name": "High Density Foam", "material": "Foam", "foam_type": "HD Base Foam", "thickness_mm": 101.6, "thickness_inches": 4, "notes": "Base support. 4-6 inches depending on total height SKU (6\"/8\")."}
+  ],
+  "cover_fabric": {"composition": "Premium Hypoallergenic Fabric", "weave": "Ezie Zipper Cover", "removable": true, "washable": true},
+  "dimensions_by_size": [
+    {"size_name": "Single 6'x2'6\" 6in", "length_mm": 1828.8, "width_mm": 762, "height_mm": 152.4},
+    {"size_name": "Single 6'x3' 6in", "length_mm": 1828.8, "width_mm": 914.4, "height_mm": 152.4},
+    {"size_name": "Single 6'3\"x3' 6in", "length_mm": 1905, "width_mm": 914.4, "height_mm": 152.4},
+    {"size_name": "Double 6'x4' 6in", "length_mm": 1828.8, "width_mm": 1219.2, "height_mm": 152.4},
+    {"size_name": "Queen 6'x5' 6in", "length_mm": 1828.8, "width_mm": 1524, "height_mm": 152.4},
+    {"size_name": "King 6'x6' 6in", "length_mm": 1828.8, "width_mm": 1828.8, "height_mm": 152.4},
+    {"size_name": "Single 8in (variants exist)", "height_mm": 203.2, "notes": "Available across same widths as 6in SKUs"}
+  ],
+  "firmness": {"rating_1_10": 8, "label": "Firm", "feel_descriptors": ["Firm Feel", "Orthopedic Support", "Pressure Relief"]},
+  "proprietary_tech": [
+    {"name": "Pinhole Tech Latex", "description": "Latex with pinholes for breathability."},
+    {"name": "AirGen™ Memory Foam", "description": "Open-cell memory foam for cooling."},
+    {"name": "5-Zone Body Support", "description": "Targeted support across 5 body zones."}
+  ],
+  "certifications": ["Hypoallergenic"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 10},
+  "pricing": [
+    {"size_name": "Starting price (Single 6in)", "mrp": 11499, "selling_price": 9199, "currency": "INR", "notes": "From compare page also reported ₹8799 starting — pricing fluctuates by promotion."}
+  ],
+  "faq_specs": [
+    {"question": "How to select height?", "answer": "Under 60kg sleeper weight: 6-inch mattress. 60-80kg: 8-inch. Above 80kg: 10-inch (10\" not standard on this SKU)."},
+    {"question": "Where should I place the mattress?", "answer": "Make sure the mattress is placed on a solid foundation to prevent uneven weight distribution."}
+  ],
+  "notes_observed": "Salvaged from earlier session's raw markdown dump (58KB). Density/ILD values not in raw; sized variants extracted from listing table but full price grid not available without variant select. Use compare-mattresses.json + product page as cross-reference."
+}

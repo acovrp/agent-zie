@@ -1,0 +1,37 @@
+{
+  "slug": "the-latex-ortho-mattress",
+  "source_url": "https://sleepycat.in/products/the-latex-ortho-mattress",
+  "scraped_at": "2026-05-13",
+  "product_name": "The Latex Ortho",
+  "category": "Mattresses",
+  "sub_category": "Latex Mattresses",
+  "description_short": "Firm orthopedic mattress designed to support proper spinal alignment with breathable Pinhole Tech Latex and Aeroflow Transition Foam.",
+  "construction_layers": [
+    {"position": 1, "name": "Pinhole Tech Latex Foam", "material": "Latex", "foam_type": "Latex foam", "thickness_mm": 25.4, "thickness_inches": 1, "density_kgm3": 70, "ild": 30, "notes": "Provides firm and responsive support."},
+    {"position": 2, "name": "Aeroflow Transition Foam", "material": "Foam", "foam_type": "Transition foam", "thickness_mm": 25.4, "thickness_inches": 1, "density_kgm3": 30, "ild": 20, "notes": "Adds breathability and comfort."},
+    {"position": 3, "name": "High Density Foam", "material": "Foam", "foam_type": "Base foam", "thickness_mm": 127, "thickness_inches": 5, "density_kgm3": 35, "ild": 40, "notes": "Provides structural firmness."}
+  ],
+  "cover_fabric": {"composition": "Hypoallergenic fabric", "weave": "Zipper cover", "removable": true, "washable": true, "wash_instructions": "Machine washable."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1828, "width_mm": 762, "height_mm": 152, "weight_kg": 9.07},
+    {"size_name": "Double", "length_mm": 1828, "width_mm": 1219, "height_mm": 152, "weight_kg": 11.34}
+  ],
+  "firmness": {"rating_1_10": 9, "label": "Very Firm", "feel_descriptors": ["Orthopedic support", "Responsive", "Firm"]},
+  "proprietary_tech": [
+    {"name": "Pinhole Tech Latex", "description": "Allows constant airflow, preventing heat and moisture buildup."},
+    {"name": "Aeroflow Transition Foam", "description": "Enhances breathability and responsiveness."}
+  ],
+  "certifications": ["Hypoallergenic", "GOLS Certified for Latex"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 10, "weight_capacity_kg": 250},
+  "pricing": [
+    {"size_name": "Single", "mrp": 10499, "selling_price": 6929, "currency": "INR"},
+    {"size_name": "Double", "mrp": 12999, "selling_price": 8999, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "Is latex good for back pain?", "answer": "Yes. Latex is naturally firm and responsive, which helps maintain proper spinal alignment."},
+    {"question": "What is the height of the Latex Ortho mattress?", "answer": "Available in heights of 152 mm (6 inches), 203 mm (8 inches)."},
+    {"question": "What materials are used in the construction of this mattress?", "answer": "The mattress consists of Pinhole Tech Latex, Aeroflow Transition Foam, and High Density Foam."},
+    {"question": "What is the warranty period of this mattress?", "answer": "The mattress comes with a 10-year warranty."}
+  ],
+  "notes_observed": "FAQ mentions 6\" and 8\" height options but dimensions_by_size on page only showed 152mm (6\"). 8\" SKU may exist as variant — confirm in compare page."
+}

@@ -1,0 +1,20 @@
+{
+  "Ultima": {
+    "tech": "AirGen™ Memory Foam",
+    "benefit": "Advanced cooling and pressure relief",
+    "firmness": "Medium Soft",
+    "target": "Hot sleepers and luxury seekers"
+  },
+  "Original": {
+    "tech": "Open Cell Memory Foam",
+    "benefit": "Balanced support and breathability",
+    "firmness": "Medium",
+    "target": "All-around sleepers"
+  },
+  "Ortho": {
+    "tech": "5-Zone Orthopedic Support",
+    "benefit": "Spinal alignment and back pain relief",
+    "firmness": "Firm",
+    "target": "Back pain sufferers"
+  }
+}

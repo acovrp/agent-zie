@@ -1,0 +1,36 @@
+{
+  "slug": "memory-foam-mattress-topper",
+  "source_url": "https://sleepycat.in/products/memory-foam-mattress-topper",
+  "scraped_at": "2026-05-13",
+  "product_name": "Memory Foam Mattress Topper",
+  "category": "Mattress Topper",
+  "sub_category": "Memory Foam Topper",
+  "description_short": "Designed to add comfort and support to your existing mattress - so you can ease discomfort without replacing it.",
+  "construction_layers": [
+    {"position": 1, "name": "AirGen™ Memory Foam", "material": "Memory Foam", "foam_type": "Memory Foam", "thickness_mm": 51, "thickness_inches": 2, "notes": "Adaptive support, soft feel."}
+  ],
+  "cover_fabric": {"removable": true, "washable": true, "wash_instructions": "Machine wash on delicate cycle with cold water."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1829, "width_mm": 914, "height_mm": 51},
+    {"size_name": "Double", "length_mm": 1880, "width_mm": 1372, "height_mm": 51},
+    {"size_name": "Queen", "length_mm": 1981, "width_mm": 1524, "height_mm": 51},
+    {"size_name": "King", "length_mm": 2032, "width_mm": 1829, "height_mm": 51},
+    {"size_name": "Custom Size", "height_mm": 51, "notes": "Build-to-spec dimensions available"}
+  ],
+  "firmness": {"rating_1_10": 6, "label": "Medium Soft", "feel_descriptors": ["Soft", "Supportive", "Comfortable"]},
+  "proprietary_tech": [
+    {"name": "AirGen™", "description": "Memory Foam for adaptive comfort."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Single", "mrp": 4499, "selling_price": 3149, "currency": "INR"},
+    {"size_name": "Double", "mrp": 4999, "selling_price": 3499, "currency": "INR"},
+    {"size_name": "Queen", "mrp": 5499, "selling_price": 3799, "currency": "INR"},
+    {"size_name": "King", "mrp": 5999, "selling_price": 4099, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What's the best thickness for a mattress topper?", "answer": "The best thickness for a mattress topper usually ranges between 2 to 4 inches. Thinner toppers (2 inches) are great for slight comfort upgrades, while thicker ones (3-4 inches) provide deeper cushioning and support."},
+    {"question": "How do I choose the right mattress topper?", "answer": "To choose the right mattress topper, consider your mattress type and what it lacks - too firm, uneven, or lacking support."}
+  ]
+}

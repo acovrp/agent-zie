@@ -1,0 +1,35 @@
+{
+  "slug": "aeroflow-foam-mattress-topper",
+  "source_url": "https://sleepycat.in/products/aeroflow-foam-mattress-topper",
+  "scraped_at": "2026-05-13",
+  "product_name": "Aeroflow Foam Topper",
+  "category": "Mattress Topper",
+  "sub_category": "Aeroflow Foam Topper",
+  "description_short": "Add breathable, cooling comfort and responsive support to your old mattress with the SleepyCat Aeroflow Foam Topper - no replacement needed.",
+  "construction_layers": [
+    {"position": 1, "name": "Aeroflow Foam", "material": "Foam", "foam_type": "Aeroflow / Airflow Foam", "thickness_mm": 51, "thickness_inches": 2, "notes": "Breathable, cooling comfort with ventilation channels."}
+  ],
+  "cover_fabric": {"composition": "Polyester", "weave": "Knitted", "removable": true, "washable": true, "wash_instructions": "Machine wash on delicate cycle with cold water and mild detergent."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1829, "width_mm": 914, "height_mm": 51},
+    {"size_name": "Double", "length_mm": 1830, "width_mm": 1371, "height_mm": 51},
+    {"size_name": "Queen", "length_mm": 1981, "width_mm": 1524, "height_mm": 51},
+    {"size_name": "King", "length_mm": 1981, "width_mm": 1830, "height_mm": 51},
+    {"size_name": "Custom Size", "height_mm": 51, "notes": "Build-to-spec, non-returnable"}
+  ],
+  "firmness": {"rating_1_10": 4, "label": "Soft", "feel_descriptors": ["Soft Feel", "Cooling", "Breathable"]},
+  "proprietary_tech": [
+    {"name": "Aeroflow Transition Foam", "description": "Enhances breathability and minimizes moisture buildup."},
+    {"name": "Ventilation Channels", "description": "Allows air to circulate freely to reduce heat and moisture."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Single", "mrp": 3959, "selling_price": 3365, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is the feel of the Aeroflow mattress topper?", "answer": "The Aeroflow mattress topper has a soft feel, providing cooling comfort and breathable support."},
+    {"question": "What should I do if I choose a custom size?", "answer": "Custom size mattresses are made to order and are non-returnable."},
+    {"question": "How long does it take for the topper to regain its shape after unboxing?", "answer": "Allow 24-48 hours for the topper to fully regain its shape."}
+  ]
+}

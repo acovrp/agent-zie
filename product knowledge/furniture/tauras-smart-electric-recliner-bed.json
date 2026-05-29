@@ -1,0 +1,39 @@
+{
+  "slug": "tauras-smart-electric-recliner-bed",
+  "source_url": "https://sleepycat.in/products/tauras-smart-electric-recliner-bed",
+  "scraped_at": "2026-05-13",
+  "product_name": "Taurus Smart Recliner Bed With Headboard",
+  "category": "Furniture",
+  "sub_category": "Electric Recliner Bed",
+  "description_short": "Experience intelligent sleep with customisable positions, one-touch presets, and premium comfort features in this advanced electric bed.",
+  "features": [
+    "Wireless Remote Control",
+    "Zero Gravity Tech",
+    "Anti-Snore Mode",
+    "Reading Mode",
+    "Adjustable head and foot positions",
+    "Quiet motor",
+    "Memory presets"
+  ],
+  "frame_material": "High-quality steel with black powder coating",
+  "headboard_material": "Hand tufted Molfino fabric",
+  "motor_type": "Electric",
+  "recliner_positions": "Zero Gravity, Anti-Snore, Reading, Custom",
+  "usb_ports": 2,
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1981, "width_mm": 914, "height_mm": 279, "weight_kg": 41, "mattress_fits": "78 x 36 inches"},
+    {"size_name": "Queen", "length_mm": 1981, "width_mm": 1524, "height_mm": 279, "weight_kg": 56, "mattress_fits": "78 x 60 inches"},
+    {"size_name": "King", "length_mm": 1981, "width_mm": 1829, "height_mm": 279, "weight_kg": 70, "mattress_fits": "78 x 72 inches"}
+  ],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 5, "weight_capacity_kg": 300},
+  "pricing": [
+    {"size_name": "Single", "mrp": 84999, "selling_price": 72249, "currency": "INR"},
+    {"size_name": "Queen", "mrp": 84999, "selling_price": 72249, "currency": "INR"},
+    {"size_name": "King", "mrp": 84999, "selling_price": 72249, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "Does the bed come with pre-set positions?", "answer": "Yes, pre-set positions like zero-gravity and anti-snore are available."},
+    {"question": "What is the weight capacity of the bed?", "answer": "The bed can support up to 300 kg, depending on the size."}
+  ],
+  "notes_observed": "Most expensive product in the catalog. Includes 2 USB ports + zero-gravity + anti-snore. Note: og:price showed ₹55,249 but schema returned ₹72,249 — possibly base/current price differ from variant pricing."
+}

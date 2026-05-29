@@ -1,0 +1,29 @@
+{
+  "slug": "contour-natural-latex-pillow",
+  "source_url": "https://sleepycat.in/products/contour-natural-latex-pillow",
+  "scraped_at": "2026-05-13",
+  "product_name": "Contour Natural Latex Pillow",
+  "category": "Pillow",
+  "sub_category": "Natural Latex Pillow / Cervical Contour",
+  "description_short": "GOLS certified 100% Natural Latex Contour Pillow with dual heights for personalized comfort, hypoallergenic and breathable.",
+  "construction_layers": [
+    {"position": 1, "name": "Latex Foam", "material": "Natural Latex", "foam_type": "Natural Latex", "thickness_mm": 100, "thickness_inches": 3.9, "density_kgm3": 60, "ild": 20, "notes": "GOLS certified 100% natural latex. Cervical contour shape."}
+  ],
+  "cover_fabric": {"composition": "Premium Hypoallergenic Fabric", "weave": "Mesh sides", "removable": true, "washable": true, "wash_instructions": "Machine wash on delicate cycle with cold water."},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 609, "width_mm": 406, "height_mm": 100, "weight_kg": 0.5}
+  ],
+  "firmness": {"rating_1_10": 5, "label": "Medium Soft", "feel_descriptors": ["Medium Soft", "Breathable", "Hypoallergenic"]},
+  "proprietary_tech": [
+    {"name": "Dual Height Design", "description": "Higher loft for side sleepers, lower loft for back sleepers."}
+  ],
+  "certifications": ["GOLS Certified"],
+  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 2589, "selling_price": 2299, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "How do these pillows provide targeted support?", "answer": "SleepyCat's Contour Latex Pillow has dual height options i.e. it has unique curves that aligns with the natural curvature of your spine, alleviating pressure points."},
+    {"question": "What is the lifespan of this pillow?", "answer": "Natural Latex Pillows are highly durable and can last for about 7-10 years."}
+  ]
+}

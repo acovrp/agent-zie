@@ -1,0 +1,31 @@
+{
+  "slug": "ohayo-bed",
+  "source_url": "https://sleepycat.in/products/ohayo-bed",
+  "scraped_at": "2026-05-13",
+  "product_name": "Ohayo Bed",
+  "category": "Furniture",
+  "sub_category": "Wooden Bed",
+  "description_short": "A 100% Solid Mango Wood Bed — durable and withstands whatever pressure you put on it.",
+  "features": ["100% Mango Solid Wood", "Termite Resistant", "Heavy-Duty Build", "No Creaking", "Complimentary installation"],
+  "frame_material": "Mango Hardwood",
+  "headboard_material": "Mango Solidwood",
+  "storage_type": "Under Bed Storage Clearance",
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1981, "width_mm": 914, "height_mm": 889, "weight_kg": 68.7, "mattress_fits": "78 x 36 inches"},
+    {"size_name": "Double", "length_mm": 1981, "width_mm": 1295, "height_mm": 889, "weight_kg": 73.8, "mattress_fits": "78 x 48 inches"},
+    {"size_name": "Queen", "length_mm": 1876, "width_mm": 1600, "height_mm": 889, "weight_kg": 71.9, "mattress_fits": "75 x 60 inches"},
+    {"size_name": "King", "length_mm": 1981, "width_mm": 1905, "height_mm": 889, "weight_kg": 81.1, "mattress_fits": "78 x 72 inches"}
+  ],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 2, "weight_capacity_kg": 420},
+  "pricing": [
+    {"size_name": "Single", "mrp": 21999, "selling_price": 18699, "currency": "INR"},
+    {"size_name": "Double", "mrp": 21999, "selling_price": 18699, "currency": "INR"},
+    {"size_name": "Queen", "mrp": 21999, "selling_price": 18699, "currency": "INR"},
+    {"size_name": "King", "mrp": 21999, "selling_price": 18699, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "How much weight can the Ohayo Bed handle?", "answer": "The Ohayo bed can withstand over 420kg of weight."},
+    {"question": "How to assemble the Ohayo Bed?", "answer": "You receive complimentary bed installation with your purchase or can use the provided instruction manual for easy assembly."}
+  ],
+  "notes_observed": "All-wood (no fabric headboard) vs [[katachi-bed]] which has Molfino headboard. Cheaper (₹18.7k vs ₹24.6k)."
+}

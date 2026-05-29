@@ -1,0 +1,38 @@
+{
+  "slug": "mattress-protector",
+  "source_url": "https://sleepycat.in/products/mattress-protector",
+  "scraped_at": "2026-05-13",
+  "product_name": "Mattress Protector",
+  "category": "Mattress Protector",
+  "sub_category": "Waterproof Protector",
+  "description_short": "Waterproof mattress protector to save your mattress from dust, food and liquid stains.",
+  "construction_layers": [
+    {"position": 1, "name": "Outer Layer", "material": "100% Polyester", "notes": "Soft and breathable fabric."},
+    {"position": 2, "name": "Waterproof Layer", "material": "TPU", "notes": "Waterproof layer prevents liquids from seeping into the mattress."}
+  ],
+  "cover_fabric": {"composition": "100% Polyester", "removable": true, "washable": true, "wash_instructions": "Machine washable, delicate cycle, cold water."},
+  "dimensions_by_size": [
+    {"size_name": "Single 72x36", "length_mm": 1828.8, "width_mm": 914.4},
+    {"size_name": "Double 75x48", "length_mm": 1905, "width_mm": 1219.2},
+    {"size_name": "Queen 78x60", "length_mm": 1981.2, "width_mm": 1524},
+    {"size_name": "King 84x72", "length_mm": 2133.6, "width_mm": 1828.8}
+  ],
+  "firmness": {},
+  "proprietary_tech": [
+    {"name": "Waterproof Protection Layer", "description": "Prevents liquids from seeping into the mattress."},
+    {"name": "Fitted-Sheet Style", "description": "Fits mattresses up to 10 inches in height."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 10},
+  "pricing": [
+    {"size_name": "Single 72x36", "mrp": 789, "selling_price": 710, "currency": "INR"},
+    {"size_name": "Double 75x48", "mrp": 789, "selling_price": 710, "currency": "INR"},
+    {"size_name": "Queen 78x60", "mrp": 789, "selling_price": 710, "currency": "INR"},
+    {"size_name": "King 84x72", "mrp": 789, "selling_price": 710, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "Will it fit my mattress properly?", "answer": "It is designed to fit mattresses up to 10 inches in height, ensuring a snug and secure fit without bunching."},
+    {"question": "Will it feel uncomfortable or plastic-like?", "answer": "No, the top fabric is soft and breathable, designed to feel like a regular bedsheet while the waterproof layer sits underneath."}
+  ],
+  "notes_observed": "Flat pricing across all sizes (₹710). 10-year warranty (longest in lineup)."
+}

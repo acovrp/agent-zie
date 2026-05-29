@@ -1,0 +1,36 @@
+{
+  "slug": "mattress-cover",
+  "source_url": "https://sleepycat.in/products/mattress-cover",
+  "scraped_at": "2026-05-13",
+  "product_name": "Mattress Cover",
+  "category": "Mattress Cover",
+  "sub_category": "Zipper Cover (replacement)",
+  "description_short": "Protect your mattress with our comfortable and removable zipper cover, making it easy to clean and maintain freshness.",
+  "construction_layers": [
+    {"position": 1, "name": "Zipper Cover", "material": "Cotton and polyester blend", "notes": "Removable and machine washable Ezie Zipper Cover."}
+  ],
+  "cover_fabric": {"composition": "Cotton and polyester blend", "weave": "Plain", "gsm": 200, "removable": true, "washable": true, "wash_instructions": "Machine wash in cold water, tumble dry on low."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1829, "width_mm": 914, "height_mm": 152, "weight_kg": 1.5},
+    {"size_name": "Double", "length_mm": 1880, "width_mm": 1372, "height_mm": 152, "weight_kg": 2},
+    {"size_name": "Queen", "length_mm": 2032, "width_mm": 1524, "height_mm": 203, "weight_kg": 2.5},
+    {"size_name": "King", "length_mm": 2134, "width_mm": 1829, "height_mm": 203, "weight_kg": 3}
+  ],
+  "firmness": {"feel_descriptors": ["Soft", "Breathable", "Comfortable"]},
+  "proprietary_tech": [
+    {"name": "CoolTEC™", "description": "Provides cooling sensation on contact, enhancing sleep comfort."}
+  ],
+  "certifications": ["OEKO-TEX Standard 100"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 5, "weight_capacity_kg": 300},
+  "pricing": [
+    {"size_name": "Single", "mrp": 3999, "selling_price": 3399, "currency": "INR"},
+    {"size_name": "Double", "mrp": 4499, "selling_price": 3799, "currency": "INR"},
+    {"size_name": "Queen", "mrp": 4999, "selling_price": 4199, "currency": "INR"},
+    {"size_name": "King", "mrp": 5499, "selling_price": 4699, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "Is the cover removable?", "answer": "Yes, the zipper cover is removable and machine washable."},
+    {"question": "What sizes are available?", "answer": "Available in Single, Double, Queen, and King sizes."}
+  ],
+  "notes_observed": "Replacement zipper cover for the mattress itself (not a protector/topper). Sized to fit 6\"-8\" mattresses depending on SKU."
+}

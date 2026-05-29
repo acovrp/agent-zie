@@ -1,0 +1,27 @@
+{
+  "slug": "percale-pillow-cases-king",
+  "source_url": "https://sleepycat.in/products/percale-pillow-cases-king",
+  "scraped_at": "2026-05-13",
+  "product_name": "200 TC Percale Pillow Cases",
+  "category": "Bedding",
+  "sub_category": "Pillow Case",
+  "description_short": "Soft pillow cases made of 100% cotton that protect your pillows from dust & dirt. Add a touch of warmth to your bedroom with our range of cozy pillow covers.",
+  "cover_fabric": {"composition": "100% Cotton", "weave": "Percale", "thread_count": 200, "washable": true, "wash_instructions": "Machine wash delicate cycle, cold water, mild detergent. No bleach/softeners. Air-dry."},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 711, "width_mm": 457, "pieces": 2},
+    {"size_name": "King", "length_mm": 813, "width_mm": 508, "pieces": 2},
+    {"size_name": "Cuddle (Body Pillow)", "length_mm": 1321, "width_mm": 508, "pieces": 1}
+  ],
+  "colors_available": ["Sailor Stripes", "Overboard Checks", "Purple Panther", "Dolphin Grey", "Twilight Blue", "Evergreen"],
+  "certifications": [],
+  "trial_warranty": {"warranty_years": 1},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 699, "selling_price": 664, "currency": "INR"},
+    {"size_name": "King", "mrp": 699, "selling_price": 664, "currency": "INR"},
+    {"size_name": "Cuddle", "mrp": 699, "selling_price": 664, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What sizes are available?", "answer": "Available in King, Standard, and Cuddle sizes."}
+  ],
+  "notes_observed": "URL says 'king' but page covers Standard/King/Cuddle. Same colorway as percale bedsheet — matching set."
+}

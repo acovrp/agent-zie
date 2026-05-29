@@ -1,0 +1,28 @@
+{
+  "slug": "natural-latex-pillow",
+  "source_url": "https://sleepycat.in/products/natural-latex-pillow",
+  "scraped_at": "2026-05-13",
+  "product_name": "Natural Latex Pillow",
+  "category": "Pillow",
+  "sub_category": "Natural Latex Pillow",
+  "description_short": "100% Organic Latex pillow with GOLS certification, naturally cooling, hypoallergenic, and provides bouncy, responsive support.",
+  "construction_layers": [
+    {"position": 1, "name": "Pillow Fill", "material": "GOLS Certified 100% Natural Latex Foam", "foam_type": "Natural Latex", "thickness_mm": 102, "thickness_inches": 4, "density_kgm3": 60, "ild": 19}
+  ],
+  "cover_fabric": {"composition": "Premium Hypoallergenic Fabric With Mesh Sides", "removable": true, "washable": true, "wash_instructions": "Machine washable cover"},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 610, "width_mm": 406, "height_mm": 102, "weight_kg": 0.5}
+  ],
+  "firmness": {"rating_1_10": 6, "label": "Medium-Soft", "feel_descriptors": ["medium soft", "responsive", "bouncy"]},
+  "proprietary_tech": [],
+  "certifications": ["GOLS Certified"],
+  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 2589, "selling_price": 2199, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is the lifespan of this pillow?", "answer": "Natural Latex Pillows are highly durable and can last for about 7-10 years."},
+    {"question": "Is this pillow GOLS-certified?", "answer": "Yes, our Standard Latex Pillow is GOLS-certified."},
+    {"question": "Is Organic Latex Pillow Good?", "answer": "Yes, Organic Latex Pillow is good to sleep on and is actually a healthier option."}
+  ]
+}

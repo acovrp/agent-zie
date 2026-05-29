@@ -1,0 +1,31 @@
+{
+  "slug": "weighted-blanket",
+  "source_url": "https://sleepycat.in/products/weighted-blanket",
+  "scraped_at": "2026-05-13",
+  "product_name": "Weighted Blanket",
+  "category": "Bedding",
+  "sub_category": "Weighted Blanket",
+  "description_short": "Reduce stress, relieve anxiety and relax deeply with our weighted blanket. Filled with glass microbeads this feel-good blanket will have you snoozing peacefully in no time.",
+  "construction_layers": [
+    {"position": 1, "name": "Blanket Cover", "material": "Micro Peached Fabric (Cotton Sateen mentioned in FAQ)", "notes": "Super soft & comfortable."},
+    {"position": 2, "name": "Blanket Fill", "material": "High Density Glass Beads (shatterproof)", "notes": "Provides deep pressure therapy."}
+  ],
+  "cover_fabric": {"composition": "Micro Peached Fabric / Cotton Sateen", "washable": false, "wash_instructions": "Not machine washable. Spot clean with damp cloth."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1905, "width_mm": 1270, "weight_kg": 4}
+  ],
+  "colors_available": ["Midnight Blue", "Charcoal Grey", "Blush Nude"],
+  "proprietary_tech": [
+    {"name": "Deep Pressure Therapy", "description": "Glass bead weight reduces stress and anxiety."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Single", "mrp": 5489, "selling_price": 4666, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "Are glass beads safe? What if they break?", "answer": "The premium high density glass beads that we use are completely safe. They're made to be shatterproof."},
+    {"question": "Can I wash the Weighted Blanket?", "answer": "The fill of the Weighted Blanket is why the Weighted Blanket is not machine washable. In case of any spills, just use a damp cloth and wipe it off gently."}
+  ],
+  "notes_observed": "Only Single size; 4kg weight. Not washable (key constraint). Therapeutic positioning — pairs with [[pregnancy-body-pillow]] in stress-relief category."
+}

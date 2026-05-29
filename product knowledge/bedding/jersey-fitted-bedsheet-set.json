@@ -1,0 +1,33 @@
+{
+  "slug": "jersey-fitted-bedsheet-set",
+  "source_url": "https://sleepycat.in/products/jersey-fitted-bedsheet-set",
+  "scraped_at": "2026-05-13",
+  "product_name": "Jersey Fitted Sheets",
+  "category": "Bedding",
+  "sub_category": "Fitted Bedsheet",
+  "description_short": "Soft as your favourite T-shirt! Get the softest feel with its knit fabric that does not wrinkle & stays snug with its elastic edges.",
+  "cover_fabric": {"composition": "Knitted Jersey Fabric (T-shirt knit)", "weave": "Knit (jersey)", "gsm": 140, "washable": true, "wash_instructions": "Machine wash cold with colors. No bleach or fabric softeners. Low-heat tumble dry or air dry."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1828, "width_mm": 914, "pillowcase_count": 1},
+    {"size_name": "Double", "pillowcase_count": 1},
+    {"size_name": "Queen", "pillowcase_count": 2},
+    {"size_name": "King", "pillowcase_count": 2}
+  ],
+  "colors_available": ["Bluewave Stripe", "Midnight Blue", "Zebra Stripes", "Walnut Brown"],
+  "proprietary_tech": [
+    {"name": "Elastic Edges", "description": "Knit fabric stretches to grip mattress."}
+  ],
+  "certifications": ["Oeko-Tex certified"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Single", "mrp": 1389, "selling_price": 1181, "currency": "INR"},
+    {"size_name": "Double", "mrp": 1389, "selling_price": 1181, "currency": "INR"},
+    {"size_name": "Queen", "mrp": 1389, "selling_price": 1181, "currency": "INR"},
+    {"size_name": "King", "mrp": 1389, "selling_price": 1181, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What are jersey bed sheets?", "answer": "Jersey bed sheets are made from a knit fabric, akin to T-shirt material. The result is a stretchy, soft, and breathable sheet."},
+    {"question": "Are jersey sheets suitable for all seasons?", "answer": "Jersey sheets are versatile, offering comfort in warmer months with breathability and warmth in cooler weather due to their insulating properties."}
+  ],
+  "notes_observed": "Page only fully extracted Single dimensions — Double/Queen/King not visible without variant select. Knit doesn't have thread count (TC=0)."
+}

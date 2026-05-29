@@ -1,0 +1,33 @@
+{
+  "slug": "latex-mattress-topper",
+  "source_url": "https://sleepycat.in/products/latex-mattress-topper",
+  "scraped_at": "2026-05-13",
+  "product_name": "Natural Latex Mattress Topper",
+  "category": "Mattress Topper",
+  "sub_category": "Latex Topper",
+  "description_short": "Soft Feel - GOLS-certified 100% organic latex - Responsive Support",
+  "construction_layers": [
+    {"position": 1, "name": "Latex Layer", "material": "GOLS-certified organic latex", "foam_type": "Natural Latex", "thickness_mm": 38.1, "thickness_inches": 1.5, "density_kgm3": 80, "ild": 20, "notes": "Naturally responsive with pinhole design for airflow."}
+  ],
+  "cover_fabric": {"composition": "Cotton", "weave": "Percale", "removable": true, "washable": true, "wash_instructions": "Machine wash cold, mild detergent, delicate cycle."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1829, "width_mm": 914, "height_mm": 38.1, "weight_kg": 8},
+    {"size_name": "Double", "length_mm": 1880, "width_mm": 1370, "height_mm": 38.1, "weight_kg": 10},
+    {"size_name": "Queen", "length_mm": 1980, "width_mm": 1520, "height_mm": 38.1, "weight_kg": 12},
+    {"size_name": "King", "length_mm": 1980, "width_mm": 1830, "height_mm": 38.1, "weight_kg": 14}
+  ],
+  "firmness": {"rating_1_10": 6, "label": "Medium", "feel_descriptors": ["Responsive", "Soft", "Comfortable"]},
+  "proprietary_tech": [
+    {"name": "Pinhole Design", "description": "Enhances airflow and reduces heat buildup."}
+  ],
+  "certifications": ["GOLS-certified", "OEKO-TEX Standard 100"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1, "weight_capacity_kg": 120},
+  "pricing": [
+    {"size_name": "Single", "mrp": 8499, "selling_price": 7224, "currency": "INR"},
+    {"size_name": "Double", "mrp": 9999, "selling_price": 8499, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "How is a natural latex mattress topper different from memory foam?", "answer": "A natural latex mattress topper feels more responsive and slightly bouncy, making it easier to move. Unlike memory foam, it doesn't sink deeply and offers a more balanced, on-the-surface feel."},
+    {"question": "Is natural latex mattress topper good for hot sleepers?", "answer": "Yes, natural latex is naturally breathable. Its open structure and pinhole design allow better airflow."}
+  ]
+}

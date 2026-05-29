@@ -1,0 +1,28 @@
+{
+  "slug": "pregnancy-body-pillow",
+  "source_url": "https://sleepycat.in/products/pregnancy-body-pillow",
+  "scraped_at": "2026-05-13",
+  "product_name": "Cuddle Pillow",
+  "category": "Pillow",
+  "sub_category": "Pregnancy / Body Pillow",
+  "description_short": "Maintain good sleep posture without tossing and turning. This body pillow is super comfortable for to-be-mothers, too!",
+  "construction_layers": [
+    {"position": 1, "name": "Pillow Fill", "material": "Virgin Microfiber", "foam_type": "Fiber Fill", "notes": "Soft body-length fill."}
+  ],
+  "cover_fabric": {"composition": "Luxe Modal Fabric", "removable": true, "washable": true, "wash_instructions": "Machine washable"},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 1270, "width_mm": 482.6, "notes": "I-shaped body pillow"}
+  ],
+  "firmness": {"rating_1_10": 7, "label": "Soft", "feel_descriptors": ["Soft", "Comfortable"]},
+  "proprietary_tech": [],
+  "certifications": ["Hypoallergenic"],
+  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 1989, "selling_price": 1499, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is the purpose of a body pillow?", "answer": "Body pillow is made with moms-to-be in mind. They support your back and make it easier to sleep on your side, which may be more comfortable after 20 weeks."},
+    {"question": "Which shaped pillow is best during pregnancy?", "answer": "An I or U-shaped quality body pillow can improve the alignment of your spine, back, and hips."},
+    {"question": "Is pregnancy body pillow helpful in pregnancy for back pain?", "answer": "Yes, they help reduce back pain during pregnancy to a large extent."}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "memory-foam-pillow",
+  "source_url": "https://sleepycat.in/products/memory-foam-pillow",
+  "scraped_at": "2026-05-13",
+  "product_name": "SoftTouch Memory Foam Pillow",
+  "category": "Pillow",
+  "sub_category": "Memory Foam Pillow",
+  "description_short": "Experience real memory foam comfort that doesn't sag, break or flatten. Perforated design for breathability & medium height support for proper neck alignment.",
+  "construction_layers": [
+    {"position": 1, "name": "Memory Foam", "material": "Real Memory Foam", "foam_type": "Perforated Memory Foam", "thickness_mm": 100, "thickness_inches": 4, "density_kgm3": 50, "ild": 9, "notes": "Breathable design to enhance airflow."}
+  ],
+  "cover_fabric": {"composition": "Premium Hypoallergenic Fabric", "weave": "Soft, breathable", "removable": true, "washable": true, "wash_instructions": "Machine wash in delicate cycle with cold water."},
+  "dimensions_by_size": [
+    {"size_name": "Regular", "length_mm": 560, "width_mm": 360, "height_mm": 100, "weight_kg": 0.8},
+    {"size_name": "Full", "length_mm": 635, "width_mm": 406, "height_mm": 100, "weight_kg": 0.9},
+    {"size_name": "King", "length_mm": 711, "width_mm": 457, "height_mm": 100, "weight_kg": 1}
+  ],
+  "firmness": {"rating_1_10": 7, "label": "Medium Firm", "feel_descriptors": ["Supportive", "Comfortable", "Contouring"]},
+  "proprietary_tech": [{"name": "SoftTouch", "description": "SleepyCat's branded perforated memory foam pillow line."}],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 7, "warranty_years": 1, "weight_capacity_kg": 100},
+  "pricing": [
+    {"size_name": "Regular", "mrp": 1599, "selling_price": 959, "currency": "INR"},
+    {"size_name": "Full", "mrp": 1999, "selling_price": 1299, "currency": "INR"},
+    {"size_name": "King", "mrp": 2299, "selling_price": 1499, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is the best memory foam pillow brand?", "answer": "SleepyCat is one of the top memory foam pillow brands."},
+    {"question": "Is it good to sleep on memory foam?", "answer": "Yes, it is good to sleep on a memory foam pillow that provides great support to your neck and spine."},
+    {"question": "How to choose a good memory foam pillow?", "answer": "Consider factors like firmness, breathability, support, and hypoallergenic properties."},
+    {"question": "What do you mean by neutral spine position?", "answer": "The neutral spine position is where your head and neck are aligned and under the least amount of stress."}
+  ]
+}

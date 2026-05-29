@@ -1,0 +1,27 @@
+{
+  "slug": "natural-latex-baby-mattress",
+  "source_url": "https://sleepycat.in/products/natural-latex-baby-mattress",
+  "scraped_at": "2026-05-13",
+  "product_name": "Baby Natural Latex Mattress",
+  "category": "Mattresses",
+  "sub_category": "Baby Mattresses",
+  "description_short": "Firm and super supportive baby mattress with GOLS certified natural latex designed to give your baby the most peaceful sleep throughout the night.",
+  "construction_layers": [
+    {"position": 1, "name": "Natural Latex Layer", "material": "Natural latex", "foam_type": "Natural Latex", "thickness_mm": 100, "thickness_inches": 4, "notes": "Hypoallergenic and antimicrobial."}
+  ],
+  "cover_fabric": {"composition": "Cotton", "weave": "Terry", "removable": true, "washable": true, "wash_instructions": "Machine washable cover, simply remove and throw it in the machine for a wash."},
+  "dimensions_by_size": [
+    {"size_name": "48 x 24 x 4 inches", "length_mm": 1219, "width_mm": 610, "height_mm": 102, "weight_kg": 6.5}
+  ],
+  "firmness": {"rating_1_10": 7, "label": "Medium Firm", "feel_descriptors": ["Responsive Comfort", "Breathable"]},
+  "proprietary_tech": [],
+  "certifications": ["GOLS certified"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "48 x 24 x 4 inches", "mrp": 6999, "selling_price": 6299, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "Are there non-toxic mattresses suitable for children and infants?", "answer": "Sleepycat mattresses are made with certified safe and non-toxic foams, making them suitable for children and infants."}
+  ],
+  "notes_observed": "Same size as foam baby mattress (4'x2'x4\") but 3x the price for GOLS natural latex. Density/ILD not on page."
+}

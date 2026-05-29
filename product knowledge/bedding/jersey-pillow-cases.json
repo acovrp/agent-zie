@@ -1,0 +1,28 @@
+{
+  "slug": "jersey-pillow-cases",
+  "source_url": "https://sleepycat.in/products/jersey-pillow-cases",
+  "scraped_at": "2026-05-13",
+  "product_name": "Jersey Pillow Cases",
+  "category": "Bedding",
+  "sub_category": "Pillow Case",
+  "description_short": "Made from soft, stretchy jersey fabric known for its comfort and breathability, jersey pillowcases offer a cozy feel.",
+  "cover_fabric": {"composition": "Knitted Jersey (cotton blend)", "weave": "Knit (jersey)", "gsm": 150, "washable": true, "wash_instructions": "Machine wash cold with like colors. No bleach or fabric softeners. Low-heat tumble dry or air dry."},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 686, "width_mm": 432, "pieces": 2},
+    {"size_name": "King", "length_mm": 813, "width_mm": 508, "pieces": 2},
+    {"size_name": "Cuddle (Body Pillow)", "length_mm": 1321, "width_mm": 508, "pieces": 1}
+  ],
+  "colors_available": ["Midnight Blue", "Bluewave Stripe", "Zebra Stripes", "Walnut Brown"],
+  "certifications": ["OEKO-Tex certified", "AZO-free dyes"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 549, "selling_price": 449, "currency": "INR"},
+    {"size_name": "King", "mrp": 649, "selling_price": 549, "currency": "INR"},
+    {"size_name": "Cuddle", "mrp": 299, "selling_price": 250, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What are jersey pillow covers?", "answer": "Jersey pillow covers, akin to T-shirt material, are crafted from a knit fabric blend of cotton and synthetic fibers, providing a soft, stretchy, and comfortable surface for pillows."},
+    {"question": "Do jersey pillow covers come in different sizes?", "answer": "Yes, jersey pillow covers come in various sizes, including Standard, King, and Cuddle, accommodating different pillow dimensions for a proper fit."}
+  ],
+  "notes_observed": "Schema returned weave='Percale' which is wrong — this is a knit jersey. Cheapest pillowcase in lineup (₹250 for Cuddle)."
+}

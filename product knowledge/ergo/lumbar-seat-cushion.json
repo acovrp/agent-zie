@@ -1,0 +1,26 @@
+{
+  "slug": "lumbar-seat-cushion",
+  "source_url": "https://sleepycat.in/products/lumbar-seat-cushion",
+  "scraped_at": "2026-05-13",
+  "product_name": "Lumbar Seat Cushion",
+  "category": "Ergo",
+  "sub_category": "Lumbar Roll Cushion",
+  "description_short": "Ergonomic lumbar cushion with contoured support, breathable memory foam, and a compact design that fits wherever you sit.",
+  "construction_layers": [
+    {"position": 1, "name": "Memory Foam Roll", "material": "Memory Foam", "foam_type": "Breathable Memory Foam", "thickness_mm": 127, "thickness_inches": 5, "density_kgm3": 50, "notes": "Contours to lumbar curve. Roll shape fills lower-back gap."}
+  ],
+  "cover_fabric": {"composition": "Nylon", "removable": true, "washable": true, "wash_instructions": "Machine washable."},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 394, "width_mm": 203, "height_mm": 127, "weight_kg": 0.5}
+  ],
+  "firmness": {"rating_1_10": 7, "label": "Firm", "feel_descriptors": ["Contouring", "Supportive"]},
+  "proprietary_tech": [],
+  "trial_warranty": {"trial_nights": 7, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 1249, "selling_price": 937, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What makes this the best lumbar support cushion for office chair use?", "answer": "It fills the gap between your lower back and the chair, encouraging healthier posture."}
+  ],
+  "notes_observed": "Smaller and more affordable than Pro/Slim back cushions — narrow roll form (only 203mm wide). Different use case: targets lumbar gap specifically vs full back."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "tri-fold-mattress",
+  "source_url": "https://sleepycat.in/products/tri-fold-mattress",
+  "scraped_at": "2026-05-13",
+  "product_name": "Tri Fold Mattress",
+  "category": "Mattresses",
+  "sub_category": "Foldable Mattresses",
+  "description_short": "Lightweight foldable mattress with high-resilience foam, smart portability features, and compact comfort.",
+  "construction_layers": [
+    {"position": 1, "name": "High Resilience Foam", "material": "Foam", "foam_type": "HR Foam", "thickness_mm": 100, "thickness_inches": 4, "density_kgm3": 28, "notes": "Provides balanced support without the bulk."}
+  ],
+  "cover_fabric": {"composition": "280 GSM Grey Knitted Fabric", "weave": "Knitted", "gsm": 280, "removable": false, "washable": true, "wash_instructions": "Spot clean with a mild detergent and damp cloth."},
+  "dimensions_by_size": [
+    {"size_name": "Single 72 x 36 x 4 inches", "length_mm": 1828.8, "width_mm": 914.4, "height_mm": 100, "weight_kg": 6},
+    {"size_name": "Double 72 x 48 x 4 inches", "length_mm": 1828.8, "width_mm": 1219.2, "height_mm": 100, "weight_kg": 8.3}
+  ],
+  "firmness": {"rating_1_10": 6, "label": "Medium-Firm", "feel_descriptors": ["Medium-Firm Feel", "Supportive", "Comfortable"]},
+  "proprietary_tech": [
+    {"name": "Tri-Fold Design", "description": "Folds away quickly for easy storage."},
+    {"name": "Anti-Skid Base", "description": "Keeps the mattress stable on any flat surface."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1, "notes": "12 Month Warranty on Foam and Stitching"},
+  "pricing": [
+    {"size_name": "Single 72 x 36 x 4 inches", "mrp": 5999, "selling_price": 4799, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is high-resilience foam?", "answer": "High-resilience (HR) foam bounces back quickly when pressure is released, maintaining its shape and support over time. It's more durable and responsive than standard foam, making it ideal for regular use."},
+    {"question": "What surfaces can I use it on?", "answer": "The anti-skid base keeps the mattress stable on any flat surface, whether it is a floor, wooden planks, a low cot frame, or a compact bed base."},
+    {"question": "Does it come with a washable cover?", "answer": "No, but the fabric cover is easy to clean. Spot clean with a mild detergent and damp cloth. Avoid soaking."},
+    {"question": "Can I use this mattress daily?", "answer": "Yes. The 4-inch high-resilience foam is designed for regular use and provides consistent support over time. It's ideal for floor sleeping, a cot, or as a semi-permanent guest bed setup."}
+  ],
+  "notes_observed": "Single-layer construction (only HR foam). Shortest warranty in mattress lineup (1 year vs 10). Double SKU pricing not visible without variant select."
+}

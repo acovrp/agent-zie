@@ -1,0 +1,32 @@
+{
+  "slug": "winter-reversible-comforter",
+  "source_url": "https://sleepycat.in/products/winter-reversible-comforter",
+  "scraped_at": "2026-05-13",
+  "product_name": "Winter Reversible Comforter",
+  "category": "Bedding",
+  "sub_category": "Comforter (Winter)",
+  "description_short": "Soft, warm, and made for colder nights, our 400 GSM Virgin Microfiber Winter Reversible Comforter is designed for cozy winter snuggles.",
+  "construction_layers": [
+    {"position": 1, "name": "Cover", "material": "Peached Microfiber", "notes": "Dual color style (reversible)."},
+    {"position": 2, "name": "Fill", "material": "Virgin Microfiber", "gsm": 400, "notes": "Warm and cozy fill — heavier than all-season (200 GSM)."}
+  ],
+  "cover_fabric": {"composition": "Peached Microfiber", "washable": true, "wash_instructions": "Machine washable."},
+  "fill_gsm": 400,
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 2286, "width_mm": 1524},
+    {"size_name": "Double", "length_mm": 2286, "width_mm": 2540}
+  ],
+  "colors_available": ["Rhino Grey & Coconut White"],
+  "proprietary_tech": [
+    {"name": "Reversible Design", "description": "Two-tone with different colour on each side."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Double", "mrp": 3989, "selling_price": 3191, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is the fill of the comforter?", "answer": "The comforter is filled with 400 GSM Virgin Microfiber."},
+    {"question": "What is the country of origin?", "answer": "The country of origin is India."}
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "cloud-microfiber-pillow",
+  "source_url": "https://sleepycat.in/products/cloud-microfiber-pillow",
+  "scraped_at": "2026-05-13",
+  "product_name": "Cloud Pillow",
+  "category": "Pillow",
+  "sub_category": "Microfiber Pillow",
+  "description_short": "Filled with 100% virgin microfiber, this super soft pillow delivers hotel-like luxury at home without forming lumps over time.",
+  "construction_layers": [
+    {"position": 1, "name": "Pillow Fill", "material": "100% Virgin Microfiber", "foam_type": "Fiber Fill", "thickness_mm": 152.4, "thickness_inches": 6, "notes": "Super soft, adjustable firmness via zipper."}
+  ],
+  "cover_fabric": {"composition": "250 TC Luxe Modal Fabric", "weave": "Modal", "removable": false, "washable": true, "wash_instructions": "Machine washable on delicate cycle with cold water."},
+  "dimensions_by_size": [
+    {"size_name": "Full Size", "length_mm": 686, "width_mm": 457, "height_mm": 152, "weight_kg": 0.5},
+    {"size_name": "King Size", "length_mm": 813, "width_mm": 508, "height_mm": 152, "weight_kg": 0.6}
+  ],
+  "firmness": {"rating_1_10": 2, "label": "Super Soft", "feel_descriptors": ["soft", "plush", "comfortable"]},
+  "proprietary_tech": [
+    {"name": "Smart Zipper Design", "description": "Allows adjustable height and firmness."},
+    {"name": "No Lumps Guarantee", "description": "2 years guarantee against lumps and lint."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 7, "warranty_years": 2, "weight_capacity_kg": 100},
+  "pricing": [
+    {"size_name": "Full Size", "mrp": 1189, "selling_price": 949, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What kind of sleeper is the Cloud Pillow meant for?", "answer": "The Cloud Pillow is good for all kinds of sleepers. Front, back, side, or any other sleeping position you prefer."},
+    {"question": "How is the Cloud Pillow adjustable?", "answer": "With a discrete zipper, you get to adjust the height of the pillow."},
+    {"question": "What is the difference between microfiber and memory foam?", "answer": "Microfiber pillows are resilient and provide overall support, whereas memory foam contours to the head but is firmer."},
+    {"question": "Is Microfiber Fill better than a down alternative?", "answer": "Microfiber is dense, giving a soft feel, is cruelty-free, and easier to care for."},
+    {"question": "What are the benefits of Luxe Modal Fabric?", "answer": "Luxe Modal is soft, breathable, durable, and hypoallergenic."}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "winter-luxe-comforter",
+  "source_url": "https://sleepycat.in/products/winter-luxe-comforter",
+  "scraped_at": "2026-05-13",
+  "product_name": "300 GSM Winter Luxe Comforter",
+  "category": "Bedding",
+  "sub_category": "Comforter (Winter Luxe)",
+  "description_short": "Made with the finest virgin microfiber fill and the softest cotton modal fabric, this comforter provides luxurious comfort and warmth for winter nights.",
+  "construction_layers": [
+    {"position": 1, "name": "Cover Fabric", "material": "Luxe Modal Fabric (cotton modal)", "gsm": 300, "notes": "Soft and breathable."},
+    {"position": 2, "name": "Fill", "material": "Virgin Microfiber Fill", "gsm": 300, "notes": "Provides warmth while being lightweight."}
+  ],
+  "cover_fabric": {"composition": "Luxe Modal Fabric (cotton modal)", "thread_count": 300, "gsm": 300, "washable": true, "wash_instructions": "Machine washable using cold water and mild detergents."},
+  "fill_gsm": 300,
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 2286, "width_mm": 1524, "weight_kg": 5},
+    {"size_name": "Double", "length_mm": 2286, "width_mm": 2540, "weight_kg": 8}
+  ],
+  "colors_available": ["Rhino Grey & Coconut White"],
+  "proprietary_tech": [
+    {"name": "Quilted Box Design", "description": "Keeps filling evenly distributed, prevents clumping or shifting."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1},
+  "pricing": [
+    {"size_name": "Single", "mrp": 3989, "selling_price": 3391, "currency": "INR"},
+    {"size_name": "Double", "mrp": 3989, "selling_price": 3391, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is the difference between the summer and winter Luxe Comforter variants?", "answer": "The summer variant is lighter and designed for breathable comfort in warmer conditions while the winter variant has a higher GSM fill for added warmth."}
+  ],
+  "notes_observed": "Luxe line uses cotton modal cover vs peached microfiber on standard line. Same 300 GSM fill = lighter than standard Winter Reversible (400)."
+}

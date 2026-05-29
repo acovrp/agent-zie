@@ -1,0 +1,29 @@
+{
+  "slug": "travel-neck-pillow",
+  "source_url": "https://sleepycat.in/products/travel-neck-pillow",
+  "scraped_at": "2026-05-13",
+  "product_name": "Travel Neck Pillow",
+  "category": "Pillow",
+  "sub_category": "Travel",
+  "description_short": "Unroll, Snap, Sleep. Repeat! This neck pillow comfortably sits around your neck & its flex headrest offers the best support.",
+  "construction_layers": [
+    {"position": 1, "name": "Pillow Fill", "material": "Memory Foam", "foam_type": "Memory Foam", "thickness_mm": 25, "thickness_inches": 1, "density_kgm3": 40, "ild": 20, "notes": "Soft cushioning for neck support."}
+  ],
+  "cover_fabric": {"composition": "Lycra", "weave": "Soft", "gsm": 200, "removable": true, "washable": true, "wash_instructions": "Machine wash on delicate cycle with cold water."},
+  "dimensions_by_size": [
+    {"size_name": "Standard", "length_mm": 254, "width_mm": 228.6, "weight_kg": 0.5}
+  ],
+  "firmness": {"rating_1_10": 5, "label": "Medium", "feel_descriptors": ["Soft", "Supportive"]},
+  "proprietary_tech": [
+    {"name": "Snap Closure", "description": "Snap-and-sleep closure for travel."}
+  ],
+  "certifications": [],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1, "weight_capacity_kg": 100},
+  "pricing": [
+    {"size_name": "Standard", "mrp": 1489, "selling_price": 949, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What is the pillow made of?", "answer": "The pillow is made of premium memory foam."},
+    {"question": "What are the dimensions of the pillow?", "answer": "The dimensions are 10 x 9 inches (Standard size)."}
+  ]
+}

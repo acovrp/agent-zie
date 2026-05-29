@@ -1,0 +1,24 @@
+# Secrets & Config
+gsc_config.json
+agent_memory.json
+.env
+
+# Large Binary Files (Internal Docs)
+*.pptx
+*.pdf
+*.docx
+
+# Generated Content
+*_final.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.python-version
+
+# OS
+.DS_Store
+Thumbs.db

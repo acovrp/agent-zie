@@ -1,0 +1,32 @@
+{
+  "slug": "baby-mattress",
+  "source_url": "https://sleepycat.in/products/baby-mattress",
+  "scraped_at": "2026-05-13",
+  "product_name": "Baby Mattress",
+  "category": "Mattresses",
+  "sub_category": "Baby Mattress",
+  "description_short": "Firm and super supportive baby mattress, guaranteed to give your baby the most peaceful sleep through the night.",
+  "construction_layers": [
+    {"position": 1, "name": "Premium High Density Foam", "material": "Foam", "foam_type": "HD Foam", "thickness_mm": 102, "thickness_inches": 4, "density_kgm3": 25, "ild": 20, "gsm": 180, "notes": "Provides proper support during developmental years."}
+  ],
+  "cover_fabric": {"composition": "Terry Cotton", "weave": "Terry", "gsm": 200, "removable": true, "washable": true, "wash_instructions": "Machine wash, remove cover and use a mild detergent. Cover is waterproof."},
+  "dimensions_by_size": [
+    {"size_name": "Single", "length_mm": 1219, "width_mm": 610, "height_mm": 102, "weight_kg": 6}
+  ],
+  "firmness": {"rating_1_10": 8, "label": "Firm Feel", "feel_descriptors": ["Firm", "Supportive"]},
+  "proprietary_tech": [],
+  "certifications": ["Hypoallergenic", "Non-toxic"],
+  "trial_warranty": {"trial_nights": 100, "warranty_years": 1, "weight_capacity_kg": 100},
+  "pricing": [
+    {"size_name": "Single", "mrp": 2999, "selling_price": 1949, "currency": "INR"}
+  ],
+  "faq_specs": [
+    {"question": "What does hypoallergenic mean for a baby mattress?", "answer": "Hypoallergenic means the materials are unlikely to cause allergic reactions."},
+    {"question": "Is the cover waterproof?", "answer": "Yes. The cover is fully waterproof, protecting the foam from spills and moisture buildup."},
+    {"question": "What age is this mattress suitable for?", "answer": "Designed for babies and toddlers between 0 and 3 years of age."},
+    {"question": "Is this mattress safe for newborns?", "answer": "Yes. The mattress is made with certified, non-toxic, hypoallergenic materials."},
+    {"question": "What is the thickness of the mattress?", "answer": "The mattress has a thickness of 4 inches (102 mm)."},
+    {"question": "What materials are used?", "answer": "The mattress features high density foam with a hypoallergenic terry cotton cover."}
+  ],
+  "notes_observed": "Custom sizes mentioned in marketing copy but not extracted; default Single dimensions = standard cot size. Cover is waterproof (key differentiator)."
+}
