@@ -30,12 +30,14 @@ ADMIN_CHAT_ID = int(os.getenv("ADMIN_CHAT_ID", "6127883562"))
 os.environ["ANTHROPIC_API_KEY"] = ANTHROPIC_API_KEY
 os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
 
-# --- DYNAMIC MODEL RESOLVER (V4.0 - UNIVERSAL) ---
+# --- DYNAMIC MODEL RESOLVER (V4.1 - ENHANCED QUALITY) ---
 class ModelResolver:
     def __init__(self):
         # Default Tiered Models (May 2026 Stable Defaults)
+        # Primary: Gemini 1.5 Pro (Highest reasoning/persona)
+        # Secondary: Haiku 4.5 (Speed/Backup)
         self.main_tier = [
-            "gemini/gemini-3.5-flash",
+            "gemini/gemini-1.5-pro",
             "anthropic/claude-haiku-4-5-20251001",
             "anthropic/claude-sonnet-4-6"
         ]
@@ -55,7 +57,6 @@ class ModelResolver:
             haikus = sorted([f"anthropic/{m}" for m in ant_models if "haiku" in m], reverse=True)
             sonnets = sorted([f"anthropic/{m}" for m in ant_models if "sonnet" in m], reverse=True)
             
-            # Update tiers with newest Anthropic models if found
             if haikus: self.main_tier[1] = haikus[0]
             if sonnets: 
                 self.main_tier[2] = sonnets[0]
@@ -78,19 +79,39 @@ PENDING_PATCHES = {}
 
 def fetch_knowledge():
     global META_DATA, PRODUCT_INDEX
+    local_meta = "zie_meta.json"
+    local_index = "zie_product_index.json"
+
     try:
-        logger.info("Fetching Trifecta knowledge from GitHub...")
-        meta_res = requests.get(META_URL, timeout=10)
-        meta_res.raise_for_status()
-        META_DATA = meta_res.json()
-        index_res = requests.get(INDEX_URL, timeout=30)
-        index_res.raise_for_status()
-        PRODUCT_INDEX = index_res.json()
+        if os.path.exists(local_meta):
+            logger.info("Loading local zie_meta.json...")
+            with open(local_meta, 'r', encoding='utf-8') as f:
+                META_DATA = json.load(f)
+        else:
+            logger.info("Fetching zie_meta.json from GitHub...")
+            res = requests.get(META_URL, timeout=10)
+            res.raise_for_status()
+            META_DATA = res.json()
+            with open(local_meta, 'w', encoding='utf-8') as f:
+                json.dump(META_DATA, f)
+
+        if os.path.exists(local_index):
+            logger.info("Loading local zie_product_index.json...")
+            with open(local_index, 'r', encoding='utf-8') as f:
+                PRODUCT_INDEX = json.load(f)
+        else:
+            logger.info("Fetching zie_product_index.json from GitHub...")
+            res = requests.get(INDEX_URL, timeout=30)
+            res.raise_for_status()
+            PRODUCT_INDEX = res.json()
+            with open(local_index, 'w', encoding='utf-8') as f:
+                json.dump(PRODUCT_INDEX, f)
+
         logger.info("Trifecta knowledge loaded successfully.")
     except Exception as e:
         logger.error(f"Failed to fetch knowledge: {e}")
-        META_DATA = {}
-        PRODUCT_INDEX = {"by_slug": {}, "by_name": {}, "by_category": {}, "keywords": {}}
+        if not META_DATA: META_DATA = {}
+        if not PRODUCT_INDEX: PRODUCT_INDEX = {"by_slug": {}, "by_name": {}, "by_category": {}, "keywords": {}}
 
 def get_static_prompt():
     return f"""You are Zie, the Sleep Cat mascot of SleepyCat — a mattress and sleep products brand from India.
@@ -119,7 +140,10 @@ STRICT URL RULE:
 Your rules:
 1. Always use SleepyCat's official proprietary terms (e.g., 7-zone DeepTouch™ Pressure Tech) AND immediately follow them with your cute cat nickname for it (e.g., "...which I call 'Invisible Magic Holes!'")
 2. Never make medical claims. You offer "clouds" and "hugs" — not cures.
-3. MAGIC PORTAL LINKS: Only share product Magic Portal links when the user explicitly asks for one. Format them as proper hyperlinked text using <a> tags.
+3. MAGIC PORTAL LINKS: When a user asks for a product link, you MUST look at the "RELEVANT PRODUCT DATA" provided below and use the EXACT "source_url" found in that JSON. 
+   - Never give just https://sleepycat.in. 
+   - Format them as proper hyperlinked text using <a> tags.
+   - Example: <a href="https://sleepycat.in/products/original-mattress">The Original Mattress</a>
 4. Use emojis: ☁️ 🐈 💤 ✨ 🛸 🌙
 5. If a user has any life problem (stress, heartbreak, traffic), pivot to a SleepyCat sleep solution.
 6. FORMATTING: Use HTML <b> tags for bold and <i> tags for italics. Avoid double asterisks (**) or single asterisks (*) if possible, but the system will convert them for you.
@@ -145,32 +169,54 @@ def clean_for_telegram(text):
 
 def intent_router(user_text):
     user_text_lower = user_text.lower()
-    relevant_products = []
+    user_words = set(re.findall(r'\w+', user_text_lower))
+    
+    scored_products = {} # slug -> score
+    
+    # 1. Check Product Names (High Weight)
     for name, product in PRODUCT_INDEX.get("by_name", {}).items():
-        if name.lower() in user_text_lower: relevant_products.append(product)
+        name_words = set(re.findall(r'\w+', name.lower()))
+        intersection = user_words.intersection(name_words)
+        if intersection:
+            score = len(intersection) * 10
+            # Bonus for exact phrase
+            if name.lower() in user_text_lower: score += 20
+            slug = product['slug']
+            scored_products[slug] = max(scored_products.get(slug, 0), score)
+
+    # 2. Check Categories (Medium Weight)
     for cat, products in PRODUCT_INDEX.get("by_category", {}).items():
-        if cat.lower() in user_text_lower: relevant_products.extend(products)
+        cat_lower = cat.lower()
+        if cat_lower in user_text_lower or any(word in cat_lower for word in user_words):
+            for p in products:
+                slug = p['slug']
+                scored_products[slug] = scored_products.get(slug, 0) + 5
+
+    # 3. Check Keywords (Medium Weight)
     for kw, slugs in PRODUCT_INDEX.get("keywords", {}).items():
-        if f" {kw.lower()} " in f" {user_text_lower} ":
+        if kw.lower() in user_words:
             for slug in slugs:
-                product = PRODUCT_INDEX.get("by_slug", {}).get(slug)
-                if product and product not in relevant_products: relevant_products.append(product)
+                scored_products[slug] = scored_products.get(slug, 0) + 8
+
+    # Sort and pick top 3
+    sorted_slugs = sorted(scored_products.items(), key=lambda x: x[1], reverse=True)
     unique_products = []
-    seen_slugs = set()
-    for p in relevant_products:
-        if p['slug'] not in seen_slugs:
-            unique_products.append(p)
-            seen_slugs.add(p['slug'])
+    for slug, score in sorted_slugs[:3]:
+        product = PRODUCT_INDEX.get("by_slug", {}).get(slug)
+        if product:
+            unique_products.append(product)
+            
     if unique_products:
         context = "RELEVANT PRODUCT DATA:\n"
-        for p in unique_products[:3]:
+        for p in unique_products:
             p_json = json.dumps(p, indent=1).replace("sleepycat.com", "sleepycat.in")
             context += p_json + "\n---\n"
         return context
+    
     return None
 
 async def call_llm(tier_name, system_content, messages, max_tokens=1024):
-    """Tiered failover completion using LiteLLM."""
+    """Tiered failover completion using LiteLLM with optimized settings."""
     tier = resolver.main_tier if tier_name == "main" else resolver.brain_tier
     
     last_exception = None
@@ -178,12 +224,12 @@ async def call_llm(tier_name, system_content, messages, max_tokens=1024):
         try:
             logger.info(f"Attempting completion with {model}...")
             
-            # Prepare LiteLLM compatible system prompt
-            # Some providers like Gemini handle 'system' differently, but LiteLLM standardizes this.
+            # Use temperature 1.0 as recommended for Gemini 1.5/3.x to prevent reasoning degradation
             response = completion(
                 model=model,
-                messages=[{"role": "system", "content": str(system_content)}] + messages,
-                max_tokens=max_tokens
+                messages=[{"role": "system", "content": system_content}] + messages,
+                max_tokens=max_tokens,
+                temperature=1.0 
             )
             return response
         except Exception as e:
@@ -207,6 +253,8 @@ async def get_claude_response(chat_id, user_message):
         response = await call_llm("main", system_text, chat_history[chat_id])
         
         assistant_reply = response.choices[0].message.content
+        logger.info(f"Zie Response ({response.model}): {assistant_reply[:200]}...") 
+        
         chat_history[chat_id].append({"role": "assistant", "content": assistant_reply})
         return clean_for_telegram(assistant_reply)
     except Exception as e:
@@ -232,7 +280,14 @@ async def handle_feedback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         
         response = await call_llm("brain", "Output strictly JSON.", [{"role": "user", "content": analysis_prompt}], max_tokens=1000)
         
-        proposal = json.loads(response.choices[0].message.content)
+        raw_reply = response.choices[0].message.content
+        logger.info(f"Feedback Agent Raw Reply: {raw_reply[:100]}...")
+        
+        # Clean markdown code blocks if present
+        clean_json = re.sub(r'```json\s*(.*?)\s*```', r'\1', raw_reply, flags=re.DOTALL)
+        clean_json = re.sub(r'```\s*(.*?)\s*```', r'\1', clean_json, flags=re.DOTALL)
+        
+        proposal = json.loads(clean_json.strip())
         patch_id = str(update.message.message_id)
         PENDING_PATCHES[patch_id] = proposal
         keyboard = [[InlineKeyboardButton("Approve ✅", callback_data=f"app_{patch_id}"), InlineKeyboardButton("Reject ❌", callback_data=f"rej_{patch_id}")]]
@@ -253,8 +308,7 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         proposal = PENDING_PATCHES.get(patch_id)
         if not proposal: return
         try:
-            target_path = __file__ if proposal['file_to_edit'] == "zie_bot.py" else r'/home/ubuntu/sleepycat-brand/zie knowledge/zie_meta.json'
-            if not os.path.exists(target_path): target_path = r'C:\Users\Aayushi\sleepycat-brand\zie knowledge\zie_meta.json'
+            target_path = __file__ if proposal['file_to_edit'] == "zie_bot.py" else r'/home/ubuntu/zie-bot/zie_meta.json'
             with open(target_path, 'r', encoding='utf-8') as f: content = f.read()
             if proposal['exact_old_string'] not in content:
                 await query.edit_message_text(f"❌ Error: 'exact_old_string' not found.")
@@ -291,5 +345,5 @@ if __name__ == '__main__':
     application.add_handler(CallbackQueryHandler(handle_callback))
     application.add_handler(MessageHandler(filters.TEXT & (~filters.COMMAND), handle_message))
     application.add_error_handler(error_handler)
-    logger.info(f"Zie Bot v4.0 (Universal LiteLLM) is starting with Primary: {resolver.main_tier[0]}...")
+    logger.info(f"Zie Bot v4.1 (Pro Quality) is starting with Primary: {resolver.main_tier[0]}...")
     application.run_polling(drop_pending_updates=True)
