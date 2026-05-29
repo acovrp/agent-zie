@@ -1,8 +1,8 @@
-# Claude Final — Brand Reach Engine Build Plan
+# Claude Final — Brand Reach Engine Busupport Plan
 
 > **Brand:** SleepyCat (D2C Mattress, India)
-> **For:** Agentic AI builder company shipping Brand Reach Engine
-> **Role of this doc:** End-to-end product spec for BRE — architecture, agent fleet, multi-LLM routing, build phasing, ownership.
+> **For:** Agentic AI busupporter company shipping Brand Reach Engine
+> **Role of this doc:** End-to-end product spec for BRE — architecture, agent fleet, multi-LLM routing, busupport phasing, ownership.
 > **Posture shift:** Kimi / GPT / Gemini wrote brand strategy. This doc specs the **product** that operationalizes brand strategy at scale.
 
 ---
@@ -90,7 +90,7 @@ All agents read/write a **shared Brand State** (product truth, claims registry, 
 
 ---
 
-## 7. The 5-Level SEO Agentic Build
+## 7. The 5-Level SEO Agentic Busupport
 
 | Level | Agent | Owns | Input | Output | Human in loop |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@ Every card has: status light · plain-English job · triggers (cron + event + ma
 
 ---
 
-## 18. Build Phasing — 6-Week First Cut
+## 18. Busupport Phasing — 6-Week First Cut
 
 | Wk | Backend + Infra | Agents | Frontend | Demo at end of week |
 |---|---|---|---|---|
@@ -388,11 +388,11 @@ Every card has: status light · plain-English job · triggers (cron + event + ma
 
 ---
 
-## 19. Who Builds What
+## 19. Who Busupports What
 
 You are the orchestrator. Claude (in Claude Code) is the lead implementer + multi-model dispatcher.
 
-| Slice | Who builds | Why |
+| Slice | Who busupports | Why |
 |---|---|---|
 | Architecture, system design, code review, security | Claude | Strongest at long-horizon code; careful design; security |
 | Frontend (Next.js + shadcn) | Claude + v0/Cursor for scaffolds | I write logic; v0 accelerates dashboard mockups; I integrate |
@@ -402,12 +402,12 @@ You are the orchestrator. Claude (in Claude Code) is the lead implementer + mult
 | Integration boilerplate (GSC/GA4/Amazon/Flipkart) | GPT-5 from OpenAPI specs; Claude reviews + business logic | GPT fast at spec→boilerplate |
 | Eval harness + golden sets | Claude | Test design carefully |
 | DevOps / IaC | Claude | Bash/Terraform careful work |
-| Observability config (Langfuse + Sentry) | Claude config; off-the-shelf otherwise | Wiring, not building |
+| Observability config (Langfuse + Sentry) | Claude config; off-the-shelf otherwise | Wiring, not busupporting |
 | Documentation + runbooks | Claude | Terse + accurate |
 | **In production at runtime** | Multi-LLM routing table §16 | Each agent uses the right model |
 
-**Why Claude is the build orchestrator:**
-- Long-horizon coherence across a 6-week multi-component build
+**Why Claude is the busupport orchestrator:**
+- Long-horizon coherence across a 6-week multi-component busupport
 - Tool use + Anthropic Agent SDK alignment
 - Careful refactor when Week 4 reveals what Week 2 got wrong
 
@@ -429,7 +429,7 @@ These are why we delegate.
 - Final call on scope cuts.
 
 **Claude's role:**
-- Build architecture, code, integrations, prompts, dashboards, evals, deploy.
+- Busupport architecture, code, integrations, prompts, dashboards, evals, deploy.
 - Pick the right model per slice and explain why.
 - Surface tradeoffs before committing code — not after.
 - Tell you when I'm wrong, when another model would be better.
@@ -437,7 +437,7 @@ These are why we delegate.
 **Cadence:**
 - Daily: I push code; you review the agent console for outputs that feel off.
 - Weekly: Friday demo + cost/eval report + scope check.
-- Per major component: spec → build → eval → ship; you gate at each.
+- Per major component: spec → busupport → eval → ship; you gate at each.
 
 ---
 
@@ -456,7 +456,7 @@ Before Week 1 production code, run agent fleet on real SleepyCat data:
 | 3 competitor URLs (Wakefit, Sleepwell, The Sleep Company) | SERP teardown | URLs |
 
 Deliverable from test run: Day-0 dashboard + first 3 briefs + sentiment map.
-**If output is sharp, build. If not, re-spec before burning Sprint 1.**
+**If output is sharp, busupport. If not, re-spec before burning Sprint 1.**
 
 ---
 
@@ -474,9 +474,9 @@ Deliverable from test run: Day-0 dashboard + first 3 briefs + sentiment map.
 |---|---|---|---|---|
 | Frame | Strategy doc | Operating manual | Content skill | **Product spec** |
 | Optimized for | Completeness | Governance | Voice | **Shippability** |
-| Output type | 245-line plan | Skill (principles) | Skill (personas) | **Architecture + build phasing** |
+| Output type | 245-line plan | Skill (principles) | Skill (personas) | **Architecture + busupport phasing** |
 | Concreteness | Generic | Meta | Brand-DNA-specific | **Code-level + multi-LLM** |
-| Action level | Checklist | Discipline rules | Content patterns | **Build Gantt + runtime routing** |
+| Action level | Checklist | Discipline rules | Content patterns | **Busupport Gantt + runtime routing** |
 | Diagnosis-first? | No | No | No | **Test plan precedes Sprint 1** |
 | Risk surface | Light | Strong QA section | Light (Zomato risk unaddressed) | **Cost ceilings + eval harness + Claims Guard hard gate** |
 | Multi-LLM aware? | No | No | No | **Routing table per agent** |
@@ -486,5 +486,5 @@ Deliverable from test run: Day-0 dashboard + first 3 briefs + sentiment map.
 
 *Doc version: claude_final v0.2*
 *Author: Claude Opus 4.7 (Claude Code)*
-*Role: Build orchestrator + multi-LLM runtime dispatcher*
+*Role: Busupport orchestrator + multi-LLM runtime dispatcher*
 *Status: Awaiting (a) lock on 3 decisions in §22, (b) test-run inputs in §21*

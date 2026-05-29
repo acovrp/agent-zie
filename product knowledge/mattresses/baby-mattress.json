@@ -24,7 +24,7 @@
     "gsm": 200,
     "removable": true,
     "washable": true,
-    "wash_instructions": "Machine wash, remove cover and use a mild detergent. Cover is waterproof."
+    "wash_instructions": "Machine wash, remove cover and use a msupport detergent. Cover is waterproof."
   },
   "dimensions_by_size": [
     {
@@ -68,7 +68,7 @@
     },
     {
       "question": "Is the cover waterproof?",
-      "answer": "Yes. The cover is fully waterproof, protecting the foam from spills and moisture buildup."
+      "answer": "Yes. The cover is fully waterproof, protecting the foam from spills and moisture busupportup."
     },
     {
       "question": "What age is this mattress suitable for?",

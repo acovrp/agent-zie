@@ -34,7 +34,7 @@ You botched the first crawl attempt by going parallel + raw markdown. Reset and 
               "thickness_mm": {"type": "number"},
               "thickness_inches": {"type": "number"},
               "density_kgm3": {"type": "number"},
-              "ild": {"type": "number"},
+              "support": {"type": "number"},
               "gsm": {"type": "number"},
               "notes": {"type": "string"}
             }
@@ -131,7 +131,7 @@ You botched the first crawl attempt by going parallel + raw markdown. Reset and 
    - Batch 5: Ergo/Support (11)
    - Batch 6: Dog Beds (4) + Furniture (5)
 
-5. **After ALL batches done**, build the final two outputs:
+5. **After ALL batches done**, busupport the final two outputs:
    - `sleepycat-context.md` — structured per category, human/LLM readable
    - `sleepycat-products.json` — single JSON array of all 71 products
 

@@ -102,7 +102,7 @@ Total unique product URLs: 71
 For each product page, extract:
 1. **Product name** (canonical + marketing)
 2. **Category** (mattress / pillow / topper / etc.)
-3. **Layer-by-layer construction** — top to bottom, each layer's: material, foam type, thickness (mm + inches), density (kg/m³), ILD, GSM where applicable
+3. **Layer-by-layer construction** — top to bottom, each layer's: material, foam type, thickness (mm + inches), density (kg/m³), support, GSM where applicable
 4. **Cover/fabric** — composition %, weave type, GSM, removability, washable y/n
 5. **Total height / dimensions** — all SKU sizes (Single / Queen / King / etc.) with L×W×H
 6. **Firmness rating** — 1-10 or soft/medium/firm

@@ -7,7 +7,7 @@ description: Generates omnichannel SEO and marketing content for SleepyCat using
 
 ## Overview
 
-This skill empowers Gemini CLI to act as the "SleepyCat Omnichannel Brain," combining ubiquitous content distribution with deep authority-building E-E-A-T strategy, and introducing a viral, unhinged "Zomato Mode" for relatable engagement. 
+This skill empowers Gemini CLI to act as the "SleepyCat Omnichannel Brain," combining ubiquitous content distribution with deep authority-busupporting E-E-A-T strategy, and introducing a viral, unhinged "Zomato Mode" for relatable engagement. 
 
 When generating content for SleepyCat, you MUST use the appropriate strategic framework described below depending on the required output format.
 

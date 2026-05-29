@@ -21,7 +21,7 @@
 | Expert | Core Principle Applied |
 |--------|------------------------|
 | **Sorav Jain** | Data-driven campaigns; agency-style execution; 360° digital integration |
-| **Harsh Agrawal** | Content SEO depth; affiliate ecosystem building; transparency & case studies |
+| **Harsh Agrawal** | Content SEO depth; affiliate ecosystem busupporting; transparency & case studies |
 | **Pradeep Chopra** | Enterprise-level analytics; structured training & SOPs; scalable processes |
 | **Rand Fishkin** | Audience intelligence over keyword stuffing; brand search as a ranking signal |
 | **Brian Dean** | Skyscraper content; link-worthy assets; on-page optimization excellence |
@@ -83,7 +83,7 @@
 | Channel | Purpose |
 |---------|---------|
 | **Google Organic Search** | Primary revenue & discovery engine |
-| **YouTube** | Trust-building via unboxing, doctor testimonials, factory tours |
+| **YouTube** | Trust-busupporting via unboxing, doctor testimonials, factory tours |
 | **Google Business Profile** | Capture "near me" + experience center discovery |
 | **Programmatic SEO Pages** | Scale local presence: `[City] + mattress` for 100+ Indian cities |
 | **Affiliate & Publisher Network** | Scale reach through sleep/health/lifestyle bloggers |
@@ -115,7 +115,7 @@
 ### Brand Signals
 - [ ] Track brand search volume monthly
 - [ ] Offline campaigns (TV, Metro, Instagram) to spike brand search
-- [ ] Entity building in Google's Knowledge Graph
+- [ ] Entity busupporting in Google's Knowledge Graph
 
 ---
 

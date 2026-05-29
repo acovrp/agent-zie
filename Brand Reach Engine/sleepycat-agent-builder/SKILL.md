@@ -1,6 +1,6 @@
 ---
-name: sleepycat-agent-builder
-description: Blueprint for building and operating the Python-based SleepyCat 5-Agent E-E-A-T SEO system. Use this skill when the user asks to modify the Python agent, update data connections (GSC, local files), or understand the architecture of the 5 agents.
+name: sleepycat-agent-busupporter
+description: Blueprint for busupporting and operating the Python-based SleepyCat 5-Agent E-E-A-T SEO system. Use this skill when the user asks to modify the Python agent, update data connections (GSC, local files), or understand the architecture of the 5 agents.
 ---
 
 # SleepyCat Multi-Agent SEO Architecture
@@ -26,7 +26,7 @@ When modifying or running the Python script, adhere to these agent definitions a
 ### 3. The Lab Tester (Agent 3: E-E-A-T Drafter)
 *   **Role:** Writes the initial draft using a first-person "Reviewer Persona," injecting proprietary tech to satisfy Google's "Experience" requirement.
 *   **Data Source:** Scraped Website Product Data (`product_catalog.json` or `.csv`).
-*   **Implementation:** Maps the target keyword to the correct product, reads the specific specs (e.g., AirGen foam density), and uses those facts in the draft.
+*   **Implementation:** Maps the target keyword to the correct product, reads the specific specs (e.g., AirGen feel), and uses those facts in the draft.
 
 ### 4. The SEO Architect (Agent 4: Semantic Optimizer)
 *   **Role:** Weaves secondary/LSI keywords into the draft without altering the core meaning.

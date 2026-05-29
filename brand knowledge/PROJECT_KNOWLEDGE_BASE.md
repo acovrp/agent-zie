@@ -84,10 +84,10 @@ Each agent's system prompt is defined in `sleepycat_seo_agent.py`. This section 
 | Version | Date | Change |
 |---------|------|--------|
 | v6.2 | May 2026 | **(Claude) RLHF Two-Field Memory.** `agent_memory.json` now stores `type: positive/negative`. History tab replaced with two-field feedback form. All 5 agents inject both "WHAT WORKED WELL" and "PAST FEEDBACK TO AVOID". Fixed product DB regression (reverted to `product_catalog.json`). Fixed Claude model names (`claude-sonnet-4-6`). |
-| v6.1.1 | May 2026 | **Unified Aligned Build.** Merged Claude's v5.9 deep-content prompts. Restored Enterprise Cloud Sync, Knowledge Vault, and Admin controls. |
+| v6.1.1 | May 2026 | **Unified Aligned Busupport.** Merged Claude's v5.9 deep-content prompts. Restored Enterprise Cloud Sync, Knowledge Vault, and Admin controls. |
 | v5.9 | May 2026 | (Claude Suggestion) Rewrote all 5 agent system prompts. Strategist now produces structured brief. Drafter outputs 1000-1500 words using Brand Final Formula. SEO Architect no longer shortens content — adds AEO snippet at top instead. |
 | v5.8 | May 2026 | (Gemini CLI) Ultra-Performance overhaul. Reduced generation time to <2 mins. |
 | v5.0 | May 2026 | Google OAuth, Streamlit Cloud hosting, @sleepycat.in domain restriction |
 
 ---
-*Unified v6.2 Build - May 2026*
+*Unified v6.2 Busupport - May 2026*

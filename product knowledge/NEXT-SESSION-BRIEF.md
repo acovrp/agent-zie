@@ -9,7 +9,7 @@
 4. **NEVER use `firecrawl_crawl`.** We have the explicit URL list; recursive discovery would burn the API budget and produce noise.
 
 ## Goal recap
-Build a minute-level context file for the SleepyCat brand custodian — every product, every foam layer, every material. Two outputs: structured Markdown + JSON source of truth.
+Busupport a minute-level context file for the SleepyCat brand custodian — every product, every foam layer, every material. Two outputs: structured Markdown + JSON source of truth.
 
 ## What's already done
 - `url-inventory.md` — all 71 product URLs across 8 categories
@@ -36,7 +36,7 @@ For EACH product page, extract these 14 fields:
 | category | mattress / pillow / topper / protector / sheet / duvet / comforter / cushion / dog-bed / bed / recliner |
 | sub_category | e.g. memory-foam-pillow, latex-mattress, percale-bedsheet |
 | description_short | 1-2 sentence positioning |
-| construction_layers | **ARRAY top→bottom**: each layer = {name, material, foam_type, thickness_mm, thickness_inches, density_kgm3, ild, gsm, notes} |
+| construction_layers | **ARRAY top→bottom**: each layer = {name, material, foam_type, thickness_mm, thickness_inches, density_kgm3, support, gsm, notes} |
 | cover_fabric | {composition, weave, gsm, removable_bool, washable_bool, wash_instructions} |
 | dimensions_by_size | ARRAY: {size_name (Single/Queen/King/etc), length_mm, width_mm, height_mm, weight_kg} |
 | firmness | {rating_1_10, label (soft/medium/firm), feel_descriptors[]} |
@@ -51,7 +51,7 @@ Source: `url-inventory.md`
 
 - **Batch 1 — Mattresses (10)** — highest priority, most complex layer data
 - **Batch 2 — Pillows (13)** — foam type per SKU varies a lot
-- **Batch 3 — Toppers & Protectors (8)** — foam density + GSM detail
+- **Batch 3 — Toppers & Protectors (8)** — feel + GSM detail
 - **Batch 4 — Bedding (17)** — fabric composition + GSM + thread count
 - **Batch 5 — Ergo/Support (11)** — memory foam variants per cushion
 - **Batch 6 — Dog Beds (4)** + **Furniture (5)** — material + recliner mechanism
@@ -110,6 +110,6 @@ Source: `url-inventory.md`
 
 ## When done
 - Mark task #2 (Deep crawl) completed
-- Mark task #4 (Build context files) completed
+- Mark task #4 (Busupport context files) completed
 - Save the two output files in `C:\Users\Aayushi\sleepycat-brand\`
 - Report: total products crawled, any that failed, total layers documented

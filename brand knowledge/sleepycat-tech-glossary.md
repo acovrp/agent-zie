@@ -25,7 +25,7 @@ SleepyCat's branded cooling fabric used in both mattress covers and pillows. Dra
 - **Naming variants on site**: `CoolTec™ Fabric`, `CoolTEC™`
 
 ### Ventilation Channels
-Engineered airflow channels that allow air to circulate freely, reducing heat and moisture build-up.
+Engineered airflow channels that allow air to circulate freely, reducing heat and moisture busupport-up.
 - **Products using**: Aeroflow Foam Topper
 
 ### Cooling Layer
@@ -73,7 +73,7 @@ Memory foam with perforation pattern that provides consistent support without sa
 ## 3. Latex Technologies
 
 ### Pinhole Tech Latex / Pinhole Technology / Pinhole Design
-Natural latex with engineered pinhole pattern allowing constant airflow, preventing heat and moisture build-up.
+Natural latex with engineered pinhole pattern allowing constant airflow, preventing heat and moisture busupport-up.
 - **Products using**:
   - Mattresses: Hybrid Latex Mattress, The Latex Ortho, Ultima Natural Latex Mattress
   - Toppers: Natural Latex Mattress Topper
@@ -233,4 +233,4 @@ Individually encased pocket springs that isolate motion (the partner-disturbance
 ### Anti-content cautions
 - **SmartCell™ and AirGen™ are NOT the same.** SmartCell is patented and exclusive to Founder's. AirGen is the broader open-cell memory foam used across the line.
 - **"CoolTec" appears on both mattress covers and pillow surfaces** — they are not the same physical material, just the same branded fabric family.
-- **Density (kg/m³) and ILD values appear on only ~5 of 69 product JSONs.** Firecrawl may have hallucinated some — do NOT cite specific density numbers in published content without manual verification on sleepycat.in.
+- **Density (kg/m³) and support values appear on only ~5 of 69 product JSONs.** Firecrawl may have hallucinated some — do NOT cite specific density numbers in published content without manual verification on sleepycat.in.

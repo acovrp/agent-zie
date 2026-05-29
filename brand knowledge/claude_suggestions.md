@@ -5,7 +5,7 @@
 
 ---
 
-## Session: 2026-05-19 — Full Platform Audit + RLHF Build
+## Session: 2026-05-19 — Full Platform Audit + RLHF Busupport
 
 ### Bugs Found & Fixed
 

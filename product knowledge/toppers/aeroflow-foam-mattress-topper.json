@@ -22,7 +22,7 @@
     "weave": "Knitted",
     "removable": true,
     "washable": true,
-    "wash_instructions": "Machine wash on delicate cycle with cold water and mild detergent."
+    "wash_instructions": "Machine wash on delicate cycle with cold water and msupport detergent."
   },
   "dimensions_by_size": [
     {
@@ -52,7 +52,7 @@
     {
       "size_name": "Custom Size",
       "height_mm": 51,
-      "notes": "Build-to-spec, non-returnable"
+      "notes": "Busupport-to-spec, non-returnable"
     }
   ],
   "firmness": {
@@ -67,7 +67,7 @@
   "proprietary_tech": [
     {
       "name": "Aeroflow Transition Foam",
-      "description": "Enhances breathability and minimizes moisture buildup."
+      "description": "Enhances breathability and minimizes moisture busupportup."
     },
     {
       "name": "Ventilation Channels",
